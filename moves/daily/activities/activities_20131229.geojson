@@ -1,0 +1,48 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -88.3093516593, 41.8725062162 ], [ -88.3093410626, 41.8820362663 ], [ -88.3092631281, 41.8823464589 ], [ -88.3091583125, 41.8828752148 ], [ -88.3087921143, 41.8829696316 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20131229T132939-0500",
+      "endTime" : "20131229T133200-0500",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20131229T132939-0500",
+        "endTime" : "20131229T133200-0500",
+        "duration" : 141.0,
+        "distance" : 1305.0
+      } ],
+      "lastUpdate" : "20131229T200215Z",
+      "date" : "20131229"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -88.3087921143, 41.8829696316 ], [ -88.3079701865, 41.8830022556 ], [ -88.3078891559, 41.8829294799 ], [ -88.3073925186, 41.8817023319 ], [ -88.3111773419, 41.8771046037 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20131229T145156-0500",
+      "endTime" : "20131229T145504-0500",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20131229T145156-0500",
+        "endTime" : "20131229T145505-0500",
+        "duration" : 189.0,
+        "distance" : 903.0
+      } ],
+      "lastUpdate" : "20131229T213407Z",
+      "date" : "20131229"
+    }
+  } ]
+}
