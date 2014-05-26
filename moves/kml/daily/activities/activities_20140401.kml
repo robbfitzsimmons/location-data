@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_transport">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[4/1/14]]></name>
+      <Placemark id="1396372871000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>4/1/14<br/> 1:21 PM to 1:32 PM<br/> 11 min, 6 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-01T13:21:11-04:00</begin>
+          <end>2014-04-01T13:32:44-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.311048021,41.8771070061 -88.3105191793,41.8792195354 -88.305282276,41.8870644081 -88.3050644885,41.8873636708 -88.3047888611,41.8874853141 -88.29987273,41.8868482273 -88.2956998315,41.8863686821 -88.2908308879,41.8871299587 -88.2864382205,41.8879290531 -88.282196874,41.8871387315 -88.2790887259,41.8865450354 -88.2784963941,41.8861341399 -88.2745665628,41.8854083307 -88.2711167692,41.8846106193 -88.2679260506,41.8840289368 -88.2633206865,41.9024644099 -88.2623888411,41.9056394068 -88.2625065349,41.9082333478 -88.2625197155,41.9123769728 -88.2621950804,41.9157977668 -88.2655001816,41.9194220108 -88.2656835626,41.9205889688</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1396375671000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>4/1/14<br/> 2:07 PM to 2:20 PM<br/> 12 min, 5.9 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-01T14:07:51-04:00</begin>
+          <end>2014-04-01T14:20:38-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.2656835626,41.9205889688 -88.2652024591,41.9192588163 -88.2640389085,41.9188217421 -88.2627587358,41.9146846331 -88.2629415396,41.9120881121 -88.262523381,41.9080001629 -88.2624908206,41.9053404739 -88.2624531884,41.9006877219 -88.2700795268,41.8844168561 -88.27395131,41.8853926609 -88.2767396664,41.8860835099 -88.2767516863,41.8861179621 -88.2768742908,41.8861823206 -88.2788245515,41.8865301664 -88.2828961695,41.8872954408 -88.2896923823,41.8874698521 -88.2948710938,41.8864253287 -88.2990499686,41.8867607409 -88.302747809,41.8872490424 -88.3050184852,41.8875640248 -88.3053213425,41.8868346317 -88.3061577018,41.8832288608 -88.3071779244,41.8813746713 -88.3103948939,41.8793379081 -88.3113333171,41.8772394049 -88.311048021,41.8771070061</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="activity_transport">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[3/2/14]]></name>
+      <Placemark id="1393736400000">
+        <name><![CDATA[Place in Glover Park]]></name>
+        <description><![CDATA[<p>3/2/14<br/> 12:00 AM to 4:09 PM<br/> 16:09 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-03-02T00:00:01-05:00</begin>
+          <end>2014-03-02T16:09:07-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-77.0772055012,38.9219317032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1393794548000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>3/2/14<br/> 4:09 PM to 4:25 PM<br/> 16 min, 0.8 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-03-02T16:09:08-05:00</begin>
+          <end>2014-03-02T16:25:48-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0772055012,38.9219317032 -77.0675897598,38.9156798076</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1393795548000">
+        <name><![CDATA[Safeway]]></name>
+        <atom:link href="http://foursquare.com/venue/4bb614dc2f70c9b656d68430"/>
+        <description><![CDATA[<p>3/2/14<br/> 4:25 PM to 4:49 PM<br/> 23 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4bb614dc2f70c9b656d68430">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-03-02T16:25:49-05:00</begin>
+          <end>2014-03-02T16:49:14-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-77.06758975982666,38.91567980755536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1393796955000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>3/2/14<br/> 4:49 PM to 4:55 PM<br/> 6 min, 0.6 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-03-02T16:49:15-05:00</begin>
+          <end>2014-03-02T16:55:24-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0675897598,38.9156798076 -77.0703078736,38.9187501858 -77.0701227587,38.9189038694 -77.0706196523,38.9192275164 -77.0710269069,38.9198407963 -77.0727975533,38.9224417131</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1393797325000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>3/2/14<br/> 4:55 PM to 5:01 PM<br/> 5 min, 0.3 mi, 647 steps, 29 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-03-02T16:55:25-05:00</begin>
+          <end>2014-03-02T17:01:19-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0727975533,38.9224417131 -77.0731092462,38.9224140597 -77.0734326941,38.9224208156 -77.0747900604,38.9224470801 -77.0754599241,38.9224635542 -77.0761779281,38.9224239666 -77.0764138734,38.9224363278 -77.0766636126,38.9224583745 -77.0766637676,38.9224583882 -77.0768028902,38.9224706698 -77.0768128422,38.9224699942</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

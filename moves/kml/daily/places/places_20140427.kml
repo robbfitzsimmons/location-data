@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Monument / Landmark">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Diner">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Winery">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/winery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_University">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Airport">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/airport.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Burger Joint">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/burger.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[4/27/14]]></name>
+      <Placemark id="1398571801000">
+        <name><![CDATA[San Francisco International Airport (SFO)]]></name>
+        <atom:link href="http://foursquare.com/venue/41059b00f964a520850b1fe3"/>
+        <description><![CDATA[<p>4/27/14<br/> 12:10 AM to 12:26 AM<br/> 16 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/41059b00f964a520850b1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T00:10:02-04:00</begin>
+          <end>2014-04-27T00:26:52-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Airport</styleUrl>
+        <Point>
+          <coordinates>-122.3862791061401,37.61642405271961</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398575302000">
+        <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
+        <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
+        <description><![CDATA[<p>4/27/14<br/> 1:08 AM to 11:04 AM<br/> 9:56 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T01:08:23-04:00</begin>
+          <end>2014-04-27T11:04:32-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-122.0274591675424,37.39623913829737</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398611586000">
+        <name><![CDATA[Place in Sunnyvale]]></name>
+        <description><![CDATA[<p>4/27/14<br/> 11:13 AM to 11:18 AM<br/> 5 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T11:13:07-04:00</begin>
+          <end>2014-04-27T11:18:57-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-122.0299594399,37.3923919234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398612493000">
+        <name><![CDATA[Denny's]]></name>
+        <atom:link href="http://foursquare.com/venue/4b4f1820f964a52027fa26e3"/>
+        <description><![CDATA[<p>4/27/14<br/> 11:28 AM to 12:39 PM<br/> 1:11 hours</p> <p>Diner<br/> <a href="http://foursquare.com/venue/4b4f1820f964a52027fa26e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T11:28:14-04:00</begin>
+          <end>2014-04-27T12:39:49-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Diner</styleUrl>
+        <Point>
+          <coordinates>-122.0278810342598,37.39608699705354</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398619139000">
+        <name><![CDATA[Stanford University]]></name>
+        <atom:link href="http://foursquare.com/venue/4a983497f964a520f02a20e3"/>
+        <description><![CDATA[<p>4/27/14<br/> 1:18 PM to 1:29 PM<br/> 10 min</p> <p>University<br/> <a href="http://foursquare.com/venue/4a983497f964a520f02a20e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T13:19:00-04:00</begin>
+          <end>2014-04-27T13:29:54-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_University</styleUrl>
+        <Point>
+          <coordinates>-122.1698141098022,37.42893313778773</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398621347000">
+        <name><![CDATA[Place in Stanford]]></name>
+        <description><![CDATA[<p>4/27/14<br/> 1:55 PM to 1:59 PM<br/> 3 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T13:55:48-04:00</begin>
+          <end>2014-04-27T13:59:17-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-122.170826355,37.4241936853</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398626548000">
+        <name><![CDATA[Christina and Thompson Nguyen's House]]></name>
+        <description><![CDATA[<p>4/27/14<br/> 3:22 PM to 3:44 PM<br/> 21 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T15:22:29-04:00</begin>
+          <end>2014-04-27T15:44:03-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-122.3915585347,37.7890276868</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398628603000">
+        <name><![CDATA[Ferry Building]]></name>
+        <atom:link href="http://foursquare.com/venue/43067280f964a52023271fe3"/>
+        <description><![CDATA[<p>4/27/14<br/> 3:56 PM to 4:13 PM<br/> 16 min</p> <p>Monument / Landmark<br/> <a href="http://foursquare.com/venue/43067280f964a52023271fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T15:56:44-04:00</begin>
+          <end>2014-04-27T16:13:16-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Monument / Landmark</styleUrl>
+        <Point>
+          <coordinates>-122.3936283588409,37.795427908882</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398632952000">
+        <name><![CDATA[In-N-Out Burger]]></name>
+        <atom:link href="http://foursquare.com/venue/43fed5a9f964a52004301fe3"/>
+        <description><![CDATA[<p>4/27/14<br/> 5:09 PM to 5:38 PM<br/> 29 min</p> <p>Burger Joint<br/> <a href="http://foursquare.com/venue/43fed5a9f964a52004301fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T17:09:13-04:00</begin>
+          <end>2014-04-27T17:38:47-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Burger Joint</styleUrl>
+        <Point>
+          <coordinates>-122.5155428051949,37.89656642953388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398638319000">
+        <name><![CDATA[Folie à Deux Winery]]></name>
+        <atom:link href="http://foursquare.com/venue/4bca11fd68f976b0738e5e83"/>
+        <description><![CDATA[<p>4/27/14<br/> 6:38 PM to 8:15 PM<br/> 1:36 hours</p> <p>Winery<br/> <a href="http://foursquare.com/venue/4bca11fd68f976b0738e5e83">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T18:38:40-04:00</begin>
+          <end>2014-04-27T20:15:13-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Winery</styleUrl>
+        <Point>
+          <coordinates>-122.3900020122528,38.42254548224498</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398645646000">
+        <name><![CDATA[Orin Swift Cellars]]></name>
+        <atom:link href="http://foursquare.com/venue/4b6ca6d5f964a5208c492ce3"/>
+        <description><![CDATA[<p>4/27/14<br/> 8:40 PM to 9:10 PM<br/> 29 min</p> <p>Winery<br/> <a href="http://foursquare.com/venue/4b6ca6d5f964a5208c492ce3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T20:40:47-04:00</begin>
+          <end>2014-04-27T21:10:33-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Winery</styleUrl>
+        <Point>
+          <coordinates>-122.469388101944,38.50460958286393</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398655604000">
+        <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
+        <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
+        <description><![CDATA[<p>4/27/14<br/> 11:26 PM to 12:00 AM<br/> 33 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-27T23:26:45-04:00</begin>
+          <end>2014-04-27T23:59:59-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-122.0274591675424,37.39623913829737</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

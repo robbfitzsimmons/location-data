@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Pub">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/nightlife/pub.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Sandwich Place">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/sandwiches.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Academic Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Print Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[5/17/14]]></name>
+      <Placemark id="1400299200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 12:00 AM to 1:48 PM<br/> 13:48 hours</p> <p>Walking 14 min, 0.4 mi, 982 steps, 47 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T00:00:01-04:00</begin>
+          <end>2014-05-17T13:48:57-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400348938000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 1:48 PM to 1:59 PM<br/> 10 min, 0.4 mi, 1,054 steps, 45 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T13:48:58-04:00</begin>
+          <end>2014-05-17T13:59:46-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1114458017,42.3754311174 -71.1113136521,42.3752042699 -71.111317684,42.3752056559 -71.1114380223,42.3751929289 -71.1122614637,42.3752330514 -71.1126594803,42.3753019217 -71.113014382,42.3753145257 -71.113395831,42.3752876398 -71.1138777216,42.375435722 -71.1141376309,42.3755019409 -71.1143234213,42.375337201 -71.1143628477,42.3749165687 -71.1143622781,42.3748809793 -71.1143574575,42.3747777302 -71.1144405814,42.3746442156 -71.1146085092,42.3743606877 -71.1150458256,42.3741872283 -71.1154852814,42.3739772745 -71.1161769356,42.3739143639 -71.1165046088,42.3739082897 -71.1166794432,42.3737865396 -71.1169695975,42.3736356036 -71.1173058895,42.3735208074</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400349586000">
+        <name><![CDATA[Place in Old Cambridge]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 1:59 PM to 2:06 PM<br/> 6 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T13:59:47-04:00</begin>
+          <end>2014-05-17T14:06:07-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.1173058895,42.3735208074</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400349968000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 2:06 PM to 2:16 PM<br/> 10 min, 0.4 mi, 1,112 steps, 43 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:06:08-04:00</begin>
+          <end>2014-05-17T14:16:24-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1173058895,42.3735208074 -71.1175514586,42.3734246426 -71.1176861089,42.3731893662 -71.1178534291,42.3731783947 -71.1178980173,42.3731229887 -71.1181038082,42.3730698665 -71.1183638071,42.3731722765 -71.1186072474,42.3733217453 -71.1191034656,42.3734408011 -71.1195261779,42.373354184 -71.1196488827,42.3733116962 -71.1197071078,42.3732383747 -71.1198515039,42.3730669362 -71.1200771029,42.372874761 -71.1201343943,42.3726721398 -71.1203680207,42.3725544537 -71.1204953877,42.3723739728 -71.1209001432,42.3723852246 -71.1213656192,42.3725294435 -71.1215011241,42.3726153352 -71.1216474657,42.3726934682 -71.1218079005,42.3727980243 -71.1220623241,42.3729602385 -71.1222923884,42.3732121494 -71.1227244702,42.3733975835 -71.1229733561,42.3733802353 -71.1232522528,42.3731759201</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400350584000">
+        <name><![CDATA[FedEx Office Print & Ship Center]]></name>
+        <atom:link href="http://foursquare.com/venue/4a872e01f964a520150320e3"/>
+        <description><![CDATA[<p>5/17/14<br/> 2:16 PM to 2:27 PM<br/> 10 min</p> <p>Print Shop<br/> <a href="http://foursquare.com/venue/4a872e01f964a520150320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:16:25-04:00</begin>
+          <end>2014-05-17T14:27:09-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Print Shop</styleUrl>
+        <Point>
+          <coordinates>-71.122612,42.373474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400351230000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 2:27 PM to 2:45 PM<br/> 18 min, 0.9 mi, 2,210 steps, 95 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:27:10-04:00</begin>
+          <end>2014-05-17T14:45:21-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1232522528,42.3731759201 -71.1225460781,42.3732270718 -71.1223023629,42.3730850338 -71.1220780555,42.3730063676 -71.1217868692,42.372951407 -71.1215293893,42.372914736 -71.1215629624,42.3728478455 -71.1214485879,42.3726784463 -71.1212902129,42.372539983 -71.1208700505,42.3724865699 -71.1206422986,42.3724179233 -71.1205255287,42.3724314325 -71.1204027201,42.3725425094 -71.1202184507,42.3727050567 -71.1199692322,42.3729436313 -71.119815154,42.3731232804 -71.1196777657,42.3733508012 -71.119341756,42.3734471845 -71.1193801811,42.3734916032 -71.1193215799,42.3736207755 -71.1189870574,42.3737411024 -71.1186019384,42.3738329256 -71.1179873562,42.3739803509 -71.1176134125,42.3743046017 -71.1172870187,42.374475689 -71.1169407411,42.3743727921 -71.1167313451,42.3742544788 -71.1164868637,42.3740566488 -71.1159938122,42.3739387164 -71.1155928315,42.3740616137 -71.1152488622,42.3741037931 -71.1150270469,42.3742916607 -71.1146999066,42.3744552248 -71.1145246446,42.3746699323 -71.1142458699,42.3746176674 -71.1138364136,42.3742956254 -71.1135515523,42.3741924727 -71.1129965419,42.3741502291 -71.1125670652,42.3741200697 -71.1123887555,42.3739537411 -71.1121235312,42.3738039665 -71.1117904409,42.3738015414 -71.1115440085,42.3739753795 -71.1111808345,42.3743607426 -71.1109077488,42.3747643503 -71.1107435216,42.3749006867 -71.1104395993,42.3749291764 -71.1101297979,42.3749128113 -71.1098920023,42.374887586 -71.109389,42.37488104</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400352322000">
+        <name><![CDATA[Darwin's Ltd.]]></name>
+        <atom:link href="http://foursquare.com/venue/4a1c900cf964a520507b1fe3"/>
+        <description><![CDATA[<p>5/17/14<br/> 2:45 PM to 2:53 PM<br/> 8 min</p> <p>Sandwich Place<br/> <a href="http://foursquare.com/venue/4a1c900cf964a520507b1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:45:23-04:00</begin>
+          <end>2014-05-17T14:53:51-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Sandwich Place</styleUrl>
+        <Point>
+          <coordinates>-71.109389,42.37488104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400352832000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 2:53 PM to 2:57 PM<br/> 3 min, 0.1 mi, 305 steps, 14 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:53:52-04:00</begin>
+          <end>2014-05-17T14:57:30-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.109389,42.37488104 -71.109628255,42.3749946799 -71.1108942555,42.3751278071 -71.1111361165,42.3751570785 -71.1112787335,42.3751989036 -71.1112631832,42.3752147017 -71.1114458017,42.3754311174</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400353050000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 2:57 PM to 3:49 PM<br/> 51 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T14:57:31-04:00</begin>
+          <end>2014-05-17T15:49:05-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400356146000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 3:49 PM to 3:56 PM<br/> 7 min, 0.3 mi, 670 steps, 31 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T15:49:06-04:00</begin>
+          <end>2014-05-17T15:56:30-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1114458017,42.3754311174 -71.1113335251,42.3752088369 -71.1114378374,42.3752194706 -71.1122462929,42.3752797904 -71.1124855093,42.3753715684 -71.1126332649,42.3755692165 -71.1129059442,42.3756007402 -71.1135612711,42.3755133493 -71.1139746171,42.3754688205 -71.114587624,42.3755088375 -71.1150723177,42.3755214402 -71.1153561932,42.3755433552 -71.1156708901,42.3756787827 -71.1156373332,42.3757862457 -71.1153113416,42.3758890805 -71.115435,42.375886</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400356590000">
+        <name><![CDATA[Harvard Memorial Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4abe2f51f964a520e08b20e3"/>
+        <description><![CDATA[<p>5/17/14<br/> 3:56 PM to 4:01 PM<br/> 4 min</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4abe2f51f964a520e08b20e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T15:56:31-04:00</begin>
+          <end>2014-05-17T16:01:16-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.11487910771201,42.37585927254782</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400356877000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 4:01 PM to 4:05 PM<br/> 4 min, 0.2 mi, 471 steps, 24 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T16:01:17-04:00</begin>
+          <end>2014-05-17T16:05:31-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.115435,42.375886 -71.1147825562,42.3756034484 -71.1146995241,42.3756037335 -71.1142910153,42.3756188674 -71.1138302558,42.3755013947 -71.113473255,42.375479254 -71.1132344562,42.3754043073 -71.1126707778,42.3752545212 -71.1123970239,42.3753142531 -71.1122149345,42.375312446 -71.1118238532,42.3752708958 -71.1114458017,42.3754311174</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400357131000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 4:05 PM to 8:38 PM<br/> 4:33 hours</p> <p>Walking 4 min, 0.1 mi, 332 steps, 13 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T16:05:32-04:00</begin>
+          <end>2014-05-17T20:38:57-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1400373538000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>5/17/14<br/> 8:38 PM to 8:54 PM<br/> 15 min, 0.6 mi, 1,406 steps, 62 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T20:38:58-04:00</begin>
+          <end>2014-05-17T20:54:34-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1114458017,42.3754311174 -71.1112652625,42.375133072 -71.1112544979,42.3751397309 -71.111246798,42.3751434115 -71.1112293226,42.3751556167 -71.1112249545,42.3751649684 -71.1112178927,42.375162131 -71.1112045311,42.3751667464 -71.1111794468,42.3751454121 -71.1110863154,42.3750489611 -71.1110572767,42.3749219274 -71.1109444031,42.3748008649 -71.1108873063,42.3747292585 -71.111041648,42.3743437186 -71.111155193,42.3741310082 -71.1113237099,42.3739661786 -71.1115747205,42.3737844955 -71.1119112195,42.3737523646 -71.1120761687,42.3738173037 -71.1122180734,42.37400874 -71.1122792223,42.3741026412 -71.112574944,42.3735555308 -71.1126745398,42.3731785797 -71.112865791,42.3729688675 -71.1130189061,42.3727302072 -71.1132207915,42.3723550876 -71.113350018,42.3722001992 -71.1134032519,42.3720869059 -71.1135610744,42.3720545184 -71.1137628056,42.3720553416 -71.1139546745,42.3720617019 -71.114242853,42.3720325475 -71.1145592906,42.3716498532 -71.1144179979,42.3713956293 -71.1144108844,42.3712112801 -71.114570771,42.3711763302 -71.1147273854,42.371199911 -71.1151598038,42.3712721401 -71.1154281831,42.3711919492 -71.1155773825,42.3710615423 -71.115700007,42.3710202905 -71.1160710157,42.3711355774 -71.1165517074,42.3712954275 -71.1167078172,42.3712426984 -71.1168339371,42.3713712181</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1400374474000">
+        <name><![CDATA[The Boathouse]]></name>
+        <atom:link href="http://foursquare.com/venue/50620ab3e4b0100721c85f46"/>
+        <description><![CDATA[<p>5/17/14<br/> 8:54 PM to 12:00 AM<br/> 3:05 hours</p> <p>Pub<br/> <a href="http://foursquare.com/venue/50620ab3e4b0100721c85f46">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-05-17T20:54:35-04:00</begin>
+          <end>2014-05-17T23:59:59-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Pub</styleUrl>
+        <Point>
+          <coordinates>-71.11674755856328,42.37140413215364</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

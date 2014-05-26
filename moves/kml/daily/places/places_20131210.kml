@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[12/10/13]]></name>
+      <Placemark id="1386651600000">
+        <name><![CDATA[Back Bay Social Club]]></name>
+        <atom:link href="http://foursquare.com/venue/4c4e2095fb742d7f9bcace2d"/>
+        <description><![CDATA[<p>12/10/13<br/> 12:00 AM to 12:03 AM<br/> 3 min</p> <p> <a href="http://foursquare.com/venue/4c4e2095fb742d7f9bcace2d">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2013-12-10T00:00:01-05:00</begin>
+          <end>2013-12-10T00:03:06-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_foursquare</styleUrl>
+        <Point>
+          <coordinates>-71.08320116409787,42.34839803194278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1386652894000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/10/13<br/> 12:21 AM to 7:56 PM<br/> 19:34 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2013-12-10T00:21:35-05:00</begin>
+          <end>2013-12-10T19:56:14-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1386723721000">
+        <name><![CDATA[Broadway Marketplace]]></name>
+        <atom:link href="http://foursquare.com/venue/4a661612f964a520ffc71fe3"/>
+        <description><![CDATA[<p>12/10/13<br/> 8:02 PM to 8:15 PM<br/> 13 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a661612f964a520ffc71fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2013-12-10T20:02:02-05:00</begin>
+          <end>2013-12-10T20:15:23-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.11300484548056,42.37405171427381</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1386724970000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/10/13<br/> 8:22 PM to 11:23 PM<br/> 3:00 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2013-12-10T20:22:51-05:00</begin>
+          <end>2013-12-10T23:23:41-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
