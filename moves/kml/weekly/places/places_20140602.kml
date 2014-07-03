@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_Mexican Restaurant">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/mexican.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Garden">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/parks_outdoors/garden.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Pub">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/nightlife/pub.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Coffee Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/coffeeshop.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Mall">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Academic Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Tech Startup">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/technology.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Dessert Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/dessert.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_University">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Bar">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/nightlife/bar.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Bus Station">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/busstation.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Burger Joint">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/burger.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[6/2/14]]></name>
+      <Placemark id="1401685200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/2/14<br/> 12:00 AM to 8:15 AM<br/> 8:15 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T00:00:01-05:00</begin>
+          <end>2014-06-02T08:15:33-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401715177000">
+        <name><![CDATA[Starbucks]]></name>
+        <atom:link href="http://foursquare.com/venue/4a5a3eb5f964a520f9b91fe3"/>
+        <description><![CDATA[<p>6/2/14<br/> 8:19 AM to 8:27 AM<br/> 7 min</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4a5a3eb5f964a520f9b91fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T08:19:38-05:00</begin>
+          <end>2014-06-02T08:27:33-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Coffee Shop</styleUrl>
+        <Point>
+          <coordinates>-71.11295,42.373886</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401716381000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/2/14<br/> 8:39 AM to 9:42 AM<br/> 1:02 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T08:39:42-05:00</begin>
+          <end>2014-06-02T09:42:36-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401720341000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/2/14<br/> 9:45 AM to 12:01 PM<br/> 2:16 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T09:45:42-05:00</begin>
+          <end>2014-06-02T12:01:41-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401729134000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/2/14<br/> 12:12 PM to 5:21 PM<br/> 5:09 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T12:12:15-05:00</begin>
+          <end>2014-06-02T17:21:44-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401749478000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/2/14<br/> 5:51 PM to 12:00 AM<br/> 6:08 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-02T17:51:19-05:00</begin>
+          <end>2014-06-02T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/3/14]]></name>
+      <Placemark id="1401771600000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/3/14<br/> 12:00 AM to 8:32 AM<br/> 8:32 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T00:00:01-05:00</begin>
+          <end>2014-06-03T08:31:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401802635000">
+        <name><![CDATA[Starbucks]]></name>
+        <atom:link href="http://foursquare.com/venue/4a5a3eb5f964a520f9b91fe3"/>
+        <description><![CDATA[<p>6/3/14<br/> 8:37 AM to 8:41 AM<br/> 4 min</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4a5a3eb5f964a520f9b91fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T08:37:16-05:00</begin>
+          <end>2014-06-03T08:41:39-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Coffee Shop</styleUrl>
+        <Point>
+          <coordinates>-71.11295,42.373886</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401803536000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/3/14<br/> 8:52 AM to 11:12 AM<br/> 2:20 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T08:52:17-05:00</begin>
+          <end>2014-06-03T11:12:47-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401812577000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/3/14<br/> 11:22 AM to 12:35 PM<br/> 1:12 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T11:22:58-05:00</begin>
+          <end>2014-06-03T12:35:30-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401817738000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/3/14<br/> 12:48 PM to 2:42 PM<br/> 1:53 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T12:48:59-05:00</begin>
+          <end>2014-06-03T14:42:01-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401825308000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/3/14<br/> 2:55 PM to 3:14 PM<br/> 19 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T14:55:09-05:00</begin>
+          <end>2014-06-03T15:14:32-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401827086000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/3/14<br/> 3:24 PM to 6:41 PM<br/> 3:16 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T15:24:47-05:00</begin>
+          <end>2014-06-03T18:41:31-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401839634000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/3/14<br/> 6:53 PM to 12:00 AM<br/> 5:06 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-03T18:53:55-05:00</begin>
+          <end>2014-06-03T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/4/14]]></name>
+      <Placemark id="1401858000000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/4/14<br/> 12:00 AM to 8:22 AM<br/> 8:22 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T00:00:01-05:00</begin>
+          <end>2014-06-04T08:22:57-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401888390000">
+        <name><![CDATA[Broadway Marketplace]]></name>
+        <atom:link href="http://foursquare.com/venue/4a661612f964a520ffc71fe3"/>
+        <description><![CDATA[<p>6/4/14<br/> 8:26 AM to 8:35 AM<br/> 9 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a661612f964a520ffc71fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T08:26:31-05:00</begin>
+          <end>2014-06-04T08:35:33-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.11300484548056,42.37405171427381</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401890306000">
+        <name><![CDATA[FSG Social Impact Advisors]]></name>
+        <description><![CDATA[<p>6/4/14<br/> 8:58 AM to 10:13 AM<br/> 1:14 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T08:58:27-05:00</begin>
+          <end>2014-06-04T10:12:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_work</styleUrl>
+        <Point>
+          <coordinates>-71.0745465106,42.3506068376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401897728000">
+        <name><![CDATA[Cambridge Innovation Center]]></name>
+        <atom:link href="http://foursquare.com/venue/4a36cd32f964a520e99d1fe3"/>
+        <description><![CDATA[<p>6/4/14<br/> 11:02 AM to 12:23 PM<br/> 1:21 hours</p> <p>Building<br/> <a href="http://foursquare.com/venue/4a36cd32f964a520e99d1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T11:02:09-05:00</begin>
+          <end>2014-06-04T12:23:13-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Building</styleUrl>
+        <Point>
+          <coordinates>-71.08413546391985,42.36276679726148</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401903761000">
+        <name><![CDATA[Border Cafe]]></name>
+        <atom:link href="http://foursquare.com/venue/3fd66200f964a520bded1ee3"/>
+        <description><![CDATA[<p>6/4/14<br/> 12:42 PM to 1:22 PM<br/> 39 min</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/3fd66200f964a520bded1ee3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T12:42:42-05:00</begin>
+          <end>2014-06-04T13:21:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mexican Restaurant</styleUrl>
+        <Point>
+          <coordinates>-71.120141,42.3743468</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401906571000">
+        <name><![CDATA[Maxwell Dworkin]]></name>
+        <atom:link href="http://foursquare.com/venue/4a6ea6f3f964a520ffd41fe3"/>
+        <description><![CDATA[<p>6/4/14<br/> 1:29 PM to 2:14 PM<br/> 45 min</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4a6ea6f3f964a520ffd41fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T13:29:32-05:00</begin>
+          <end>2014-06-04T14:14:42-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.11702608465302,42.37878967029998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401909590000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/4/14<br/> 2:19 PM to 7:27 PM<br/> 5:07 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T14:19:51-05:00</begin>
+          <end>2014-06-04T19:27:23-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401928712000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/4/14<br/> 7:38 PM to 12:00 AM<br/> 4:21 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-04T19:38:33-05:00</begin>
+          <end>2014-06-04T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/5/14]]></name>
+      <Placemark id="1401944400000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/5/14<br/> 12:00 AM to 9:30 AM<br/> 9:30 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T00:00:01-05:00</begin>
+          <end>2014-06-05T09:30:42-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401981616000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/5/14<br/> 10:20 AM to 11:09 AM<br/> 49 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T10:20:17-05:00</begin>
+          <end>2014-06-05T11:09:52-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401986505000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/5/14<br/> 11:41 AM to 12:03 PM<br/> 22 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T11:41:46-05:00</begin>
+          <end>2014-06-05T12:03:47-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1401991015000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/5/14<br/> 12:56 PM to 7:40 PM<br/> 6:43 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T12:56:56-05:00</begin>
+          <end>2014-06-05T19:40:21-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402016148000">
+        <name><![CDATA[Shake Shack]]></name>
+        <atom:link href="http://foursquare.com/venue/52b9c0cb498eaffe14f7e162"/>
+        <description><![CDATA[<p>6/5/14<br/> 7:55 PM to 8:05 PM<br/> 9 min</p> <p>Burger Joint<br/> <a href="http://foursquare.com/venue/52b9c0cb498eaffe14f7e162">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T19:55:49-05:00</begin>
+          <end>2014-06-05T20:05:16-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Burger Joint</styleUrl>
+        <Point>
+          <coordinates>-71.12084999619532,42.37224129812891</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402017686000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/5/14<br/> 8:21 PM to 12:00 AM<br/> 3:38 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-05T20:21:27-05:00</begin>
+          <end>2014-06-05T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/6/14]]></name>
+      <Placemark id="1402030800000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/6/14<br/> 12:00 AM to 9:43 AM<br/> 9:43 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T00:00:01-05:00</begin>
+          <end>2014-06-06T09:43:39-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402066713000">
+        <name><![CDATA[Harvard Alumni Association]]></name>
+        <atom:link href="http://foursquare.com/venue/4b5dc68df964a520026b29e3"/>
+        <description><![CDATA[<p>6/6/14<br/> 9:58 AM to 11:21 AM<br/> 1:23 hours</p> <p>University<br/> <a href="http://foursquare.com/venue/4b5dc68df964a520026b29e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T09:58:34-05:00</begin>
+          <end>2014-06-06T11:21:51-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_University</styleUrl>
+        <Point>
+          <coordinates>-71.12325225275964,42.37317592010315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402072303000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/6/14<br/> 11:31 AM to 1:31 PM<br/> 1:59 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T11:31:44-05:00</begin>
+          <end>2014-06-06T13:31:05-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402080009000">
+        <name><![CDATA[Border Cafe]]></name>
+        <atom:link href="http://foursquare.com/venue/3fd66200f964a520bded1ee3"/>
+        <description><![CDATA[<p>6/6/14<br/> 1:40 PM to 2:41 PM<br/> 1:01 hours</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/3fd66200f964a520bded1ee3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T13:40:10-05:00</begin>
+          <end>2014-06-06T14:41:31-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mexican Restaurant</styleUrl>
+        <Point>
+          <coordinates>-71.120141,42.3743468</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402084245000">
+        <name><![CDATA[Proximate]]></name>
+        <atom:link href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362"/>
+        <description><![CDATA[<p>6/6/14<br/> 2:50 PM to 4:06 PM<br/> 1:16 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/51c8c0d1498e5d4d09a48362">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T14:50:46-05:00</begin>
+          <end>2014-06-06T16:06:51-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.117205,42.378716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402089445000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/6/14<br/> 4:17 PM to 8:46 PM<br/> 4:28 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T16:17:26-05:00</begin>
+          <end>2014-06-06T20:46:09-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402106354000">
+        <name><![CDATA[The Boathouse]]></name>
+        <atom:link href="http://foursquare.com/venue/50620ab3e4b0100721c85f46"/>
+        <description><![CDATA[<p>6/6/14<br/> 8:59 PM to 11:36 PM<br/> 2:37 hours</p> <p>Pub<br/> <a href="http://foursquare.com/venue/50620ab3e4b0100721c85f46">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T20:59:15-05:00</begin>
+          <end>2014-06-06T23:36:40-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Pub</styleUrl>
+        <Point>
+          <coordinates>-71.11674755856328,42.37140413215364</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402116537000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/6/14<br/> 11:48 PM to 12:00 AM<br/> 11 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-06T23:48:58-05:00</begin>
+          <end>2014-06-06T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/7/14]]></name>
+      <Placemark id="1402117200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 12:00 AM to 2:35 PM<br/> 14:35 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T00:00:01-05:00</begin>
+          <end>2014-06-07T14:35:15-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402170528000">
+        <name><![CDATA[Place in Cambridge]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 2:48 PM to 2:53 PM<br/> 4 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T14:48:49-05:00</begin>
+          <end>2014-06-07T14:53:12-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.1010255055,42.3737495369</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402172595000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 3:23 PM to 4:20 PM<br/> 56 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T15:23:16-05:00</begin>
+          <end>2014-06-07T16:20:00-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402176221000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:23 PM to 4:29 PM<br/> 6 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:23:42-05:00</begin>
+          <end>2014-06-07T16:29:57-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402176820000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:33 PM to 4:37 PM<br/> 3 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:33:41-05:00</begin>
+          <end>2014-06-07T16:37:01-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402177421000">
+        <name><![CDATA[Place in East Cambridge]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 4:43 PM to 4:48 PM<br/> 4 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:43:42-05:00</begin>
+          <end>2014-06-07T16:48:06-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.073973276,42.3686810335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402178088000">
+        <name><![CDATA[ArtBar]]></name>
+        <atom:link href="http://foursquare.com/venue/4b3be5b9f964a520e37d25e3"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:54 PM to 5:50 PM<br/> 55 min</p> <p>Bar<br/> <a href="http://foursquare.com/venue/4b3be5b9f964a520e37d25e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:54:49-05:00</begin>
+          <end>2014-06-07T17:50:32-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Bar</styleUrl>
+        <Point>
+          <coordinates>-71.07431173324585,42.36710557273224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402182443000">
+        <name><![CDATA[The Liberty Hotel]]></name>
+        <atom:link href="http://foursquare.com/venue/4a22c63ef964a520877d1fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:07 PM to 6:18 PM<br/> 11 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a22c63ef964a520877d1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:07:24-05:00</begin>
+          <end>2014-06-07T18:18:25-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-71.07024841380209,42.361924841884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402183780000">
+        <name><![CDATA[Boston Public Garden]]></name>
+        <atom:link href="http://foursquare.com/venue/44cf0ff8f964a5201c361fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:29 PM to 6:33 PM<br/> 4 min</p> <p>Garden<br/> <a href="http://foursquare.com/venue/44cf0ff8f964a5201c361fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:29:41-05:00</begin>
+          <end>2014-06-07T18:33:58-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Garden</styleUrl>
+        <Point>
+          <coordinates>-71.06991291046143,42.35411597423369</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402185141000">
+        <name><![CDATA[Max Brenner]]></name>
+        <atom:link href="http://foursquare.com/venue/4d8cc1941716a143144b07f7"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:52 PM to 7:57 PM<br/> 1:05 hours</p> <p>Dessert Shop<br/> <a href="http://foursquare.com/venue/4d8cc1941716a143144b07f7">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:52:22-05:00</begin>
+          <end>2014-06-07T19:57:44-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Dessert Shop</styleUrl>
+        <Point>
+          <coordinates>-71.08100652694702,42.34925954525904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402189338000">
+        <name><![CDATA[Trader Joe's]]></name>
+        <atom:link href="http://foursquare.com/venue/4a28402bf964a52004951fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 8:02 PM to 8:20 PM<br/> 18 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a28402bf964a52004951fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:02:19-05:00</begin>
+          <end>2014-06-07T20:20:40-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.084214,42.348218</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402190783000">
+        <name><![CDATA[MBTA Bus Stop | Massachusetts Ave. & Newbury St.]]></name>
+        <atom:link href="http://foursquare.com/venue/4e498e94b61c6886484fde5c"/>
+        <description><![CDATA[<p>6/7/14<br/> 8:26 PM to 8:42 PM<br/> 16 min</p> <p>Bus Station<br/> <a href="http://foursquare.com/venue/4e498e94b61c6886484fde5c">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:26:24-05:00</begin>
+          <end>2014-06-07T20:42:22-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Bus Station</styleUrl>
+        <Point>
+          <coordinates>-71.08813047409058,42.34801465325017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402192507000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 8:55 PM to 12:00 AM<br/> 3:04 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:55:08-05:00</begin>
+          <end>2014-06-07T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[6/8/14]]></name>
+      <Placemark id="1402203600000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/8/14<br/> 12:00 AM to 11:56 AM<br/> 11:56 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-08T00:00:01-05:00</begin>
+          <end>2014-06-08T11:56:33-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402248777000">
+        <name><![CDATA[Frankel Home]]></name>
+        <description><![CDATA[<p>6/8/14<br/> 12:32 PM to 5:41 PM<br/> 5:08 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-08T12:32:58-05:00</begin>
+          <end>2014-06-08T17:41:43-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.3302266069,42.3485322044</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402269003000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/8/14<br/> 6:10 PM to 12:00 AM<br/> 5:49 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-08T18:10:04-05:00</begin>
+          <end>2014-06-08T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

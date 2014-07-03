@@ -1,0 +1,530 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.547914307, 10.3921075844 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140627T223915-0500",
+      "endTime" : "20140628T065220-0500",
+      "place" : {
+        "id" : 64826172,
+        "name" : "Pablo Botero's Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 10.3921075844,
+          "lon" : -75.547914307
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T063937-0500",
+        "endTime" : "20140628T064137-0500",
+        "duration" : 120.0,
+        "distance" : 86.0,
+        "steps" : 172,
+        "calories" : 6
+      } ],
+      "lastUpdate" : "20140628T132242Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -75.547914307, 10.3921075844 ], [ -75.5481610196, 10.3923748534 ], [ -75.5481671628, 10.3924836647 ], [ -75.548227219, 10.3934049201 ], [ -75.5504810843, 10.3950072488 ], [ -75.5521321351, 10.3959208629 ], [ -75.5543526531, 10.397631727 ], [ -75.5539243727, 10.398843251 ], [ -75.553165377, 10.401018734 ], [ -75.5525028583, 10.4035010089 ], [ -75.5521798842, 10.4044357462 ], [ -75.5515204116, 10.4070909252 ], [ -75.5506362206, 10.4090012541 ], [ -75.5505615573, 10.4114981962 ], [ -75.5505370163, 10.4150102874 ], [ -75.5518267552, 10.4185152113 ], [ -75.552315098, 10.4188369391 ], [ -75.5526620991, 10.4199235132 ], [ -75.5482958453, 10.4272422545 ], [ -75.5482953396, 10.4272431021 ], [ -75.5456833241, 10.4316213783 ], [ -75.5456670627, 10.4316399696 ], [ -75.5411885844, 10.4336731524 ], [ -75.537227177, 10.4359491142 ], [ -75.5355016998, 10.4368034302 ], [ -75.5315274241, 10.4385632229 ], [ -75.5207343808, 10.4429327818 ], [ -75.5183792907, 10.4430070138 ], [ -75.5177853462, 10.4434742594 ], [ -75.5175566242, 10.4444133632 ], [ -75.516371727, 10.4456899673 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T065220-0500",
+      "endTime" : "20140628T070613-0500",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140628T065220-0500",
+        "endTime" : "20140628T070614-0500",
+        "duration" : 834.0,
+        "distance" : 9875.0
+      } ],
+      "lastUpdate" : "20140628T132242Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.51637172698975, 10.44568996730285 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T070613-0500",
+      "endTime" : "20140628T131158-0500",
+      "place" : {
+        "id" : 63659916,
+        "name" : "Aeropuerto Internacional Rafael Nuñez (CTG)",
+        "type" : "foursquare",
+        "foursquareId" : "4bb28fbf42959c74d307212c",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 10.44568996730285,
+          "lon" : -75.51637172698975
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T070745-0500",
+        "endTime" : "20140628T071515-0500",
+        "duration" : 450.0,
+        "distance" : 509.0,
+        "steps" : 679,
+        "calories" : 33
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T095433-0500",
+        "endTime" : "20140628T095503-0500",
+        "duration" : 30.0,
+        "distance" : 25.0,
+        "steps" : 51,
+        "calories" : 2
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T102404-0500",
+        "endTime" : "20140628T103533-0500",
+        "duration" : 689.0,
+        "distance" : 658.0,
+        "steps" : 877,
+        "calories" : 43
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T124033-0500",
+        "endTime" : "20140628T124203-0500",
+        "duration" : 90.0,
+        "distance" : 76.0,
+        "steps" : 152,
+        "calories" : 5
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T130141-0500",
+        "endTime" : "20140628T130411-0500",
+        "duration" : 150.0,
+        "distance" : 167.0,
+        "steps" : 223,
+        "calories" : 11
+      } ],
+      "lastUpdate" : "20140628T231844Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.51637172698975, 10.44568996730285 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T131158-0500",
+      "endTime" : "20140628T131221-0500",
+      "place" : {
+        "id" : 65722626,
+        "name" : "Aeropuerto Internacional Rafael Nuñez (CTG)",
+        "type" : "foursquare",
+        "foursquareId" : "4bb28fbf42959c74d307212c",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 10.44568996730285,
+          "lon" : -75.51637172698975
+        }
+      },
+      "lastUpdate" : "20140629T004102Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.51637172698975, 10.44568996730285 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T131221-0500",
+      "endTime" : "20140628T133133-0500",
+      "place" : {
+        "id" : 65722626,
+        "name" : "Aeropuerto Internacional Rafael Nuñez (CTG)",
+        "type" : "foursquare",
+        "foursquareId" : "4bb28fbf42959c74d307212c",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 10.44568996730285,
+          "lon" : -75.51637172698975
+        }
+      },
+      "lastUpdate" : "20140629T004102Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -75.514834066, 10.4471799545 ], [ -75.5139344044, 10.4470638234 ], [ -75.5139235643, 10.4470592089 ], [ -75.5139202415, 10.4470611469 ], [ -75.5139067851, 10.4470605896 ], [ -75.5138981549, 10.4470559437 ], [ -75.5129067462, 10.4426759453 ], [ -75.3713492289, 12.8945340795 ], [ -75.371348195, 12.8945519869 ], [ -74.9991526724, 19.3411938697 ], [ -74.9991516386, 19.341211777 ], [ -74.626956116, 25.7878536599 ], [ -74.6269550821, 25.7878715672 ], [ -74.2547595595, 32.23451345 ], [ -74.2547585256, 32.2345313574 ], [ -73.882563003, 38.6811732402 ], [ -73.8825619691, 38.6811911476 ], [ -73.7699663132, 40.6314130797 ], [ -73.7699726382, 40.6330704936 ], [ -73.7699962488, 40.6349889001 ], [ -73.7690317346, 40.6372850502 ], [ -73.7696426622, 40.6381713713 ], [ -73.770592175, 40.6386227236 ], [ -73.771467228, 40.6390107946 ], [ -73.7772973461, 40.6406846064 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T133133-0500",
+      "endTime" : "20140628T182532-0500",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140628T133133-0500",
+        "endTime" : "20140628T182533-0500",
+        "duration" : 17640.0,
+        "distance" : 3867779.0
+      } ],
+      "lastUpdate" : "20140629T004029Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7845230102539, 40.64508935597635 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T182533-0500",
+      "endTime" : "20140628T183814-0500",
+      "place" : {
+        "id" : 65722685,
+        "name" : "John F. Kennedy International Airport (JFK)",
+        "type" : "foursquare",
+        "foursquareId" : "43a52546f964a520532c1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 40.64508935597635,
+          "lon" : -73.7845230102539
+        }
+      },
+      "lastUpdate" : "20140629T004117Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7845230102539, 40.64508935597635 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T183815-0500",
+      "endTime" : "20140628T185125-0500",
+      "place" : {
+        "id" : 65722699,
+        "name" : "John F. Kennedy International Airport (JFK)",
+        "type" : "foursquare",
+        "foursquareId" : "43a52546f964a520532c1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 40.64508935597635,
+          "lon" : -73.7845230102539
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T183852-0500",
+        "endTime" : "20140628T184522-0500",
+        "duration" : 390.0,
+        "distance" : 341.0,
+        "steps" : 455,
+        "calories" : 22
+      } ],
+      "lastUpdate" : "20140629T004122Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -73.7821272222, 40.6429159585 ], [ -73.785973625, 40.6432653907 ] ], [ [ -73.785973625, 40.6432653907 ], [ -73.7897523588, 40.6435767781 ], [ -73.789752512, 40.6435767907 ], [ -73.7899547464, 40.6435934559 ], [ -73.7892241936, 40.6435395771 ], [ -73.7903466948, 40.6448917442 ], [ -73.7797390247, 40.6466366932 ] ], [ [ -73.7797390247, 40.6466366932 ], [ -73.7797011866, 40.6467837641 ], [ -73.7797319766, 40.6467694114 ], [ -73.777628458, 40.646906801 ], [ -73.7769307972, 40.6469528419 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T185125-0500",
+      "endTime" : "20140628T190841-0500",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T185125-0500",
+        "endTime" : "20140628T185553-0500",
+        "duration" : 268.0,
+        "distance" : 322.0,
+        "steps" : 231,
+        "calories" : 21
+      }, {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140628T185553-0500",
+        "endTime" : "20140628T190424-0500",
+        "duration" : 511.0,
+        "distance" : 1681.0
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T190423-0500",
+        "endTime" : "20140628T190840-0500",
+        "duration" : 257.0,
+        "distance" : 293.0,
+        "steps" : 502,
+        "calories" : 19
+      } ],
+      "lastUpdate" : "20140629T004029Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -73.7769277077, 40.6469524256 ], [ -73.7768195122, 40.6468812542 ], [ -73.7765805605, 40.6467256457 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T190841-0500",
+      "endTime" : "20140628T191426-0500",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T190841-0500",
+        "endTime" : "20140628T191427-0500",
+        "duration" : 346.0,
+        "distance" : 185.0,
+        "steps" : 371,
+        "calories" : 12
+      } ],
+      "lastUpdate" : "20140629T014956Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7845230102539, 40.64508935597635 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T191427-0500",
+      "endTime" : "20140628T194258-0500",
+      "place" : {
+        "id" : 65940540,
+        "name" : "John F. Kennedy International Airport (JFK)",
+        "type" : "foursquare",
+        "foursquareId" : "43a52546f964a520532c1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 40.64508935597635,
+          "lon" : -73.7845230102539
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T192424-0500",
+        "endTime" : "20140628T192654-0500",
+        "duration" : 150.0,
+        "distance" : 175.0,
+        "steps" : 233,
+        "calories" : 11
+      } ],
+      "lastUpdate" : "20140629T153739Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7845230102539, 40.64508935597635 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T194259-0500",
+      "endTime" : "20140628T215409-0500",
+      "place" : {
+        "id" : 65940573,
+        "name" : "John F. Kennedy International Airport (JFK)",
+        "type" : "foursquare",
+        "foursquareId" : "43a52546f964a520532c1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 40.64508935597635,
+          "lon" : -73.7845230102539
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T205047-0500",
+        "endTime" : "20140628T205147-0500",
+        "duration" : 60.0,
+        "distance" : 56.0,
+        "steps" : 111,
+        "calories" : 4
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T213024-0500",
+        "endTime" : "20140628T213054-0500",
+        "duration" : 30.0,
+        "distance" : 20.0,
+        "steps" : 41,
+        "calories" : 1
+      } ],
+      "lastUpdate" : "20140629T153745Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -73.7739689489, 40.6461161757 ], [ -73.5579649521, 40.7809214232 ], [ -73.5579587864, 40.7809252711 ], [ -71.3383098143, 42.1661789397 ], [ -71.3383036486, 42.1661827877 ], [ -71.0162983066, 42.3671420775 ] ], [ [ -71.0162983066, 42.3671420775 ], [ -71.0156239515, 42.3675365498 ], [ -71.0157374346, 42.367339503 ], [ -71.0159886604, 42.3673094547 ], [ -71.016391926, 42.3671843456 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T215409-0500",
+      "endTime" : "20140628T231254-0500",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140628T215409-0500",
+        "endTime" : "20140628T230842-0500",
+        "duration" : 4473.0,
+        "distance" : 343739.0
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T230842-0500",
+        "endTime" : "20140628T231254-0500",
+        "duration" : 252.0,
+        "distance" : 170.0,
+        "steps" : 309,
+        "calories" : 11
+      } ],
+      "lastUpdate" : "20140629T072304Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.01667642593384, 42.36650312404415 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T231254-0500",
+      "endTime" : "20140628T231324-0500",
+      "place" : {
+        "id" : 10149905,
+        "name" : "Boston Logan International Airport (BOS)",
+        "type" : "foursquare",
+        "foursquareId" : "452113b6f964a520bc3a1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 42.36650312404415,
+          "lon" : -71.01667642593384
+        }
+      },
+      "lastUpdate" : "20140629T153801Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -71.016391926, 42.3671843456 ], [ -71.0168013939, 42.3670388968 ], [ -71.0173362682, 42.3668035336 ], [ -71.0174494772, 42.3667897618 ] ], [ [ -71.0174494772, 42.3667897618 ], [ -71.0174217464, 42.3667801809 ], [ -71.0173548751, 42.3667925362 ], [ -71.019116743, 42.3669863666 ], [ -71.0184144477, 42.3666165035 ], [ -71.0183076626, 42.3668402232 ], [ -71.0177831317, 42.3668311147 ], [ -71.0747269161, 42.3555950561 ], [ -71.0813941624, 42.3538265049 ], [ -71.0863978446, 42.3524750845 ], [ -71.1179335256, 42.3642078751 ], [ -71.1179907899, 42.3667509034 ], [ -71.1213760827, 42.367948165 ], [ -71.1237999302, 42.3685063446 ], [ -71.1148287333, 42.3755000415 ], [ -71.1143639368, 42.375628919 ], [ -71.1114458017, 42.3754311174 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140628T231324-0500",
+      "endTime" : "20140628T233627-0500",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T231324-0500",
+        "endTime" : "20140628T231641-0500",
+        "duration" : 197.0,
+        "distance" : 111.0,
+        "steps" : 190,
+        "calories" : 7
+      }, {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140628T231641-0500",
+        "endTime" : "20140628T233627-0500",
+        "duration" : 1186.0,
+        "distance" : 12591.0
+      } ],
+      "lastUpdate" : "20140629T072304Z",
+      "date" : "20140628"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.1114458017, 42.3754311174 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140628T233628-0500",
+      "endTime" : "20140629T121436-0500",
+      "place" : {
+        "id" : 9869005,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 42.3754311174,
+          "lon" : -71.1114458017
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140628T233628-0500",
+        "endTime" : "20140628T233742-0500",
+        "duration" : 74.0,
+        "distance" : 47.0,
+        "steps" : 95,
+        "calories" : 3
+      } ],
+      "lastUpdate" : "20140629T185327Z",
+      "date" : "20140628"
+    }
+  } ]
+}

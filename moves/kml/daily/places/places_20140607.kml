@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Garden">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/parks_outdoors/garden.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Mall">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Dessert Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/dessert.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Bar">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/nightlife/bar.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Bus Station">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/busstation.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[6/7/14]]></name>
+      <Placemark id="1402117200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 12:00 AM to 2:35 PM<br/> 14:35 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T00:00:01-05:00</begin>
+          <end>2014-06-07T14:35:15-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402170528000">
+        <name><![CDATA[Place in Cambridge]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 2:48 PM to 2:53 PM<br/> 4 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T14:48:49-05:00</begin>
+          <end>2014-06-07T14:53:12-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.1010255055,42.3737495369</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402172595000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 3:23 PM to 4:20 PM<br/> 56 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T15:23:16-05:00</begin>
+          <end>2014-06-07T16:20:00-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402176221000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:23 PM to 4:29 PM<br/> 6 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:23:42-05:00</begin>
+          <end>2014-06-07T16:29:57-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402176820000">
+        <name><![CDATA[CambridgeSide Galleria]]></name>
+        <atom:link href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:33 PM to 4:37 PM<br/> 3 min</p> <p>Mall<br/> <a href="http://foursquare.com/venue/4f31f48fe4b0acb1ec68d253">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:33:41-05:00</begin>
+          <end>2014-06-07T16:37:01-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Mall</styleUrl>
+        <Point>
+          <coordinates>-71.07652187347412,42.36718484186633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402177421000">
+        <name><![CDATA[Place in East Cambridge]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 4:43 PM to 4:48 PM<br/> 4 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:43:42-05:00</begin>
+          <end>2014-06-07T16:48:06-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.073973276,42.3686810335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402178088000">
+        <name><![CDATA[ArtBar]]></name>
+        <atom:link href="http://foursquare.com/venue/4b3be5b9f964a520e37d25e3"/>
+        <description><![CDATA[<p>6/7/14<br/> 4:54 PM to 5:50 PM<br/> 55 min</p> <p>Bar<br/> <a href="http://foursquare.com/venue/4b3be5b9f964a520e37d25e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T16:54:49-05:00</begin>
+          <end>2014-06-07T17:50:32-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Bar</styleUrl>
+        <Point>
+          <coordinates>-71.07431173324585,42.36710557273224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402182443000">
+        <name><![CDATA[The Liberty Hotel]]></name>
+        <atom:link href="http://foursquare.com/venue/4a22c63ef964a520877d1fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:07 PM to 6:18 PM<br/> 11 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a22c63ef964a520877d1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:07:24-05:00</begin>
+          <end>2014-06-07T18:18:25-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-71.07024841380209,42.361924841884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402183780000">
+        <name><![CDATA[Boston Public Garden]]></name>
+        <atom:link href="http://foursquare.com/venue/44cf0ff8f964a5201c361fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:29 PM to 6:33 PM<br/> 4 min</p> <p>Garden<br/> <a href="http://foursquare.com/venue/44cf0ff8f964a5201c361fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:29:41-05:00</begin>
+          <end>2014-06-07T18:33:58-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Garden</styleUrl>
+        <Point>
+          <coordinates>-71.06991291046143,42.35411597423369</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402185141000">
+        <name><![CDATA[Max Brenner]]></name>
+        <atom:link href="http://foursquare.com/venue/4d8cc1941716a143144b07f7"/>
+        <description><![CDATA[<p>6/7/14<br/> 6:52 PM to 7:57 PM<br/> 1:05 hours</p> <p>Dessert Shop<br/> <a href="http://foursquare.com/venue/4d8cc1941716a143144b07f7">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T18:52:22-05:00</begin>
+          <end>2014-06-07T19:57:44-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Dessert Shop</styleUrl>
+        <Point>
+          <coordinates>-71.08100652694702,42.34925954525904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402189338000">
+        <name><![CDATA[Trader Joe's]]></name>
+        <atom:link href="http://foursquare.com/venue/4a28402bf964a52004951fe3"/>
+        <description><![CDATA[<p>6/7/14<br/> 8:02 PM to 8:20 PM<br/> 18 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a28402bf964a52004951fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:02:19-05:00</begin>
+          <end>2014-06-07T20:20:40-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.084214,42.348218</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402190783000">
+        <name><![CDATA[MBTA Bus Stop | Massachusetts Ave. & Newbury St.]]></name>
+        <atom:link href="http://foursquare.com/venue/4e498e94b61c6886484fde5c"/>
+        <description><![CDATA[<p>6/7/14<br/> 8:26 PM to 8:42 PM<br/> 16 min</p> <p>Bus Station<br/> <a href="http://foursquare.com/venue/4e498e94b61c6886484fde5c">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:26:24-05:00</begin>
+          <end>2014-06-07T20:42:22-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Bus Station</styleUrl>
+        <Point>
+          <coordinates>-71.08813047409058,42.34801465325017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1402192507000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/7/14<br/> 8:55 PM to 12:00 AM<br/> 3:04 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-07T20:55:08-05:00</begin>
+          <end>2014-06-07T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

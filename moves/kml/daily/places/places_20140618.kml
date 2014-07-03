@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Train Station">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/trainstation.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Office">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Drugstore / Pharmacy">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/drugstore.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[6/18/14]]></name>
+      <Placemark id="1403067600000">
+        <name><![CDATA[Laura's Home]]></name>
+        <description><![CDATA[<p>6/18/14<br/> 12:00 AM to 8:32 AM<br/> 8:32 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T00:00:01-05:00</begin>
+          <end>2014-06-18T08:32:48-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-77.0772744833,38.9219057145</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403099004000">
+        <name><![CDATA[CVS/pharmacy]]></name>
+        <atom:link href="http://foursquare.com/venue/4a89f3c7f964a520790920e3"/>
+        <description><![CDATA[<p>6/18/14<br/> 8:43 AM to 9:13 AM<br/> 30 min</p> <p>Drugstore / Pharmacy<br/> <a href="http://foursquare.com/venue/4a89f3c7f964a520790920e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T08:43:25-05:00</begin>
+          <end>2014-06-18T09:13:47-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Drugstore / Pharmacy</styleUrl>
+        <Point>
+          <coordinates>-77.071487,38.92005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403102752000">
+        <name><![CDATA[NTN24]]></name>
+        <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
+        <description><![CDATA[<p>6/18/14<br/> 9:45 AM to 11:12 AM<br/> 1:27 hours</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T09:45:53-05:00</begin>
+          <end>2014-06-18T11:12:57-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Office</styleUrl>
+        <Point>
+          <coordinates>-77.032106,38.901567</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403108919000">
+        <name><![CDATA[NTN24]]></name>
+        <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
+        <description><![CDATA[<p>6/18/14<br/> 11:28 AM to 2:13 PM<br/> 2:44 hours</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T11:28:40-05:00</begin>
+          <end>2014-06-18T14:13:11-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Office</styleUrl>
+        <Point>
+          <coordinates>-77.032106,38.901567</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403119714000">
+        <name><![CDATA[Union Station]]></name>
+        <atom:link href="http://foursquare.com/venue/430a6700f964a52036271fe3"/>
+        <description><![CDATA[<p>6/18/14<br/> 2:28 PM to 2:40 PM<br/> 12 min</p> <p>Train Station<br/> <a href="http://foursquare.com/venue/430a6700f964a52036271fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T14:28:35-05:00</begin>
+          <end>2014-06-18T14:40:51-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Train Station</styleUrl>
+        <Point>
+          <coordinates>-77.0061671733856,38.89756277173564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403120487000">
+        <name><![CDATA[Place in East End]]></name>
+        <description><![CDATA[<p>6/18/14<br/> 2:41 PM to 3:05 PM<br/> 23 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T14:41:28-05:00</begin>
+          <end>2014-06-18T15:05:04-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-77.0055473762,38.8998032103</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1403151284000">
+        <name><![CDATA[Place in Uptown]]></name>
+        <description><![CDATA[<p>6/18/14<br/> 11:14 PM to 11:41 PM<br/> 27 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-18T23:14:45-05:00</begin>
+          <end>2014-06-18T23:41:46-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-79.9908144618,40.445879205</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -26,24 +26,24 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_Hotel">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_school">
       <IconStyle>
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
           <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -98,18 +98,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_Tech Startup">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/shops/technology.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_foursquare">
       <IconStyle>
         <scale>1.0</scale>
@@ -122,12 +110,36 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Tech Startup">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/technology.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_unknown">
       <IconStyle>
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
           <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Airport">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/airport.png</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -148,13 +160,13 @@
     </Style>
     <Folder>
       <name><![CDATA[4/28/14]]></name>
-      <Placemark id="1398657600000">
+      <Placemark id="1398661200000">
         <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
         <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
-        <description><![CDATA[<p>4/28/14<br/> 12:00 AM to 11:33 AM<br/> 11:33 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 12:00 AM to 10:33 AM<br/> 10:33 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T00:00:01-04:00</begin>
-          <end>2014-04-28T11:33:50-04:00</end>
+          <begin>2014-04-28T00:00:01-05:00</begin>
+          <end>2014-04-28T10:33:50-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -164,10 +176,10 @@
       <Placemark id="1398700015000">
         <name><![CDATA[Starbucks]]></name>
         <atom:link href="http://foursquare.com/venue/49ed472df964a520db671fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 11:46 AM to 12:15 PM<br/> 28 min</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/49ed472df964a520db671fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 10:46 AM to 11:15 AM<br/> 28 min</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/49ed472df964a520db671fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T11:46:56-04:00</begin>
-          <end>2014-04-28T12:15:19-04:00</end>
+          <begin>2014-04-28T10:46:56-05:00</begin>
+          <end>2014-04-28T11:15:19-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Coffee Shop</styleUrl>
         <Point>
@@ -177,10 +189,10 @@
       <Placemark id="1398701909000">
         <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
         <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
-        <description><![CDATA[<p>4/28/14<br/> 12:18 PM to 1:06 PM<br/> 48 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 11:18 AM to 12:06 PM<br/> 48 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T12:18:30-04:00</begin>
-          <end>2014-04-28T13:06:45-04:00</end>
+          <begin>2014-04-28T11:18:30-05:00</begin>
+          <end>2014-04-28T12:06:45-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -190,10 +202,10 @@
       <Placemark id="1398706235000">
         <name><![CDATA[Y Combinator]]></name>
         <atom:link href="http://foursquare.com/venue/4a442dc7f964a52046a71fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 1:30 PM to 2:33 PM<br/> 1:03 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/4a442dc7f964a52046a71fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 12:30 PM to 1:33 PM<br/> 1:03 hours</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/4a442dc7f964a52046a71fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T13:30:36-04:00</begin>
-          <end>2014-04-28T14:33:52-04:00</end>
+          <begin>2014-04-28T12:30:36-05:00</begin>
+          <end>2014-04-28T13:33:52-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Tech Startup</styleUrl>
         <Point>
@@ -203,10 +215,10 @@
       <Placemark id="1398710741000">
         <name><![CDATA[La Fiesta Restaurant]]></name>
         <atom:link href="http://foursquare.com/venue/4596ba31f964a52070401fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 2:45 PM to 3:42 PM<br/> 56 min</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/4596ba31f964a52070401fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 1:45 PM to 2:42 PM<br/> 56 min</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/4596ba31f964a52070401fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T14:45:42-04:00</begin>
-          <end>2014-04-28T15:42:37-04:00</end>
+          <begin>2014-04-28T13:45:42-05:00</begin>
+          <end>2014-04-28T14:42:37-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Mexican Restaurant</styleUrl>
         <Point>
@@ -216,10 +228,10 @@
       <Placemark id="1398714543000">
         <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
         <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
-        <description><![CDATA[<p>4/28/14<br/> 3:49 PM to 6:10 PM<br/> 2:21 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 2:49 PM to 5:10 PM<br/> 2:21 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T15:49:04-04:00</begin>
-          <end>2014-04-28T18:10:41-04:00</end>
+          <begin>2014-04-28T14:49:04-05:00</begin>
+          <end>2014-04-28T17:10:41-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -229,10 +241,10 @@
       <Placemark id="1398723622000">
         <name><![CDATA[BevMo!]]></name>
         <atom:link href="http://foursquare.com/venue/49fa568df964a520ef6d1fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 6:20 PM to 6:33 PM<br/> 13 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/49fa568df964a520ef6d1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 5:20 PM to 5:33 PM<br/> 13 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/49fa568df964a520ef6d1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T18:20:23-04:00</begin>
-          <end>2014-04-28T18:33:23-04:00</end>
+          <begin>2014-04-28T17:20:23-05:00</begin>
+          <end>2014-04-28T17:33:23-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Liquor Store</styleUrl>
         <Point>
@@ -242,10 +254,10 @@
       <Placemark id="1398725006000">
         <name><![CDATA[Vagabond Inn Sunnyvale]]></name>
         <atom:link href="http://foursquare.com/venue/4ad96f51f964a520251a21e3"/>
-        <description><![CDATA[<p>4/28/14<br/> 6:43 PM to 7:40 PM<br/> 56 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 5:43 PM to 6:40 PM<br/> 56 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad96f51f964a520251a21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T18:43:27-04:00</begin>
-          <end>2014-04-28T19:40:15-04:00</end>
+          <begin>2014-04-28T17:43:27-05:00</begin>
+          <end>2014-04-28T18:40:15-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -254,10 +266,10 @@
       </Placemark>
       <Placemark id="1398729535000">
         <name><![CDATA[AB InBev Beer Garage]]></name>
-        <description><![CDATA[<p>4/28/14<br/> 7:58 PM to 9:33 PM<br/> 1:34 hours</p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 6:58 PM to 8:33 PM<br/> 1:34 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T19:58:56-04:00</begin>
-          <end>2014-04-28T21:33:02-04:00</end>
+          <begin>2014-04-28T18:58:56-05:00</begin>
+          <end>2014-04-28T20:33:02-05:00</end>
         </TimeSpan>
         <styleUrl>#place_work</styleUrl>
         <Point>
@@ -266,10 +278,10 @@
       </Placemark>
       <Placemark id="1398735732000">
         <name><![CDATA[Place in Downtown North]]></name>
-        <description><![CDATA[<p>4/28/14<br/> 9:42 PM to 9:48 PM<br/> 6 min</p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 8:42 PM to 8:48 PM<br/> 6 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T21:42:13-04:00</begin>
-          <end>2014-04-28T21:48:38-04:00</end>
+          <begin>2014-04-28T20:42:13-05:00</begin>
+          <end>2014-04-28T20:48:38-05:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -278,10 +290,10 @@
       </Placemark>
       <Placemark id="1398736301000">
         <name><![CDATA[Place in University South]]></name>
-        <description><![CDATA[<p>4/28/14<br/> 9:51 PM to 9:54 PM<br/> 3 min</p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 8:51 PM to 8:54 PM<br/> 3 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T21:51:42-04:00</begin>
-          <end>2014-04-28T21:54:51-04:00</end>
+          <begin>2014-04-28T20:51:42-05:00</begin>
+          <end>2014-04-28T20:54:51-05:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -291,10 +303,10 @@
       <Placemark id="1398737329000">
         <name><![CDATA[The Rose & Crown Pub]]></name>
         <atom:link href="http://foursquare.com/venue/429cfa80f964a520b2241fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 10:08 PM to 10:19 PM<br/> 10 min</p> <p>Pub<br/> <a href="http://foursquare.com/venue/429cfa80f964a520b2241fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 9:08 PM to 9:19 PM<br/> 10 min</p> <p>Pub<br/> <a href="http://foursquare.com/venue/429cfa80f964a520b2241fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T22:08:50-04:00</begin>
-          <end>2014-04-28T22:19:10-04:00</end>
+          <begin>2014-04-28T21:08:50-05:00</begin>
+          <end>2014-04-28T21:19:10-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Pub</styleUrl>
         <Point>
@@ -303,10 +315,10 @@
       </Placemark>
       <Placemark id="1398738297000">
         <name><![CDATA[Place in University South]]></name>
-        <description><![CDATA[<p>4/28/14<br/> 10:24 PM to 10:29 PM<br/> 4 min</p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 9:24 PM to 9:29 PM<br/> 4 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T22:24:58-04:00</begin>
-          <end>2014-04-28T22:29:29-04:00</end>
+          <begin>2014-04-28T21:24:58-05:00</begin>
+          <end>2014-04-28T21:29:29-05:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -316,14 +328,27 @@
       <Placemark id="1398738868000">
         <name><![CDATA[The Rose & Crown Pub]]></name>
         <atom:link href="http://foursquare.com/venue/429cfa80f964a520b2241fe3"/>
-        <description><![CDATA[<p>4/28/14<br/> 10:34 PM to 11:40 PM<br/> 1:06 hours</p> <p>Pub<br/> <a href="http://foursquare.com/venue/429cfa80f964a520b2241fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/28/14<br/> 9:34 PM to 10:40 PM<br/> 1:06 hours</p> <p>Pub<br/> <a href="http://foursquare.com/venue/429cfa80f964a520b2241fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-28T22:34:29-04:00</begin>
-          <end>2014-04-28T23:40:58-04:00</end>
+          <begin>2014-04-28T21:34:29-05:00</begin>
+          <end>2014-04-28T22:40:58-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Pub</styleUrl>
         <Point>
           <coordinates>-122.1617297912859,37.44437571796183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398745151000">
+        <name><![CDATA[San Francisco International Airport (SFO)]]></name>
+        <atom:link href="http://foursquare.com/venue/41059b00f964a520850b1fe3"/>
+        <description><![CDATA[<p>4/28/14<br/> 11:19 PM to 11:31 PM<br/> 12 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/41059b00f964a520850b1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-28T23:19:12-05:00</begin>
+          <end>2014-04-28T23:31:31-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Airport</styleUrl>
+        <Point>
+          <coordinates>-122.3862791061401,37.61642405271961</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -335,7 +360,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T00:00:00-04:00</when>
+              <when>2014-04-28T00:00:00-05:00</when>
             </TimeStamp>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -347,12 +372,12 @@
           </LookAt>
         </gx:FlyTo>
         <gx:FlyTo>
-          <gx:duration>8.161470455745093</gx:duration>
+          <gx:duration>7.800615360341773</gx:duration>
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T00:00:01-04:00</begin>
-              <end>2014-04-28T11:33:50-04:00</end>
+              <begin>2014-04-28T00:00:01-05:00</begin>
+              <end>2014-04-28T10:33:50-05:00</end>
             </TimeSpan>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -368,7 +393,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T11:46:55-04:00</when>
+              <when>2014-04-28T10:46:55-05:00</when>
             </TimeStamp>
             <longitude>-122.030288</longitude>
             <latitude>37.388271</latitude>
@@ -384,8 +409,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T11:46:56-04:00</begin>
-              <end>2014-04-28T12:15:19-04:00</end>
+              <begin>2014-04-28T10:46:56-05:00</begin>
+              <end>2014-04-28T11:15:19-05:00</end>
             </TimeSpan>
             <longitude>-122.030288</longitude>
             <latitude>37.388271</latitude>
@@ -401,7 +426,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T12:18:29-04:00</when>
+              <when>2014-04-28T11:18:29-05:00</when>
             </TimeStamp>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -417,8 +442,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T12:18:30-04:00</begin>
-              <end>2014-04-28T13:06:45-04:00</end>
+              <begin>2014-04-28T11:18:30-05:00</begin>
+              <end>2014-04-28T12:06:45-05:00</end>
             </TimeSpan>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -434,7 +459,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T13:30:35-04:00</when>
+              <when>2014-04-28T12:30:35-05:00</when>
             </TimeStamp>
             <longitude>-122.0678794384003</longitude>
             <latitude>37.38667126850424</latitude>
@@ -450,8 +475,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T13:30:36-04:00</begin>
-              <end>2014-04-28T14:33:52-04:00</end>
+              <begin>2014-04-28T12:30:36-05:00</begin>
+              <end>2014-04-28T13:33:52-05:00</end>
             </TimeSpan>
             <longitude>-122.0678794384003</longitude>
             <latitude>37.38667126850424</latitude>
@@ -467,7 +492,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T14:45:41-04:00</when>
+              <when>2014-04-28T13:45:41-05:00</when>
             </TimeStamp>
             <longitude>-122.072889260147</longitude>
             <latitude>37.391611183987</latitude>
@@ -483,8 +508,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T14:45:42-04:00</begin>
-              <end>2014-04-28T15:42:37-04:00</end>
+              <begin>2014-04-28T13:45:42-05:00</begin>
+              <end>2014-04-28T14:42:37-05:00</end>
             </TimeSpan>
             <longitude>-122.072889260147</longitude>
             <latitude>37.391611183987</latitude>
@@ -500,7 +525,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T15:49:03-04:00</when>
+              <when>2014-04-28T14:49:03-05:00</when>
             </TimeStamp>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -516,8 +541,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T15:49:04-04:00</begin>
-              <end>2014-04-28T18:10:41-04:00</end>
+              <begin>2014-04-28T14:49:04-05:00</begin>
+              <end>2014-04-28T17:10:41-05:00</end>
             </TimeSpan>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -533,7 +558,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T18:20:22-04:00</when>
+              <when>2014-04-28T17:20:22-05:00</when>
             </TimeStamp>
             <longitude>-122.0575904846191</longitude>
             <latitude>37.37479547689328</latitude>
@@ -549,8 +574,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T18:20:23-04:00</begin>
-              <end>2014-04-28T18:33:23-04:00</end>
+              <begin>2014-04-28T17:20:23-05:00</begin>
+              <end>2014-04-28T17:33:23-05:00</end>
             </TimeSpan>
             <longitude>-122.0575904846191</longitude>
             <latitude>37.37479547689328</latitude>
@@ -566,7 +591,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T18:43:26-04:00</when>
+              <when>2014-04-28T17:43:26-05:00</when>
             </TimeStamp>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -582,8 +607,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T18:43:27-04:00</begin>
-              <end>2014-04-28T19:40:15-04:00</end>
+              <begin>2014-04-28T17:43:27-05:00</begin>
+              <end>2014-04-28T18:40:15-05:00</end>
             </TimeSpan>
             <longitude>-122.0274591675424</longitude>
             <latitude>37.39623913829737</latitude>
@@ -599,7 +624,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T19:58:55-04:00</when>
+              <when>2014-04-28T18:58:55-05:00</when>
             </TimeStamp>
             <longitude>-122.1608367164</longitude>
             <latitude>37.4431194221</latitude>
@@ -615,8 +640,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T19:58:56-04:00</begin>
-              <end>2014-04-28T21:33:02-04:00</end>
+              <begin>2014-04-28T18:58:56-05:00</begin>
+              <end>2014-04-28T20:33:02-05:00</end>
             </TimeSpan>
             <longitude>-122.1608367164</longitude>
             <latitude>37.4431194221</latitude>
@@ -632,7 +657,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T21:42:12-04:00</when>
+              <when>2014-04-28T20:42:12-05:00</when>
             </TimeStamp>
             <longitude>-122.1627038223</longitude>
             <latitude>37.4450805938</latitude>
@@ -648,8 +673,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T21:42:13-04:00</begin>
-              <end>2014-04-28T21:48:38-04:00</end>
+              <begin>2014-04-28T20:42:13-05:00</begin>
+              <end>2014-04-28T20:48:38-05:00</end>
             </TimeSpan>
             <longitude>-122.1627038223</longitude>
             <latitude>37.4450805938</latitude>
@@ -665,7 +690,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T21:51:41-04:00</when>
+              <when>2014-04-28T20:51:41-05:00</when>
             </TimeStamp>
             <longitude>-122.161212663</longitude>
             <latitude>37.4463045405</latitude>
@@ -681,8 +706,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T21:51:42-04:00</begin>
-              <end>2014-04-28T21:54:51-04:00</end>
+              <begin>2014-04-28T20:51:42-05:00</begin>
+              <end>2014-04-28T20:54:51-05:00</end>
             </TimeSpan>
             <longitude>-122.161212663</longitude>
             <latitude>37.4463045405</latitude>
@@ -698,7 +723,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T22:08:49-04:00</when>
+              <when>2014-04-28T21:08:49-05:00</when>
             </TimeStamp>
             <longitude>-122.1617297912859</longitude>
             <latitude>37.44437571796183</latitude>
@@ -714,8 +739,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T22:08:50-04:00</begin>
-              <end>2014-04-28T22:19:10-04:00</end>
+              <begin>2014-04-28T21:08:50-05:00</begin>
+              <end>2014-04-28T21:19:10-05:00</end>
             </TimeSpan>
             <longitude>-122.1617297912859</longitude>
             <latitude>37.44437571796183</latitude>
@@ -731,7 +756,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T22:24:57-04:00</when>
+              <when>2014-04-28T21:24:57-05:00</when>
             </TimeStamp>
             <longitude>-122.161212663</longitude>
             <latitude>37.4463045405</latitude>
@@ -747,8 +772,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T22:24:58-04:00</begin>
-              <end>2014-04-28T22:29:29-04:00</end>
+              <begin>2014-04-28T21:24:58-05:00</begin>
+              <end>2014-04-28T21:29:29-05:00</end>
             </TimeSpan>
             <longitude>-122.161212663</longitude>
             <latitude>37.4463045405</latitude>
@@ -764,7 +789,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-04-28T22:34:28-04:00</when>
+              <when>2014-04-28T21:34:28-05:00</when>
             </TimeStamp>
             <longitude>-122.1617297912859</longitude>
             <latitude>37.44437571796183</latitude>
@@ -780,11 +805,44 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-04-28T22:34:29-04:00</begin>
-              <end>2014-04-28T23:40:58-04:00</end>
+              <begin>2014-04-28T21:34:29-05:00</begin>
+              <end>2014-04-28T22:40:58-05:00</end>
             </TimeSpan>
             <longitude>-122.1617297912859</longitude>
             <latitude>37.44437571796183</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.33</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeStamp>
+              <when>2014-04-28T23:19:11-05:00</when>
+            </TimeStamp>
+            <longitude>-122.3862791061401</longitude>
+            <latitude>37.61642405271961</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.088852607105296</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-04-28T23:19:12-05:00</begin>
+              <end>2014-04-28T23:31:31-05:00</end>
+            </TimeSpan>
+            <longitude>-122.3862791061401</longitude>
+            <latitude>37.61642405271961</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>

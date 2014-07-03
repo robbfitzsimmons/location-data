@@ -3,37 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ [ -122.3902007984, 37.6116570397 ], [ -122.3902150116, 37.611628351 ], [ -122.3901758209, 37.6115365852 ] ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20140429T235440-0400",
-      "endTime" : "20140430T000045-0400",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20140430T000000-0400",
-        "endTime" : "20140430T000046-0400",
-        "duration" : 46.0,
-        "distance" : 30.0,
-        "steps" : 61,
-        "calories" : 2
-      } ],
-      "lastUpdate" : "20140430T045314Z",
-      "date" : "20140430"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
       "type" : "Point",
       "coordinates" : [ -122.3862791061401, 37.61642405271961 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T000045-0400",
-      "endTime" : "20140430T010309-0400",
+      "startTime" : "20140429T230045-0500",
+      "endTime" : "20140430T000309-0500",
       "place" : {
         "id" : 43977384,
         "name" : "San Francisco International Airport (SFO)",
@@ -45,17 +21,6 @@
           "lon" : -122.3862791061401
         }
       },
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20140430T000143-0400",
-        "endTime" : "20140430T000343-0400",
-        "duration" : 120.0,
-        "distance" : 129.0,
-        "steps" : 172,
-        "calories" : 8
-      } ],
       "lastUpdate" : "20140430T151647Z",
       "date" : "20140430"
     }
@@ -67,14 +32,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T010309-0400",
-      "endTime" : "20140430T050159-0400",
+      "startTime" : "20140430T000309-0500",
+      "endTime" : "20140430T040159-0500",
       "activities" : [ {
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140430T010309-0400",
-        "endTime" : "20140430T050200-0400",
+        "startTime" : "20140430T000309-0500",
+        "endTime" : "20140430T040200-0500",
         "duration" : 14331.0,
         "distance" : 3471991.0
       } ],
@@ -89,14 +54,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T050200-0400",
-      "endTime" : "20140430T063442-0400",
+      "startTime" : "20140430T040200-0500",
+      "endTime" : "20140430T053442-0500",
       "activities" : [ {
         "activity" : "airplane",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140430T050200-0400",
-        "endTime" : "20140430T063442-0400",
+        "startTime" : "20140430T040200-0500",
+        "endTime" : "20140430T053442-0500",
         "duration" : 5562.0,
         "distance" : 1617631.0
       } ],
@@ -111,8 +76,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T063443-0400",
-      "endTime" : "20140430T064727-0400",
+      "startTime" : "20140430T053443-0500",
+      "endTime" : "20140430T054727-0500",
       "place" : {
         "id" : 44477613,
         "name" : "Boston Logan International Airport (BOS)",
@@ -135,14 +100,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T064727-0400",
-      "endTime" : "20140430T065316-0400",
+      "startTime" : "20140430T054727-0500",
+      "endTime" : "20140430T055316-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T064727-0400",
-        "endTime" : "20140430T065316-0400",
+        "startTime" : "20140430T054727-0500",
+        "endTime" : "20140430T055316-0500",
         "duration" : 349.0,
         "distance" : 268.0,
         "steps" : 442,
@@ -159,8 +124,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T065317-0400",
-      "endTime" : "20140430T070545-0400",
+      "startTime" : "20140430T055317-0500",
+      "endTime" : "20140430T060545-0500",
       "place" : {
         "id" : 10149905,
         "name" : "Boston Logan International Airport (BOS)",
@@ -176,14 +141,14 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T065630-0400",
-        "endTime" : "20140430T065800-0400",
+        "startTime" : "20140430T055630-0500",
+        "endTime" : "20140430T055800-0500",
         "duration" : 90.0,
         "distance" : 101.0,
         "steps" : 203,
         "calories" : 7
       } ],
-      "lastUpdate" : "20140430T151647Z",
+      "lastUpdate" : "20140703T042309Z",
       "date" : "20140430"
     }
   }, {
@@ -194,14 +159,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T070545-0400",
-      "endTime" : "20140430T074415-0400",
+      "startTime" : "20140430T060545-0500",
+      "endTime" : "20140430T064415-0500",
       "activities" : [ {
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140430T070545-0400",
-        "endTime" : "20140430T074414-0400",
+        "startTime" : "20140430T060545-0500",
+        "endTime" : "20140430T064414-0500",
         "duration" : 2309.0,
         "distance" : 20251.0
       } ],
@@ -216,8 +181,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T074415-0400",
-      "endTime" : "20140430T134019-0400",
+      "startTime" : "20140430T064415-0500",
+      "endTime" : "20140430T124019-0500",
       "place" : {
         "id" : 9869005,
         "name" : "Home",
@@ -231,8 +196,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T074502-0400",
-        "endTime" : "20140430T074632-0400",
+        "startTime" : "20140430T064502-0500",
+        "endTime" : "20140430T064632-0500",
         "duration" : 90.0,
         "distance" : 66.0,
         "steps" : 132,
@@ -241,8 +206,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T104049-0400",
-        "endTime" : "20140430T104119-0400",
+        "startTime" : "20140430T094049-0500",
+        "endTime" : "20140430T094119-0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 30,
@@ -251,8 +216,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T124852-0400",
-        "endTime" : "20140430T124922-0400",
+        "startTime" : "20140430T114852-0500",
+        "endTime" : "20140430T114922-0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 30,
@@ -261,8 +226,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T130706-0400",
-        "endTime" : "20140430T130806-0400",
+        "startTime" : "20140430T120706-0500",
+        "endTime" : "20140430T120806-0500",
         "duration" : 60.0,
         "distance" : 35.0,
         "steps" : 71,
@@ -279,14 +244,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T134019-0400",
-      "endTime" : "20140430T135600-0400",
+      "startTime" : "20140430T124019-0500",
+      "endTime" : "20140430T125600-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T134019-0400",
-        "endTime" : "20140430T135601-0400",
+        "startTime" : "20140430T124019-0500",
+        "endTime" : "20140430T125601-0500",
         "duration" : 942.0,
         "distance" : 1151.0,
         "steps" : 1497,
@@ -303,8 +268,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T135600-0400",
-      "endTime" : "20140430T144216-0400",
+      "startTime" : "20140430T125600-0500",
+      "endTime" : "20140430T134216-0500",
       "place" : {
         "id" : 19151062,
         "name" : "Grendel's Den Restaurant & Bar",
@@ -320,8 +285,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T143516-0400",
-        "endTime" : "20140430T143546-0400",
+        "startTime" : "20140430T133516-0500",
+        "endTime" : "20140430T133546-0500",
         "duration" : 30.0,
         "distance" : 25.0,
         "steps" : 51,
@@ -338,14 +303,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T144216-0400",
-      "endTime" : "20140430T145749-0400",
+      "startTime" : "20140430T134216-0500",
+      "endTime" : "20140430T135749-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T144216-0400",
-        "endTime" : "20140430T145750-0400",
+        "startTime" : "20140430T134216-0500",
+        "endTime" : "20140430T135750-0500",
         "duration" : 934.0,
         "distance" : 1186.0,
         "steps" : 1658,
@@ -362,8 +327,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T145749-0400",
-      "endTime" : "20140430T150717-0400",
+      "startTime" : "20140430T135749-0500",
+      "endTime" : "20140430T140717-0500",
       "place" : {
         "id" : 9869005,
         "name" : "Home",
@@ -377,8 +342,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T150318-0400",
-        "endTime" : "20140430T150348-0400",
+        "startTime" : "20140430T140318-0500",
+        "endTime" : "20140430T140348-0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 20,
@@ -395,14 +360,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T150717-0400",
-      "endTime" : "20140430T151950-0400",
+      "startTime" : "20140430T140717-0500",
+      "endTime" : "20140430T141950-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T150717-0400",
-        "endTime" : "20140430T151949-0400",
+        "startTime" : "20140430T140717-0500",
+        "endTime" : "20140430T141949-0500",
         "duration" : 752.0,
         "distance" : 820.0,
         "steps" : 1189,
@@ -419,8 +384,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T151950-0400",
-      "endTime" : "20140430T194431-0400",
+      "startTime" : "20140430T141950-0500",
+      "endTime" : "20140430T184431-0500",
       "place" : {
         "id" : 10149993,
         "name" : "Proximate",
@@ -436,8 +401,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T152149-0400",
-        "endTime" : "20140430T152219-0400",
+        "startTime" : "20140430T142149-0500",
+        "endTime" : "20140430T142219-0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 20,
@@ -446,8 +411,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T164855-0400",
-        "endTime" : "20140430T164925-0400",
+        "startTime" : "20140430T154855-0500",
+        "endTime" : "20140430T154925-0500",
         "duration" : 30.0,
         "distance" : 20.0,
         "steps" : 40,
@@ -456,8 +421,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T170638-0400",
-        "endTime" : "20140430T170838-0400",
+        "startTime" : "20140430T160638-0500",
+        "endTime" : "20140430T160838-0500",
         "duration" : 120.0,
         "distance" : 160.0,
         "steps" : 213,
@@ -466,14 +431,14 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T180225-0400",
-        "endTime" : "20140430T180355-0400",
+        "startTime" : "20140430T170225-0500",
+        "endTime" : "20140430T170355-0500",
         "duration" : 90.0,
         "distance" : 71.0,
         "steps" : 142,
         "calories" : 5
       } ],
-      "lastUpdate" : "20140501T002832Z",
+      "lastUpdate" : "20140612T223544Z",
       "date" : "20140430"
     }
   }, {
@@ -484,14 +449,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140430T194431-0400",
-      "endTime" : "20140430T195307-0400",
+      "startTime" : "20140430T184431-0500",
+      "endTime" : "20140430T185307-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T194431-0400",
-        "endTime" : "20140430T195307-0400",
+        "startTime" : "20140430T184431-0500",
+        "endTime" : "20140430T185307-0500",
         "duration" : 516.0,
         "distance" : 805.0,
         "steps" : 769,
@@ -508,8 +473,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140430T195307-0400",
-      "endTime" : "20140501T102141-0400",
+      "startTime" : "20140430T185307-0500",
+      "endTime" : "20140501T092141-0500",
       "place" : {
         "id" : 9869005,
         "name" : "Home",
@@ -523,8 +488,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T195435-0400",
-        "endTime" : "20140430T195759-0400",
+        "startTime" : "20140430T185435-0500",
+        "endTime" : "20140430T185759-0500",
         "duration" : 204.0,
         "distance" : 173.0,
         "steps" : 231,
@@ -533,8 +498,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T200000-0400",
-        "endTime" : "20140430T200506-0400",
+        "startTime" : "20140430T190000-0500",
+        "endTime" : "20140430T190506-0500",
         "duration" : 306.0,
         "distance" : 305.0,
         "steps" : 407,
@@ -543,8 +508,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140430T210301-0400",
-        "endTime" : "20140430T210401-0400",
+        "startTime" : "20140430T200301-0500",
+        "endTime" : "20140430T200401-0500",
         "duration" : 60.0,
         "distance" : 30.0,
         "steps" : 60,

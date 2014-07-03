@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[6/29/14]]></name>
+      <Placemark id="1404018000000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/29/14<br/> 12:00 AM to 12:14 PM<br/> 12:14 hours</p> <p>Walking 4 min, 0.1 mi, 289 steps, 14 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-29T00:00:01-05:00</begin>
+          <end>2014-06-29T12:14:35-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1404062076000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>6/29/14<br/> 12:14 PM to 12:46 PM<br/> 31 min, 1.5 mi, 3,189 steps, 161 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-29T12:14:36-05:00</begin>
+          <end>2014-06-29T12:46:30-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <gx:Track>
+          <tessellate>1</tessellate>
+          <when>2014-06-29T12:14:36-05:00</when>
+          <when>2014-06-29T12:15:40-05:00</when>
+          <when>2014-06-29T12:15:56-05:00</when>
+          <when>2014-06-29T12:16:11-05:00</when>
+          <when>2014-06-29T12:16:27-05:00</when>
+          <when>2014-06-29T12:16:53-05:00</when>
+          <when>2014-06-29T12:18:40-05:00</when>
+          <when>2014-06-29T12:19:52-05:00</when>
+          <when>2014-06-29T12:20:17-05:00</when>
+          <when>2014-06-29T12:20:43-05:00</when>
+          <when>2014-06-29T12:21:00-05:00</when>
+          <when>2014-06-29T12:21:24-05:00</when>
+          <when>2014-06-29T12:21:41-05:00</when>
+          <when>2014-06-29T12:21:58-05:00</when>
+          <when>2014-06-29T12:22:15-05:00</when>
+          <when>2014-06-29T12:22:38-05:00</when>
+          <when>2014-06-29T12:22:53-05:00</when>
+          <when>2014-06-29T12:23:24-05:00</when>
+          <when>2014-06-29T12:23:47-05:00</when>
+          <when>2014-06-29T12:24:11-05:00</when>
+          <when>2014-06-29T12:24:31-05:00</when>
+          <when>2014-06-29T12:24:50-05:00</when>
+          <when>2014-06-29T12:25:13-05:00</when>
+          <when>2014-06-29T12:25:48-05:00</when>
+          <when>2014-06-29T12:26:04-05:00</when>
+          <when>2014-06-29T12:26:27-05:00</when>
+          <when>2014-06-29T12:27:05-05:00</when>
+          <when>2014-06-29T12:27:26-05:00</when>
+          <when>2014-06-29T12:27:52-05:00</when>
+          <when>2014-06-29T12:28:13-05:00</when>
+          <when>2014-06-29T12:28:29-05:00</when>
+          <when>2014-06-29T12:28:45-05:00</when>
+          <when>2014-06-29T12:29:06-05:00</when>
+          <when>2014-06-29T12:29:38-05:00</when>
+          <when>2014-06-29T12:29:56-05:00</when>
+          <when>2014-06-29T12:30:19-05:00</when>
+          <when>2014-06-29T12:30:42-05:00</when>
+          <when>2014-06-29T12:31:05-05:00</when>
+          <when>2014-06-29T12:31:28-05:00</when>
+          <when>2014-06-29T12:31:46-05:00</when>
+          <when>2014-06-29T12:32:01-05:00</when>
+          <when>2014-06-29T12:32:25-05:00</when>
+          <when>2014-06-29T12:32:47-05:00</when>
+          <when>2014-06-29T12:33:12-05:00</when>
+          <when>2014-06-29T12:33:46-05:00</when>
+          <when>2014-06-29T12:34:06-05:00</when>
+          <when>2014-06-29T12:34:31-05:00</when>
+          <when>2014-06-29T12:34:56-05:00</when>
+          <when>2014-06-29T12:35:18-05:00</when>
+          <when>2014-06-29T12:35:37-05:00</when>
+          <when>2014-06-29T12:35:53-05:00</when>
+          <when>2014-06-29T12:36:10-05:00</when>
+          <when>2014-06-29T12:36:36-05:00</when>
+          <when>2014-06-29T12:37:03-05:00</when>
+          <when>2014-06-29T12:37:28-05:00</when>
+          <when>2014-06-29T12:37:52-05:00</when>
+          <when>2014-06-29T12:38:10-05:00</when>
+          <when>2014-06-29T12:38:34-05:00</when>
+          <when>2014-06-29T12:38:57-05:00</when>
+          <when>2014-06-29T12:39:21-05:00</when>
+          <when>2014-06-29T12:39:51-05:00</when>
+          <when>2014-06-29T12:40:12-05:00</when>
+          <when>2014-06-29T12:40:36-05:00</when>
+          <when>2014-06-29T12:41:11-05:00</when>
+          <when>2014-06-29T12:41:27-05:00</when>
+          <when>2014-06-29T12:41:50-05:00</when>
+          <when>2014-06-29T12:42:13-05:00</when>
+          <when>2014-06-29T12:42:36-05:00</when>
+          <when>2014-06-29T12:42:59-05:00</when>
+          <when>2014-06-29T12:43:22-05:00</when>
+          <when>2014-06-29T12:43:42-05:00</when>
+          <when>2014-06-29T12:44:00-05:00</when>
+          <when>2014-06-29T12:44:24-05:00</when>
+          <when>2014-06-29T12:44:46-05:00</when>
+          <when>2014-06-29T12:45:09-05:00</when>
+          <when>2014-06-29T12:45:32-05:00</when>
+          <when>2014-06-29T12:46:06-05:00</when>
+          <when>2014-06-29T12:46:29-05:00</when>
+          <gx:coord>-71.1114458017 42.3754311174</gx:coord>
+          <gx:coord>-71.1111639796 42.3740610185</gx:coord>
+          <gx:coord>-71.1110361593 42.3739108134</gx:coord>
+          <gx:coord>-71.1108932508 42.3737750549</gx:coord>
+          <gx:coord>-71.1108890504 42.3735575851</gx:coord>
+          <gx:coord>-71.1109807105 42.373212909</gx:coord>
+          <gx:coord>-71.1117137117 42.3721942308</gx:coord>
+          <gx:coord>-71.1118509792 42.3713884234</gx:coord>
+          <gx:coord>-71.1122222762 42.3712962525</gx:coord>
+          <gx:coord>-71.1124389258 42.3710339319</gx:coord>
+          <gx:coord>-71.1125544787 42.3707393581</gx:coord>
+          <gx:coord>-71.1127659029 42.3703982464</gx:coord>
+          <gx:coord>-71.1129077094 42.3702472942</gx:coord>
+          <gx:coord>-71.1130699658 42.370118997</gx:coord>
+          <gx:coord>-71.1132297941 42.3700080902</gx:coord>
+          <gx:coord>-71.1133369596 42.3697377748</gx:coord>
+          <gx:coord>-71.1133961498 42.369550705</gx:coord>
+          <gx:coord>-71.1134715458 42.3692967196</gx:coord>
+          <gx:coord>-71.113555333 42.3690542062</gx:coord>
+          <gx:coord>-71.1134743613 42.3687226784</gx:coord>
+          <gx:coord>-71.1134412791 42.3683855149</gx:coord>
+          <gx:coord>-71.1134869023 42.3681645692</gx:coord>
+          <gx:coord>-71.1134893289 42.3679159593</gx:coord>
+          <gx:coord>-71.1134785559 42.367473007</gx:coord>
+          <gx:coord>-71.1134508436 42.3672808361</gx:coord>
+          <gx:coord>-71.1134108427 42.3670688489</gx:coord>
+          <gx:coord>-71.1134616163 42.36672188</gx:coord>
+          <gx:coord>-71.1135503162 42.3664209493</gx:coord>
+          <gx:coord>-71.1136153796 42.3659853466</gx:coord>
+          <gx:coord>-71.1136956155 42.3658037927</gx:coord>
+          <gx:coord>-71.1138329122 42.3656050263</gx:coord>
+          <gx:coord>-71.1138376649 42.365414249</gx:coord>
+          <gx:coord>-71.1138894793 42.3651108089</gx:coord>
+          <gx:coord>-71.1140348767 42.3647087593</gx:coord>
+          <gx:coord>-71.1142834567 42.3645491185</gx:coord>
+          <gx:coord>-71.1146073387 42.3643955788</gx:coord>
+          <gx:coord>-71.1148405633 42.3642290929</gx:coord>
+          <gx:coord>-71.1149215215 42.3640374006</gx:coord>
+          <gx:coord>-71.1147667088 42.3638665326</gx:coord>
+          <gx:coord>-71.1144634485 42.3637883567</gx:coord>
+          <gx:coord>-71.1146243885 42.3634084779</gx:coord>
+          <gx:coord>-71.1146013025 42.3630855137</gx:coord>
+          <gx:coord>-71.1145936335 42.3628434794</gx:coord>
+          <gx:coord>-71.114687645 42.3624098724</gx:coord>
+          <gx:coord>-71.1146076045 42.3620446551</gx:coord>
+          <gx:coord>-71.1146813039 42.3619680004</gx:coord>
+          <gx:coord>-71.1148313474 42.3619242043</gx:coord>
+          <gx:coord>-71.1149311142 42.3618345937</gx:coord>
+          <gx:coord>-71.1151309931 42.3616959765</gx:coord>
+          <gx:coord>-71.115232026 42.3615389234</gx:coord>
+          <gx:coord>-71.1151115362 42.3613191844</gx:coord>
+          <gx:coord>-71.1154066402 42.3611716326</gx:coord>
+          <gx:coord>-71.115791941 42.3608946846</gx:coord>
+          <gx:coord>-71.1158459597 42.3606074626</gx:coord>
+          <gx:coord>-71.1158262077 42.3601777771</gx:coord>
+          <gx:coord>-71.1158008581 42.3596156422</gx:coord>
+          <gx:coord>-71.1157666204 42.3593297889</gx:coord>
+          <gx:coord>-71.1156883804 42.3590407141</gx:coord>
+          <gx:coord>-71.1156161237 42.3589125772</gx:coord>
+          <gx:coord>-71.1155510959 42.358748918</gx:coord>
+          <gx:coord>-71.1154638027 42.3584764727</gx:coord>
+          <gx:coord>-71.1151568081 42.3583569682</gx:coord>
+          <gx:coord>-71.114772918 42.358371734</gx:coord>
+          <gx:coord>-71.1146429805 42.3576699189</gx:coord>
+          <gx:coord>-71.1146410625 42.3575152369</gx:coord>
+          <gx:coord>-71.114601189 42.3573966999</gx:coord>
+          <gx:coord>-71.1145569837 42.3573025019</gx:coord>
+          <gx:coord>-71.1145095484 42.3572593268</gx:coord>
+          <gx:coord>-71.1144726439 42.357220913</gx:coord>
+          <gx:coord>-71.1144891846 42.3571990328</gx:coord>
+          <gx:coord>-71.114528688 42.3571973166</gx:coord>
+          <gx:coord>-71.1145732338 42.3571625066</gx:coord>
+          <gx:coord>-71.1144477689 42.3570544793</gx:coord>
+          <gx:coord>-71.1143967169 42.3569572337</gx:coord>
+          <gx:coord>-71.1144656845 42.3570911226</gx:coord>
+          <gx:coord>-71.1145133612 42.3571246272</gx:coord>
+          <gx:coord>-71.1145247029 42.3571347886</gx:coord>
+          <gx:coord>-71.1144302978 42.3575089768</gx:coord>
+        </gx:Track>
+      </Placemark>
+      <Placemark id="1404063989000">
+        <name><![CDATA[Trader Joe's]]></name>
+        <atom:link href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3"/>
+        <description><![CDATA[<p>6/29/14<br/> 12:46 PM to 1:22 PM<br/> 36 min</p> <p>Walking 4 min, 0.2 mi, 435 steps, 18 Cal</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-29T12:46:30-05:00</begin>
+          <end>2014-06-29T13:22:51-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.11529,42.3577</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1404066172000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>6/29/14<br/> 1:22 PM to 1:52 PM<br/> 29 min, 1.4 mi, 3,067 steps, 147 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-29T13:22:52-05:00</begin>
+          <end>2014-06-29T13:52:22-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <gx:Track>
+          <tessellate>1</tessellate>
+          <when>2014-06-29T13:22:52-05:00</when>
+          <when>2014-06-29T13:23:14-05:00</when>
+          <when>2014-06-29T13:23:31-05:00</when>
+          <when>2014-06-29T13:23:59-05:00</when>
+          <when>2014-06-29T13:24:17-05:00</when>
+          <when>2014-06-29T13:24:37-05:00</when>
+          <when>2014-06-29T13:25:08-05:00</when>
+          <when>2014-06-29T13:25:30-05:00</when>
+          <when>2014-06-29T13:25:49-05:00</when>
+          <when>2014-06-29T13:26:04-05:00</when>
+          <when>2014-06-29T13:26:20-05:00</when>
+          <when>2014-06-29T13:26:43-05:00</when>
+          <when>2014-06-29T13:27:06-05:00</when>
+          <when>2014-06-29T13:27:29-05:00</when>
+          <when>2014-06-29T13:27:52-05:00</when>
+          <when>2014-06-29T13:28:11-05:00</when>
+          <when>2014-06-29T13:28:29-05:00</when>
+          <when>2014-06-29T13:28:45-05:00</when>
+          <when>2014-06-29T13:29:07-05:00</when>
+          <when>2014-06-29T13:29:25-05:00</when>
+          <when>2014-06-29T13:29:42-05:00</when>
+          <when>2014-06-29T13:30:05-05:00</when>
+          <when>2014-06-29T13:30:28-05:00</when>
+          <when>2014-06-29T13:30:50-05:00</when>
+          <when>2014-06-29T13:31:13-05:00</when>
+          <when>2014-06-29T13:31:36-05:00</when>
+          <when>2014-06-29T13:31:56-05:00</when>
+          <when>2014-06-29T13:32:24-05:00</when>
+          <when>2014-06-29T13:32:42-05:00</when>
+          <when>2014-06-29T13:33:00-05:00</when>
+          <when>2014-06-29T13:33:22-05:00</when>
+          <when>2014-06-29T13:33:37-05:00</when>
+          <when>2014-06-29T13:33:54-05:00</when>
+          <when>2014-06-29T13:34:17-05:00</when>
+          <when>2014-06-29T13:34:51-05:00</when>
+          <when>2014-06-29T13:35:14-05:00</when>
+          <when>2014-06-29T13:35:37-05:00</when>
+          <when>2014-06-29T13:36:24-05:00</when>
+          <when>2014-06-29T13:36:41-05:00</when>
+          <when>2014-06-29T13:37:07-05:00</when>
+          <when>2014-06-29T13:37:31-05:00</when>
+          <when>2014-06-29T13:37:51-05:00</when>
+          <when>2014-06-29T13:38:14-05:00</when>
+          <when>2014-06-29T13:38:37-05:00</when>
+          <when>2014-06-29T13:39:00-05:00</when>
+          <when>2014-06-29T13:39:23-05:00</when>
+          <when>2014-06-29T13:39:46-05:00</when>
+          <when>2014-06-29T13:40:08-05:00</when>
+          <when>2014-06-29T13:40:38-05:00</when>
+          <when>2014-06-29T13:40:55-05:00</when>
+          <when>2014-06-29T13:41:10-05:00</when>
+          <when>2014-06-29T13:41:33-05:00</when>
+          <when>2014-06-29T13:42:08-05:00</when>
+          <when>2014-06-29T13:42:33-05:00</when>
+          <when>2014-06-29T13:42:49-05:00</when>
+          <when>2014-06-29T13:43:12-05:00</when>
+          <when>2014-06-29T13:43:35-05:00</when>
+          <when>2014-06-29T13:43:58-05:00</when>
+          <when>2014-06-29T13:44:15-05:00</when>
+          <when>2014-06-29T13:44:31-05:00</when>
+          <when>2014-06-29T13:44:48-05:00</when>
+          <when>2014-06-29T13:45:10-05:00</when>
+          <when>2014-06-29T13:45:31-05:00</when>
+          <when>2014-06-29T13:45:51-05:00</when>
+          <when>2014-06-29T13:46:14-05:00</when>
+          <when>2014-06-29T13:46:32-05:00</when>
+          <when>2014-06-29T13:47:07-05:00</when>
+          <when>2014-06-29T13:47:30-05:00</when>
+          <when>2014-06-29T13:47:52-05:00</when>
+          <when>2014-06-29T13:48:12-05:00</when>
+          <when>2014-06-29T13:48:29-05:00</when>
+          <when>2014-06-29T13:48:50-05:00</when>
+          <when>2014-06-29T13:49:06-05:00</when>
+          <when>2014-06-29T13:49:23-05:00</when>
+          <when>2014-06-29T13:49:43-05:00</when>
+          <when>2014-06-29T13:50:06-05:00</when>
+          <when>2014-06-29T13:50:29-05:00</when>
+          <when>2014-06-29T13:51:07-05:00</when>
+          <when>2014-06-29T13:51:44-05:00</when>
+          <when>2014-06-29T13:52:06-05:00</when>
+          <when>2014-06-29T13:52:23-05:00</when>
+          <gx:coord>-71.1144302978 42.3575089768</gx:coord>
+          <gx:coord>-71.1144174968 42.3580270326</gx:coord>
+          <gx:coord>-71.1144124776 42.35802503</gx:coord>
+          <gx:coord>-71.1144054755 42.3580086309</gx:coord>
+          <gx:coord>-71.1141968143 42.3582059382</gx:coord>
+          <gx:coord>-71.1140651504 42.3584258439</gx:coord>
+          <gx:coord>-71.1142847348 42.3586406041</gx:coord>
+          <gx:coord>-71.1142465694 42.359010863</gx:coord>
+          <gx:coord>-71.1139447481 42.3592838378</gx:coord>
+          <gx:coord>-71.1136678571 42.3594663116</gx:coord>
+          <gx:coord>-71.1134031564 42.359664751</gx:coord>
+          <gx:coord>-71.1132265877 42.3598856886</gx:coord>
+          <gx:coord>-71.1130799078 42.3600912754</gx:coord>
+          <gx:coord>-71.1130930778 42.3602794577</gx:coord>
+          <gx:coord>-71.1132061637 42.3604343107</gx:coord>
+          <gx:coord>-71.1132953143 42.3605455762</gx:coord>
+          <gx:coord>-71.1134014605 42.3607217897</gx:coord>
+          <gx:coord>-71.1134728592 42.3609254249</gx:coord>
+          <gx:coord>-71.1135624327 42.3611225101</gx:coord>
+          <gx:coord>-71.1136050755 42.3616060526</gx:coord>
+          <gx:coord>-71.1136665092 42.3619195811</gx:coord>
+          <gx:coord>-71.1137011626 42.3621429486</gx:coord>
+          <gx:coord>-71.1136961372 42.362243841</gx:coord>
+          <gx:coord>-71.1136839908 42.3622618337</gx:coord>
+          <gx:coord>-71.1136838144 42.3622618232</gx:coord>
+          <gx:coord>-71.1136838144 42.3622618232</gx:coord>
+          <gx:coord>-71.1136838144 42.3622618232</gx:coord>
+          <gx:coord>-71.1136788934 42.3622622485</gx:coord>
+          <gx:coord>-71.1136330233 42.3624557219</gx:coord>
+          <gx:coord>-71.1136221725 42.3628266028</gx:coord>
+          <gx:coord>-71.1136798375 42.363145618</gx:coord>
+          <gx:coord>-71.1136782801 42.363437714</gx:coord>
+          <gx:coord>-71.1136874868 42.3636757987</gx:coord>
+          <gx:coord>-71.1137009491 42.3640058546</gx:coord>
+          <gx:coord>-71.1138058644 42.3643871102</gx:coord>
+          <gx:coord>-71.1138512757 42.364505902</gx:coord>
+          <gx:coord>-71.1138835081 42.3645301409</gx:coord>
+          <gx:coord>-71.114018125 42.3645623318</gx:coord>
+          <gx:coord>-71.1138686078 42.3646752878</gx:coord>
+          <gx:coord>-71.1135533465 42.3650799568</gx:coord>
+          <gx:coord>-71.1135734204 42.3657501</gx:coord>
+          <gx:coord>-71.1135692308 42.3661452565</gx:coord>
+          <gx:coord>-71.1135950007 42.3664969425</gx:coord>
+          <gx:coord>-71.1135241073 42.3667490089</gx:coord>
+          <gx:coord>-71.1134972348 42.3669190497</gx:coord>
+          <gx:coord>-71.1134794937 42.3671462857</gx:coord>
+          <gx:coord>-71.1134837111 42.3674094478</gx:coord>
+          <gx:coord>-71.11348321 42.3676468268</gx:coord>
+          <gx:coord>-71.1133375082 42.3678280547</gx:coord>
+          <gx:coord>-71.1135542095 42.367840038</gx:coord>
+          <gx:coord>-71.1134563824 42.3680350024</gx:coord>
+          <gx:coord>-71.1135235537 42.3686132512</gx:coord>
+          <gx:coord>-71.113511519 42.3691597578</gx:coord>
+          <gx:coord>-71.113489112 42.3694572525</gx:coord>
+          <gx:coord>-71.1134779792 42.3696854237</gx:coord>
+          <gx:coord>-71.1134030681 42.3699502396</gx:coord>
+          <gx:coord>-71.113320771 42.3700938585</gx:coord>
+          <gx:coord>-71.1132140063 42.3701772122</gx:coord>
+          <gx:coord>-71.1130966746 42.3702547392</gx:coord>
+          <gx:coord>-71.1129677392 42.3702638288</gx:coord>
+          <gx:coord>-71.1126036869 42.3705828855</gx:coord>
+          <gx:coord>-71.1127146214 42.3706579962</gx:coord>
+          <gx:coord>-71.1124915613 42.3708678461</gx:coord>
+          <gx:coord>-71.1123004451 42.3710796775</gx:coord>
+          <gx:coord>-71.1121659945 42.3712696219</gx:coord>
+          <gx:coord>-71.1120841494 42.3714197842</gx:coord>
+          <gx:coord>-71.1118582992 42.3718271118</gx:coord>
+          <gx:coord>-71.1116389737 42.3721661989</gx:coord>
+          <gx:coord>-71.1114454516 42.37245431</gx:coord>
+          <gx:coord>-71.1113373874 42.3726804684</gx:coord>
+          <gx:coord>-71.1112126604 42.3729778197</gx:coord>
+          <gx:coord>-71.1110986073 42.3730790085</gx:coord>
+          <gx:coord>-71.1108715425 42.3730187545</gx:coord>
+          <gx:coord>-71.110944876 42.3734248846</gx:coord>
+          <gx:coord>-71.1110857606 42.3735825558</gx:coord>
+          <gx:coord>-71.1111895465 42.3738855351</gx:coord>
+          <gx:coord>-71.1111096184 42.3743300106</gx:coord>
+          <gx:coord>-71.1109457244 42.3748736088</gx:coord>
+          <gx:coord>-71.1110659343 42.3750816153</gx:coord>
+          <gx:coord>-71.1111799291 42.375115861</gx:coord>
+          <gx:coord>-71.1114458017 42.3754311174</gx:coord>
+        </gx:Track>
+      </Placemark>
+      <Placemark id="1404067943000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>6/29/14<br/> 1:52 PM to 12:00 AM<br/> 10:07 hours</p> <p>Walking 3 min, 0.1 mi, 224 steps, 8 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-06-29T13:52:24-05:00</begin>
+          <end>2014-06-29T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <gx:Tour>
+      <name><![CDATA[Moves tour]]></name>
+      <gx:Playlist>
+        <gx:FlyTo>
+          <gx:duration>0.33</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeStamp>
+              <when>2014-06-29T00:00:00-05:00</when>
+            </TimeStamp>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>8.3977139746481</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T00:00:01-05:00</begin>
+              <end>2014-06-29T12:14:35-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:14:36-05:00</begin>
+              <end>2014-06-29T12:14:36-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>806.9043340413137</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:14:36-05:00</begin>
+              <end>2014-06-29T12:22:15-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1132297941</longitude>
+            <latitude>42.3700080902</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1013.8086680826275</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:22:15-05:00</begin>
+              <end>2014-06-29T12:29:56-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1142834567</longitude>
+            <latitude>42.3645491185</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1013.8086680826275</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:29:56-05:00</begin>
+              <end>2014-06-29T12:38:34-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1156883804</longitude>
+            <latitude>42.3590407141</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1013.8086680826275</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.8717797887081348</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:38:34-05:00</begin>
+              <end>2014-06-29T12:46:29-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1144302978</longitude>
+            <latitude>42.3575089768</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>806.9043340413137</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.33</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeStamp>
+              <when>2014-06-29T12:46:29-05:00</when>
+            </TimeStamp>
+            <longitude>-71.11529</longitude>
+            <latitude>42.3577</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.8689034217957865</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T12:46:30-05:00</begin>
+              <end>2014-06-29T13:22:51-05:00</end>
+            </TimeSpan>
+            <longitude>-71.11529</longitude>
+            <latitude>42.3577</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:22:52-05:00</begin>
+              <end>2014-06-29T13:22:52-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1144302978</longitude>
+            <latitude>42.3575089768</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>800.8445839179294</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0039920318408906</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:22:52-05:00</begin>
+              <end>2014-06-29T13:33:22-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1136798375</longitude>
+            <latitude>42.363145618</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1001.6891678358588</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:33:22-05:00</begin>
+              <end>2014-06-29T13:41:33-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1135235537</longitude>
+            <latitude>42.3686132512</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1001.6891678358588</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:41:33-05:00</begin>
+              <end>2014-06-29T13:50:06-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1111895465</longitude>
+            <latitude>42.3738855351</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1001.6891678358588</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:50:06-05:00</begin>
+              <end>2014-06-29T13:52:23-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>800.8445839179294</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.33</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeStamp>
+              <when>2014-06-29T13:52:23-05:00</when>
+            </TimeStamp>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>7.6374864975330725</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-06-29T13:52:24-05:00</begin>
+              <end>2014-06-29T23:59:59-05:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+      </gx:Playlist>
+    </gx:Tour>
+  </Document>
+</kml>
