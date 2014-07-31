@@ -3,21 +3,37 @@
   "summary" : [ {
     "activity" : "walking",
     "group" : "walking",
-    "duration" : 1681.0,
-    "distance" : 2097.0,
-    "steps" : 2969,
-    "calories" : 137
+    "duration" : 1921.0,
+    "distance" : 2277.0,
+    "steps" : 3121,
+    "calories" : 148
   } ],
   "segments" : [ {
-    "type" : "move",
-    "startTime" : "20140323T130116-0500",
-    "endTime" : "20140323T131148-0500",
+    "type" : "place",
+    "startTime" : "20140322T144203-0400",
+    "endTime" : "20140323T140116-0400",
     "activities" : [ {
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T130116-0500",
-      "endTime" : "20140323T131148-0500",
+      "startTime" : "20140323T000241-0400",
+      "endTime" : "20140323T000641-0400",
+      "duration" : 240.0,
+      "distance" : 180.0,
+      "steps" : 152,
+      "calories" : 12
+    } ],
+    "lastUpdate" : "20140323T210645Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20140323T140116-0400",
+    "endTime" : "20140323T141148-0400",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20140323T140116-0400",
+      "endTime" : "20140323T141148-0400",
       "duration" : 632.0,
       "distance" : 817.0,
       "steps" : 1145,
@@ -26,14 +42,14 @@
     "lastUpdate" : "20140323T210645Z"
   }, {
     "type" : "place",
-    "startTime" : "20140323T131148-0500",
-    "endTime" : "20140323T172352-0500",
+    "startTime" : "20140323T141148-0400",
+    "endTime" : "20140323T182352-0400",
     "activities" : [ {
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T150838-0500",
-      "endTime" : "20140323T151156-0500",
+      "startTime" : "20140323T160838-0400",
+      "endTime" : "20140323T161156-0400",
       "duration" : 198.0,
       "distance" : 259.0,
       "steps" : 346,
@@ -42,8 +58,8 @@
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T164412-0500",
-      "endTime" : "20140323T164442-0500",
+      "startTime" : "20140323T174412-0400",
+      "endTime" : "20140323T174442-0400",
       "duration" : 30.0,
       "distance" : 25.0,
       "steps" : 51,
@@ -52,24 +68,24 @@
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T172128-0500",
-      "endTime" : "20140323T172228-0500",
+      "startTime" : "20140323T182128-0400",
+      "endTime" : "20140323T182228-0400",
       "duration" : 60.0,
       "distance" : 51.0,
       "steps" : 101,
       "calories" : 3
     } ],
-    "lastUpdate" : "20140612T223544Z"
+    "lastUpdate" : "20140724T001347Z"
   }, {
     "type" : "move",
-    "startTime" : "20140323T172352-0500",
-    "endTime" : "20140323T173503-0500",
+    "startTime" : "20140323T182352-0400",
+    "endTime" : "20140323T183503-0400",
     "activities" : [ {
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T172352-0500",
-      "endTime" : "20140323T173503-0500",
+      "startTime" : "20140323T182352-0400",
+      "endTime" : "20140323T183503-0400",
       "duration" : 671.0,
       "distance" : 884.0,
       "steps" : 1215,
@@ -78,14 +94,14 @@
     "lastUpdate" : "20140324T015019Z"
   }, {
     "type" : "place",
-    "startTime" : "20140323T173503-0500",
-    "endTime" : "20140324T083935-0500",
+    "startTime" : "20140323T183503-0400",
+    "endTime" : "20140324T093935-0400",
     "activities" : [ {
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T173629-0500",
-      "endTime" : "20140323T173729-0500",
+      "startTime" : "20140323T183629-0400",
+      "endTime" : "20140323T183729-0400",
       "duration" : 60.0,
       "distance" : 46.0,
       "steps" : 91,
@@ -94,8 +110,8 @@
       "activity" : "walking",
       "group" : "walking",
       "manual" : false,
-      "startTime" : "20140323T211536-0500",
-      "endTime" : "20140323T211606-0500",
+      "startTime" : "20140323T221536-0400",
+      "endTime" : "20140323T221606-0400",
       "duration" : 30.0,
       "distance" : 15.0,
       "steps" : 20,
@@ -104,5 +120,5 @@
     "lastUpdate" : "20140324T165255Z"
   } ],
   "caloriesIdle" : 1875,
-  "lastUpdate" : "20140612T223544Z"
+  "lastUpdate" : "20140724T001347Z"
 } ]

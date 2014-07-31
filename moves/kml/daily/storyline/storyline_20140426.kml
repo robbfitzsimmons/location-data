@@ -68,6 +68,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Bank">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/financial.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_work">
       <IconStyle>
         <scale>1.0</scale>
@@ -142,12 +154,77 @@
     </Style>
     <Folder>
       <name><![CDATA[4/26/14]]></name>
-      <Placemark id="1398488400000">
-        <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 12:00 AM to 11:02 AM<br/> 11:02 hours</p> <p>Walking 7 min, 0.3 mi, 618 steps, 28 Cal</p>]]></description>
+      <Placemark id="1398484800000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>4/26/14<br/> 12:00 AM to 12:01 AM<br/> 1 min, 0.1 mi, 175 steps, 6 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T00:00:01-05:00</begin>
-          <end>2014-04-26T11:02:58-05:00</end>
+          <begin>2014-04-26T00:00:00-04:00</begin>
+          <end>2014-04-26T00:01:49-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.0578179708,42.3418761016 -71.05773806,42.3418712476 -71.0573348796,42.341871168 -71.0572221147,42.3419155759 -71.0571886078,42.3419881859 -71.057199631,42.3421648542 -71.057112411,42.3422644608</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1398484908000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>4/26/14<br/> 12:01 AM to 12:30 AM<br/> 28 min, 2.9 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-26T00:01:48-04:00</begin>
+          <end>2014-04-26T00:30:47-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.057112411,42.3422644608 -71.0571024494,42.3426232829 -71.0570715115,42.3426646436 -71.0570494788,42.3427018112 -71.0570631736,42.3427317318 -71.0570747059,42.3427624039 -71.0570887702,42.3427954123 -71.0571053452,42.3428321893 -71.05712366,42.3428706092 -71.0571408018,42.342911599 -71.0572063569,42.3430558634 -71.0710262377,42.3612701712 -71.0715895166,42.3615233771 -71.071751823,42.3615877687 -71.0766718923,42.363248787 -71.0812917411,42.3620692725 -71.0825368689,42.3622234129 -71.0828574776,42.3623693876 -71.089509276,42.3643979362</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1398486647000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>4/26/14<br/> 12:30 AM to 12:34 AM<br/> 3 min, 0.2 mi, 215 steps, 17 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-26T00:30:47-04:00</begin>
+          <end>2014-04-26T00:34:30-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.089509276,42.3643979362 -71.0895899005,42.3644225294 -71.1190221826,42.3736043312</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1398486870000">
+        <name><![CDATA[Bank Of America]]></name>
+        <atom:link href="http://foursquare.com/venue/4ab24fd3f964a520ea6a20e3"/>
+        <description><![CDATA[<p>4/26/14<br/> 12:34 AM to 12:37 AM<br/> 3 min</p> <p>Bank<br/> <a href="http://foursquare.com/venue/4ab24fd3f964a520ea6a20e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-26T00:34:31-04:00</begin>
+          <end>2014-04-26T00:37:44-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Bank</styleUrl>
+        <Point>
+          <coordinates>-71.11902218263484,42.37360433115195</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1398487065000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>4/26/14<br/> 12:37 AM to 12:59 AM<br/> 21 min, 0.7 mi, 1,733 steps, 72 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-26T00:37:45-04:00</begin>
+          <end>2014-04-26T00:59:24-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1190221826,42.3736043312 -71.1188817933,42.3735514823 -71.1188710102,42.3737463044 -71.1188813096,42.3739236345 -71.1188301708,42.3740828611 -71.1186593756,42.3742910517 -71.1187040489,42.3743771074 -71.1186158744,42.3745607272 -71.1184033744,42.3746132059 -71.1182534693,42.3746582992 -71.1178672519,42.3747055784 -71.117619583,42.3747789507 -71.1175920231,42.3748228901 -71.1176558216,42.3748349009 -71.1176543646,42.3750164682 -71.1174434314,42.3750654193 -71.1171425893,42.3752111942 -71.1168504653,42.3754270031 -71.1166426713,42.3756425627 -71.116571322,42.37570174 -71.1165316259,42.3757927927 -71.116601141,42.3759626829 -71.1167019004,42.3761762324 -71.1167247513,42.3762156366 -71.1166711809,42.3762678759 -71.1165883008,42.3763774684 -71.1161597388,42.3765822748 -71.1158677633,42.376550728 -71.1155840466,42.376427737 -71.1154844521,42.3762532427 -71.1157392706,42.3760954772 -71.115795288,42.376101581 -71.1155675722,42.3763290957 -71.1151337143,42.3763818439 -71.1146792931,42.3765080761 -71.1143477475,42.3765297729 -71.1140632121,42.376517977 -71.1138096737,42.3764452875 -71.1135532597,42.3763434962 -71.1134099654,42.3762316268 -71.113404456,42.3762104187 -71.1132202505,42.3761291595 -71.1131509867,42.3760570462 -71.1130073155,42.3760637484 -71.1127815273,42.3760326158 -71.1126482027,42.375982427 -71.1124203319,42.3759037398 -71.1121814594,42.3758928045 -71.1121328072,42.3759003763 -71.1119276667,42.3758528511 -71.1118311169,42.3758405916 -71.1114754646,42.3757691294 -71.1112738611,42.3755508905 -71.1111188088,42.3755100685 -71.1110168078,42.3753954256 -71.1114458017,42.3754311174</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1398488364000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>4/26/14<br/> 12:59 AM to 12:02 PM<br/> 11:03 hours</p> <p>Walking 7 min, 0.3 mi, 618 steps, 28 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-04-26T00:59:25-04:00</begin>
+          <end>2014-04-26T12:02:58-04:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -156,10 +233,10 @@
       </Placemark>
       <Placemark id="1398528179000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 11:02 AM to 11:14 AM<br/> 11 min, 0.6 mi, 1,279 steps, 66 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 12:02 PM to 12:14 PM<br/> 11 min, 0.6 mi, 1,279 steps, 66 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T11:02:59-05:00</begin>
-          <end>2014-04-26T11:14:37-05:00</end>
+          <begin>2014-04-26T12:02:59-04:00</begin>
+          <end>2014-04-26T12:14:37-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -169,10 +246,10 @@
       </Placemark>
       <Placemark id="1398528876000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 11:14 AM to 11:50 AM<br/> 36 min, 6.8 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 12:14 PM to 12:50 PM<br/> 36 min, 6.8 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T11:14:36-05:00</begin>
-          <end>2014-04-26T11:50:38-05:00</end>
+          <begin>2014-04-26T12:14:36-04:00</begin>
+          <end>2014-04-26T12:50:38-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <LineString>
@@ -182,10 +259,10 @@
       </Placemark>
       <Placemark id="1398531038000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 11:50 AM to 11:54 AM<br/> 4 min, 0.1 mi, 325 steps, 11 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 12:50 PM to 12:54 PM<br/> 4 min, 0.1 mi, 325 steps, 11 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T11:50:38-05:00</begin>
-          <end>2014-04-26T11:54:38-05:00</end>
+          <begin>2014-04-26T12:50:38-04:00</begin>
+          <end>2014-04-26T12:54:38-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -195,10 +272,10 @@
       </Placemark>
       <Placemark id="1398531279000">
         <name><![CDATA[Place in Logan International Airport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 11:54 AM to 12:03 PM<br/> 8 min</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 12:54 PM to 1:03 PM<br/> 8 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T11:54:40-05:00</begin>
-          <end>2014-04-26T12:03:04-05:00</end>
+          <begin>2014-04-26T12:54:40-04:00</begin>
+          <end>2014-04-26T13:03:04-04:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -207,10 +284,10 @@
       </Placemark>
       <Placemark id="1398531785000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 12:03 PM to 12:04 PM<br/> 1 min, 0.2 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 1:03 PM to 1:04 PM<br/> 1 min, 0.2 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T12:03:05-05:00</begin>
-          <end>2014-04-26T12:04:31-05:00</end>
+          <begin>2014-04-26T13:03:05-04:00</begin>
+          <end>2014-04-26T13:04:31-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <LineString>
@@ -220,10 +297,10 @@
       </Placemark>
       <Placemark id="1398531871000">
         <name><![CDATA[Place in Jeffries Point]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 12:04 PM to 12:10 PM<br/> 5 min</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 1:04 PM to 1:10 PM<br/> 5 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T12:04:32-05:00</begin>
-          <end>2014-04-26T12:10:01-05:00</end>
+          <begin>2014-04-26T13:04:32-04:00</begin>
+          <end>2014-04-26T13:10:01-04:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -232,10 +309,10 @@
       </Placemark>
       <Placemark id="1398532202000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 12:10 PM to 12:13 PM<br/> 3 min, 0.1 mi, 349 steps, 12 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 1:10 PM to 1:13 PM<br/> 3 min, 0.1 mi, 349 steps, 12 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T12:10:02-05:00</begin>
-          <end>2014-04-26T12:13:15-05:00</end>
+          <begin>2014-04-26T13:10:02-04:00</begin>
+          <end>2014-04-26T13:13:15-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -246,10 +323,10 @@
       <Placemark id="1398532395000">
         <name><![CDATA[Boston Logan International Airport (BOS)]]></name>
         <atom:link href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 12:13 PM to 12:32 PM<br/> 19 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 1:13 PM to 1:32 PM<br/> 19 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T12:13:16-05:00</begin>
-          <end>2014-04-26T12:32:54-05:00</end>
+          <begin>2014-04-26T13:13:16-04:00</begin>
+          <end>2014-04-26T13:32:54-04:00</end>
         </TimeSpan>
         <styleUrl>#place_Airport</styleUrl>
         <Point>
@@ -259,10 +336,10 @@
       <Placemark id="1398533671000">
         <name><![CDATA[Boston Logan International Airport (BOS)]]></name>
         <atom:link href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 12:34 PM to 1:36 PM<br/> 1:01 hours</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 1:34 PM to 2:36 PM<br/> 1:01 hours</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T12:34:32-05:00</begin>
-          <end>2014-04-26T13:36:22-05:00</end>
+          <begin>2014-04-26T13:34:32-04:00</begin>
+          <end>2014-04-26T14:36:22-04:00</end>
         </TimeSpan>
         <styleUrl>#place_Airport</styleUrl>
         <Point>
@@ -271,10 +348,10 @@
       </Placemark>
       <Placemark id="1398537383000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 1:36 PM to 1:49 PM<br/> 12 min, 214.4 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 2:36 PM to 2:49 PM<br/> 12 min, 214.4 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T13:36:23-05:00</begin>
-          <end>2014-04-26T13:49:15-05:00</end>
+          <begin>2014-04-26T14:36:23-04:00</begin>
+          <end>2014-04-26T14:49:15-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <LineString>
@@ -284,10 +361,10 @@
       </Placemark>
       <Placemark id="1398538155000">
         <name><![CDATA[Place in John F. Kennedy International Airport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 1:49 PM to 1:53 PM<br/> 4 min</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 2:49 PM to 2:53 PM<br/> 4 min</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T13:49:16-05:00</begin>
-          <end>2014-04-26T13:53:55-05:00</end>
+          <begin>2014-04-26T14:49:16-04:00</begin>
+          <end>2014-04-26T14:53:55-04:00</end>
         </TimeSpan>
         <styleUrl>#place_unknown</styleUrl>
         <Point>
@@ -296,10 +373,10 @@
       </Placemark>
       <Placemark id="1398538436000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 1:53 PM to 1:58 PM<br/> 4 min, 0.1 mi, 359 steps, 12 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 2:53 PM to 2:58 PM<br/> 4 min, 0.1 mi, 359 steps, 12 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T13:53:56-05:00</begin>
-          <end>2014-04-26T13:58:44-05:00</end>
+          <begin>2014-04-26T14:53:56-04:00</begin>
+          <end>2014-04-26T14:58:44-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -309,10 +386,10 @@
       </Placemark>
       <Placemark id="1398539264000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 2:07 PM to 2:20 PM<br/> 12 min, 0.5 mi, 1,472 steps, 48 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 3:07 PM to 3:20 PM<br/> 12 min, 0.5 mi, 1,472 steps, 48 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T14:07:44-05:00</begin>
-          <end>2014-04-26T14:20:01-05:00</end>
+          <begin>2014-04-26T15:07:44-04:00</begin>
+          <end>2014-04-26T15:20:01-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -323,10 +400,10 @@
       <Placemark id="1398540001000">
         <name><![CDATA[John F. Kennedy International Airport (JFK)]]></name>
         <atom:link href="http://foursquare.com/venue/43a52546f964a520532c1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 2:20 PM to 3:10 PM<br/> 50 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/43a52546f964a520532c1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 3:20 PM to 4:10 PM<br/> 50 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/43a52546f964a520532c1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T14:20:02-05:00</begin>
-          <end>2014-04-26T15:10:24-05:00</end>
+          <begin>2014-04-26T15:20:02-04:00</begin>
+          <end>2014-04-26T16:10:24-04:00</end>
         </TimeSpan>
         <styleUrl>#place_Airport</styleUrl>
         <Point>
@@ -336,10 +413,10 @@
       <Placemark id="1398543025000">
         <name><![CDATA[John F. Kennedy International Airport (JFK)]]></name>
         <atom:link href="http://foursquare.com/venue/43a52546f964a520532c1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 3:10 PM to 3:22 PM<br/> 12 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/43a52546f964a520532c1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 4:10 PM to 4:22 PM<br/> 12 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/43a52546f964a520532c1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T15:10:26-05:00</begin>
-          <end>2014-04-26T15:22:46-05:00</end>
+          <begin>2014-04-26T16:10:26-04:00</begin>
+          <end>2014-04-26T16:22:46-04:00</end>
         </TimeSpan>
         <styleUrl>#place_Airport</styleUrl>
         <Point>
@@ -348,10 +425,10 @@
       </Placemark>
       <Placemark id="1398543767000">
         <name><![CDATA[Airplane]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 3:22 PM to 3:55 PM<br/> 32 min, 2.3 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 4:22 PM to 4:55 PM<br/> 32 min, 2.3 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T15:22:47-05:00</begin>
-          <end>2014-04-26T15:55:16-05:00</end>
+          <begin>2014-04-26T16:22:47-04:00</begin>
+          <end>2014-04-26T16:55:16-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_airplane</styleUrl>
         <LineString>
@@ -361,10 +438,10 @@
       </Placemark>
       <Placemark id="1398545715000">
         <name><![CDATA[Airplane]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 3:55 PM to 5:28 PM<br/> 1:32 hours, 713.8 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 4:55 PM to 6:28 PM<br/> 1:32 hours, 713.8 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T15:55:15-05:00</begin>
-          <end>2014-04-26T17:28:09-05:00</end>
+          <begin>2014-04-26T16:55:15-04:00</begin>
+          <end>2014-04-26T18:28:09-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_airplane</styleUrl>
         <LineString>
@@ -374,10 +451,10 @@
       </Placemark>
       <Placemark id="1398551289000">
         <name><![CDATA[Airplane]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 5:28 PM to 10:18 PM<br/> 4:50 hours, 2,290.8 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 6:28 PM to 11:18 PM<br/> 4:50 hours, 2,290.8 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T17:28:09-05:00</begin>
-          <end>2014-04-26T22:18:12-05:00</end>
+          <begin>2014-04-26T18:28:09-04:00</begin>
+          <end>2014-04-26T23:18:12-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_airplane</styleUrl>
         <LineString>
@@ -387,10 +464,10 @@
       </Placemark>
       <Placemark id="1398568692000">
         <name><![CDATA[Airplane]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 10:18 PM to 10:24 PM<br/> 6 min, 0.8 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 11:18 PM to 11:24 PM<br/> 6 min, 0.8 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T22:18:12-05:00</begin>
-          <end>2014-04-26T22:24:25-05:00</end>
+          <begin>2014-04-26T23:18:12-04:00</begin>
+          <end>2014-04-26T23:24:25-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_airplane</styleUrl>
         <LineString>
@@ -400,10 +477,10 @@
       </Placemark>
       <Placemark id="1398569702000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 10:35 PM to 10:38 PM<br/> 3 min, 0.1 mi, 214 steps, 13 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 11:35 PM to 11:38 PM<br/> 3 min, 0.1 mi, 214 steps, 13 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T22:35:02-05:00</begin>
-          <end>2014-04-26T22:38:11-05:00</end>
+          <begin>2014-04-26T23:35:02-04:00</begin>
+          <end>2014-04-26T23:38:11-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -414,10 +491,10 @@
       <Placemark id="1398569891000">
         <name><![CDATA[San Francisco International Airport (SFO)]]></name>
         <atom:link href="http://foursquare.com/venue/41059b00f964a520850b1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 10:38 PM to 10:56 PM<br/> 18 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/41059b00f964a520850b1fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 11:38 PM to 11:56 PM<br/> 18 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/41059b00f964a520850b1fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T22:38:12-05:00</begin>
-          <end>2014-04-26T22:56:14-05:00</end>
+          <begin>2014-04-26T23:38:12-04:00</begin>
+          <end>2014-04-26T23:56:14-04:00</end>
         </TimeSpan>
         <styleUrl>#place_Airport</styleUrl>
         <Point>
@@ -426,10 +503,10 @@
       </Placemark>
       <Placemark id="1398570975000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 10:56 PM to 10:58 PM<br/> 2 min, 0.1 mi, 183 steps, 7 Cal</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 11:56 PM to 11:58 PM<br/> 2 min, 0.1 mi, 183 steps, 7 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T22:56:15-05:00</begin>
-          <end>2014-04-26T22:58:46-05:00</end>
+          <begin>2014-04-26T23:56:15-04:00</begin>
+          <end>2014-04-26T23:58:46-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -439,41 +516,15 @@
       </Placemark>
       <Placemark id="1398571125000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 10:58 PM to 11:10 PM<br/> 11 min, 2.7 mi</p>]]></description>
+        <description><![CDATA[<p>4/26/14<br/> 11:58 PM to 11:59 PM<br/> 1 min, 0 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-04-26T22:58:45-05:00</begin>
-          <end>2014-04-26T23:10:01-05:00</end>
+          <begin>2014-04-26T23:58:45-04:00</begin>
+          <end>2014-04-26T23:59:59-04:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>-122.385345669,37.6151343849 -122.3854495134,37.6151562981 -122.3854822478,37.615168373 -122.385512253,37.6151826001 -122.3855572317,37.6152079381 -122.3855645318,37.6152165002 -122.3855646244,37.6152166088 -122.3857739959,37.6154621771 -122.3845290448,37.6169484267 -122.3849105183,37.6170983208 -122.3848125931,37.6170790866 -122.386467365,37.6174682542 -122.3867295891,37.6174241703 -122.3867877113,37.617498781 -122.3867985275,37.6176103141 -122.3871034788,37.6175355585 -122.3887438563,37.6160141036 -122.3931671853,37.6159990167 -122.3935893809,37.6160283302 -122.3936162719,37.6159594531 -122.3948983601,37.615759742 -122.3973248335,37.6159349743 -122.3979143264,37.6173600383 -122.3900020026,37.6186224635 -122.4010306584,37.6267330499 -122.4004463178,37.628383408</coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark id="1398571801000">
-        <name><![CDATA[San Francisco International Airport (SFO)]]></name>
-        <atom:link href="http://foursquare.com/venue/41059b00f964a520850b1fe3"/>
-        <description><![CDATA[<p>4/26/14<br/> 11:10 PM to 11:26 PM<br/> 16 min</p> <p>Walking 3 min, 0.1 mi, 218 steps, 11 Cal</p> <p>Airport<br/> <a href="http://foursquare.com/venue/41059b00f964a520850b1fe3">More details (Foursquare)</a> </p>]]></description>
-        <TimeSpan>
-          <begin>2014-04-26T23:10:02-05:00</begin>
-          <end>2014-04-26T23:26:52-05:00</end>
-        </TimeSpan>
-        <styleUrl>#place_Airport</styleUrl>
-        <Point>
-          <coordinates>-122.3862791061401,37.61642405271961</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="1398572813000">
-        <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>4/26/14<br/> 11:26 PM to 12:00 AM<br/> 33 min, 35.4 mi</p>]]></description>
-        <TimeSpan>
-          <begin>2014-04-26T23:26:53-05:00</begin>
-          <end>2014-04-27T00:00:00-05:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_transport</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>-122.4004463178,37.628383408 -122.4007571255,37.6296468973 -122.4010834493,37.6303474046 -122.3984368898,37.6329287039 -122.3981311191,37.6332558273 -122.400013155,37.6360819911 -122.4144906769,37.6330850544 -122.4245891385,37.6307655472 -122.4305341323,37.6293416644 -122.4291701067,37.6252499618 -122.4269187441,37.6220042855 -122.404279764,37.5806378018 -122.4006331461,37.5735776134 -122.3670379271,37.5410289962 -122.3636547045,37.536064044 -122.3599247071,37.5285466791 -122.3567090863,37.5239119451 -122.3535195337,37.5185804841 -122.3498223207,37.5149635847 -122.3418006064,37.5086795614 -122.3373694328,37.5060544437 -122.3307634683,37.50168235 -122.3252694122,37.5002957832 -122.3196271379,37.4998056432 -122.3140803908,37.4972102864 -122.3050216869,37.494291223 -122.3005913404,37.49171029 -122.2984917809,37.4876151869 -122.2992437161,37.4810909937 -122.2982281803,37.4743692063 -122.2943310362,37.4705729417 -122.291425306,37.46646296 -122.2908187889,37.4606060532 -122.2879383406,37.4562059391 -122.2824822152,37.4526361817 -122.2776056813,37.4494159036 -122.2727597012,37.4460592432 -122.2669770486,37.4436578108 -122.2573062274,37.4440080529 -122.2513521334,37.4418208373 -122.2463974425,37.437851551 -122.2424344,37.4344934183 -122.2383965348,37.4311352818 -122.2341437329,37.4280549853 -122.2278649657,37.423391292 -122.2233007806,37.4202861103 -122.2182155575,37.4185004275 -122.2118597912,37.4167494096 -122.2034744282,37.4117414203 -122.1954792732,37.4092198537 -122.1907463728,37.4075394214 -122.1871019258,37.4043270914 -122.1837038615,37.4008499472 -122.1796552363,37.3968935958 -122.1758075532,37.3933869609 -122.1705373336,37.3919818936 -122.16313654,37.3893902489 -122.1570830821,37.3882007292 -122.1528340313,37.3854414079 -122.1517124948,37.3812278097 -122.1495715316,37.3773965504 -122.1458970372,37.3742179285 -122.142093507,37.3701232585 -122.1356688362,37.3661980427 -122.1300698151,37.3647341044 -122.1242947479,37.3640754455 -122.1191782476,37.3594599049 -122.1130234407,37.3550039092 -122.107671335,37.3530329714 -122.104130559,37.3491343098 -122.0998524134,37.3465854532 -122.0948113392,37.344280874 -122.0882408025,37.3398229572 -122.0838157242,37.3372712186 -122.0769021932,37.3334492293 -122.0708843869,37.333803465 -122.0646460383,37.3337298824 -122.0601464086,37.3322538916 -122.0532008147,37.3296283029 -122.0506862861,37.3232599553 -122.0506735546,37.3229793407 -122.0506750447,37.3230116296</coordinates>
+          <coordinates>-122.385345669,37.6151343849 -122.3854495134,37.6151562981 -122.3854822478,37.615168373 -122.385512253,37.6151826001 -122.3855572317,37.6152079381 -122.3855645318,37.6152165002</coordinates>
         </LineString>
       </Placemark>
     </Folder>

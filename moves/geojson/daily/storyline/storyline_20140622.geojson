@@ -4,18 +4,93 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ -73.8319079836, 39.6095066215 ], [ -73.9496982225, 37.5699827824 ], [ -73.9496985497, 37.569977117 ], [ -74.0674887885, 35.5304532779 ], [ -74.0674891157, 35.5304476125 ], [ -74.1852793546, 33.4909237734 ], [ -74.1852796818, 33.490918108 ], [ -74.3030699207, 31.4513942689 ], [ -74.3030702479, 31.4513886035 ], [ -74.4208604867, 29.4118647644 ], [ -74.4208608139, 29.4118590991 ], [ -74.5386510528, 27.3723352599 ], [ -74.53865138, 27.3723295946 ], [ -74.6564416188, 25.3328057554 ], [ -74.656441946, 25.3328000901 ], [ -74.7742321849, 23.2932762509 ], [ -74.7742325121, 23.2932705856 ], [ -74.892022751, 21.2537467465 ], [ -74.8920230782, 21.2537410811 ], [ -75.009813317, 19.214217242 ], [ -75.0098136442, 19.2142115766 ], [ -75.1276038831, 17.1746877375 ], [ -75.1276042103, 17.1746820721 ], [ -75.2453944491, 15.135158233 ], [ -75.2453947763, 15.1351525676 ], [ -75.33089346, 13.6547531279 ], [ -75.33089346, 13.6547531279 ], [ -75.3322296745, 13.6316159903 ], [ -75.3322296745, 13.6316159903 ], [ -75.3880137801, 12.6657248107 ], [ -75.3880144469, 12.6657132655 ], [ -75.5161676988, 10.4467640803 ] ] ]
+      "coordinates" : [ [ [ -75.9329469043, 40.8498010597 ], [ -73.7720343845, 40.6462107994 ] ] ]
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140621T232930-0500",
-      "endTime" : "20140622T133201-0500",
+      "startTime" : "20140621T221157-0400",
+      "endTime" : "20140622T001930-0400",
       "activities" : [ {
         "activity" : "airplane",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140622T000000-0500",
-        "endTime" : "20140622T133202-0500",
+        "startTime" : "20140622T000000-0400",
+        "endTime" : "20140622T001931-0400",
+        "duration" : 1171.0,
+        "distance" : 210947.0
+      } ],
+      "lastUpdate" : "20140623T015905Z",
+      "date" : "20140622"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7845230102539, 40.64508935597635 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140622T001930-0400",
+      "endTime" : "20140622T002930-0400",
+      "place" : {
+        "id" : 63658705,
+        "name" : "John F. Kennedy International Airport (JFK)",
+        "type" : "foursquare",
+        "foursquareId" : "43a52546f964a520532c1fe3",
+        "foursquareCategoryIds" : [ "4bf58dd8d48988d1ed931735" ],
+        "location" : {
+          "lat" : 40.64508935597635,
+          "lon" : -73.7845230102539
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140622T002716-0400",
+        "endTime" : "20140622T004517-0400",
+        "duration" : 1081.0,
+        "distance" : 1246.0,
+        "steps" : 1662,
+        "calories" : 81
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140622T051253-0400",
+        "endTime" : "20140622T052023-0400",
+        "duration" : 450.0,
+        "distance" : 501.0,
+        "steps" : 668,
+        "calories" : 33
+      } ],
+      "lastUpdate" : "20140623T014556Z",
+      "date" : "20140622"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ -73.7720343845, 40.6462107994 ], [ -73.8319076564, 39.6095122868 ] ], [ [ -73.8319079836, 39.6095066215 ], [ -73.9496982225, 37.5699827824 ], [ -73.9496985497, 37.569977117 ], [ -74.0674887885, 35.5304532779 ], [ -74.0674891157, 35.5304476125 ], [ -74.1852793546, 33.4909237734 ], [ -74.1852796818, 33.490918108 ], [ -74.3030699207, 31.4513942689 ], [ -74.3030702479, 31.4513886035 ], [ -74.4208604867, 29.4118647644 ], [ -74.4208608139, 29.4118590991 ], [ -74.5386510528, 27.3723352599 ], [ -74.53865138, 27.3723295946 ], [ -74.6564416188, 25.3328057554 ], [ -74.656441946, 25.3328000901 ], [ -74.7742321849, 23.2932762509 ], [ -74.7742325121, 23.2932705856 ], [ -74.892022751, 21.2537467465 ], [ -74.8920230782, 21.2537410811 ], [ -75.009813317, 19.214217242 ], [ -75.0098136442, 19.2142115766 ], [ -75.1276038831, 17.1746877375 ], [ -75.1276042103, 17.1746820721 ], [ -75.2453944491, 15.135158233 ], [ -75.2453947763, 15.1351525676 ], [ -75.33089346, 13.6547531279 ], [ -75.33089346, 13.6547531279 ], [ -75.3322296745, 13.6316159903 ], [ -75.3322296745, 13.6316159903 ], [ -75.3880137801, 12.6657248107 ], [ -75.3880144469, 12.6657132655 ], [ -75.5161676988, 10.4467640803 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140622T002930-0400",
+      "endTime" : "20140622T143201-0400",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140622T002930-0400",
+        "endTime" : "20140622T010000-0400",
+        "duration" : 1830.0,
+        "distance" : 132696.0
+      }, {
+        "activity" : "airplane",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140622T010000-0400",
+        "endTime" : "20140622T143202-0400",
         "duration" : 48722.0,
         "distance" : 3734167.0
       } ],
@@ -30,8 +105,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T133201-0500",
-      "endTime" : "20140622T135734-0500",
+      "startTime" : "20140622T143201-0400",
+      "endTime" : "20140622T145734-0400",
       "place" : {
         "id" : 63659916,
         "name" : "Aeropuerto Internacional Rafael Nuñez (CTG)",
@@ -47,8 +122,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T135418-0500",
-        "endTime" : "20140622T135548-0500",
+        "startTime" : "20140622T145418-0400",
+        "endTime" : "20140622T145548-0400",
         "duration" : 90.0,
         "distance" : 80.0,
         "steps" : 160,
@@ -65,14 +140,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T135734-0500",
-      "endTime" : "20140622T141711-0500",
+      "startTime" : "20140622T145734-0400",
+      "endTime" : "20140622T151711-0400",
       "activities" : [ {
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140622T135734-0500",
-        "endTime" : "20140622T141712-0500",
+        "startTime" : "20140622T145734-0400",
+        "endTime" : "20140622T151712-0400",
         "duration" : 1178.0,
         "distance" : 8459.0
       } ],
@@ -87,8 +162,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T141712-0500",
-      "endTime" : "20140622T142933-0500",
+      "startTime" : "20140622T151712-0400",
+      "endTime" : "20140622T152933-0400",
       "place" : {
         "id" : 63608568,
         "name" : "Hotel Caribe",
@@ -104,8 +179,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T142405-0500",
-        "endTime" : "20140622T142653-0500",
+        "startTime" : "20140622T152405-0400",
+        "endTime" : "20140622T152653-0400",
         "duration" : 168.0,
         "distance" : 211.0,
         "steps" : 281,
@@ -122,14 +197,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T142933-0500",
-      "endTime" : "20140622T144406-0500",
+      "startTime" : "20140622T152933-0400",
+      "endTime" : "20140622T154406-0400",
       "activities" : [ {
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140622T142933-0500",
-        "endTime" : "20140622T144406-0500",
+        "startTime" : "20140622T152933-0400",
+        "endTime" : "20140622T154406-0400",
         "duration" : 873.0,
         "distance" : 4695.0
       } ],
@@ -144,8 +219,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T144407-0500",
-      "endTime" : "20140622T164404-0500",
+      "startTime" : "20140622T154407-0400",
+      "endTime" : "20140622T174404-0400",
       "place" : {
         "id" : 63608569,
         "name" : "Sofitel Santa Clara",
@@ -161,8 +236,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T162829-0500",
-        "endTime" : "20140622T163229-0500",
+        "startTime" : "20140622T172829-0400",
+        "endTime" : "20140622T173229-0400",
         "duration" : 240.0,
         "distance" : 272.0,
         "steps" : 362,
@@ -179,14 +254,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T164404-0500",
-      "endTime" : "20140622T164641-0500",
+      "startTime" : "20140622T174404-0400",
+      "endTime" : "20140622T174641-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T164404-0500",
-        "endTime" : "20140622T164641-0500",
+        "startTime" : "20140622T174404-0400",
+        "endTime" : "20140622T174641-0400",
         "duration" : 157.0,
         "distance" : 214.0,
         "steps" : 178,
@@ -203,8 +278,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T164641-0500",
-      "endTime" : "20140622T165132-0500",
+      "startTime" : "20140622T174641-0400",
+      "endTime" : "20140622T175132-0400",
       "place" : {
         "id" : 63626471,
         "type" : "unknown",
@@ -224,14 +299,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T165132-0500",
-      "endTime" : "20140622T165544-0500",
+      "startTime" : "20140622T175132-0400",
+      "endTime" : "20140622T175544-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T165132-0500",
-        "endTime" : "20140622T165543-0500",
+        "startTime" : "20140622T175132-0400",
+        "endTime" : "20140622T175543-0400",
         "duration" : 251.0,
         "distance" : 211.0,
         "steps" : 421,
@@ -248,8 +323,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T165544-0500",
-      "endTime" : "20140622T174914-0500",
+      "startTime" : "20140622T175544-0400",
+      "endTime" : "20140622T184914-0400",
       "place" : {
         "id" : 63608569,
         "name" : "Sofitel Santa Clara",
@@ -272,14 +347,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T174914-0500",
-      "endTime" : "20140622T180351-0500",
+      "startTime" : "20140622T184914-0400",
+      "endTime" : "20140622T190351-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T174914-0500",
-        "endTime" : "20140622T180352-0500",
+        "startTime" : "20140622T184914-0400",
+        "endTime" : "20140622T190352-0400",
         "duration" : 878.0,
         "distance" : 1076.0,
         "steps" : 1326,
@@ -296,8 +371,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T180351-0500",
-      "endTime" : "20140622T190042-0500",
+      "startTime" : "20140622T190351-0400",
+      "endTime" : "20140622T200042-0400",
       "place" : {
         "id" : 63657647,
         "name" : "Café del Mar",
@@ -320,14 +395,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T190042-0500",
-      "endTime" : "20140622T191020-0500",
+      "startTime" : "20140622T200042-0400",
+      "endTime" : "20140622T201020-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T190042-0500",
-        "endTime" : "20140622T191019-0500",
+        "startTime" : "20140622T200042-0400",
+        "endTime" : "20140622T201019-0400",
         "duration" : 577.0,
         "distance" : 424.0,
         "steps" : 702,
@@ -344,8 +419,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T191020-0500",
-      "endTime" : "20140622T195855-0500",
+      "startTime" : "20140622T201020-0400",
+      "endTime" : "20140622T205855-0400",
       "place" : {
         "id" : 63657648,
         "name" : "Krioyo",
@@ -361,8 +436,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T192647-0500",
-        "endTime" : "20140622T192653-0500",
+        "startTime" : "20140622T202647-0400",
+        "endTime" : "20140622T202653-0400",
         "duration" : 6.0,
         "distance" : 3.0,
         "steps" : 6,
@@ -379,14 +454,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T195855-0500",
-      "endTime" : "20140622T200510-0500",
+      "startTime" : "20140622T205855-0400",
+      "endTime" : "20140622T210510-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T195855-0500",
-        "endTime" : "20140622T200511-0500",
+        "startTime" : "20140622T205855-0400",
+        "endTime" : "20140622T210511-0400",
         "duration" : 376.0,
         "distance" : 274.0,
         "steps" : 513,
@@ -403,8 +478,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T200510-0500",
-      "endTime" : "20140622T201341-0500",
+      "startTime" : "20140622T210510-0400",
+      "endTime" : "20140622T211341-0400",
       "place" : {
         "id" : 63657668,
         "type" : "unknown",
@@ -424,14 +499,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20140622T201341-0500",
-      "endTime" : "20140622T205052-0500",
+      "startTime" : "20140622T211341-0400",
+      "endTime" : "20140622T215052-0400",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T201341-0500",
-        "endTime" : "20140622T203640-0500",
+        "startTime" : "20140622T211341-0400",
+        "endTime" : "20140622T213640-0400",
         "duration" : 1379.0,
         "distance" : 1084.0,
         "steps" : 1865,
@@ -440,8 +515,8 @@
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20140622T203640-0500",
-        "endTime" : "20140622T205052-0500",
+        "startTime" : "20140622T213640-0400",
+        "endTime" : "20140622T215052-0400",
         "duration" : 852.0,
         "distance" : 5081.0
       } ],
@@ -456,8 +531,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20140622T205052-0500",
-      "endTime" : "20140622T215446-0500",
+      "startTime" : "20140622T215052-0400",
+      "endTime" : "20140622T225446-0400",
       "place" : {
         "id" : 63608568,
         "name" : "Hotel Caribe",
@@ -473,8 +548,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T205218-0500",
-        "endTime" : "20140622T205516-0500",
+        "startTime" : "20140622T215218-0400",
+        "endTime" : "20140622T215516-0400",
         "duration" : 178.0,
         "distance" : 201.0,
         "steps" : 268,
@@ -483,8 +558,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20140622T210617-0500",
-        "endTime" : "20140622T210717-0500",
+        "startTime" : "20140622T220617-0400",
+        "endTime" : "20140622T220717-0400",
         "duration" : 60.0,
         "distance" : 30.0,
         "steps" : 51,
