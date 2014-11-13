@@ -2,6 +2,18 @@
   <Document>
     <atom:link href="http://www.moves-app.com"/>
     <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_Gym">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/gym.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_school">
       <IconStyle>
         <scale>1.0</scale>
@@ -816,15 +828,16 @@
         </Point>
       </Placemark>
       <Placemark id="1410123192000">
-        <name><![CDATA[Place in Old Cambridge]]></name>
-        <description><![CDATA[<p>9/7/14<br/> 4:53 PM to 5:50 PM<br/> 56 min</p>]]></description>
+        <name><![CDATA[Hemenway Gym]]></name>
+        <atom:link href="http://foursquare.com/venue/4a9d3432f964a520ed3720e3"/>
+        <description><![CDATA[<p>9/7/14<br/> 4:53 PM to 5:50 PM<br/> 56 min</p> <p>Gym<br/> <a href="http://foursquare.com/venue/4a9d3432f964a520ed3720e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
           <begin>2014-09-07T16:53:13-04:00</begin>
           <end>2014-09-07T17:50:07-04:00</end>
         </TimeSpan>
-        <styleUrl>#place_unknown</styleUrl>
+        <styleUrl>#place_Gym</styleUrl>
         <Point>
-          <coordinates>-71.1194287321,42.377013599</coordinates>
+          <coordinates>-71.11979972974,42.37697342388555</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1410127761000">

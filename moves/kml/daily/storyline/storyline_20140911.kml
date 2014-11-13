@@ -134,6 +134,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Café">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/cafe.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_unknown">
       <IconStyle>
         <scale>1.0</scale>
@@ -164,18 +176,6 @@
         <heading>0.0</heading>
         <Icon>
           <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="place_Subway">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/travel/subway.png</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -236,16 +236,16 @@
         </LineString>
       </Placemark>
       <Placemark id="1410435809000">
-        <name><![CDATA[MBTA Harvard Station]]></name>
-        <atom:link href="http://foursquare.com/venue/4a2715d0f964a52057911fe3"/>
-        <description><![CDATA[<p>9/11/14<br/> 7:43 AM to 7:47 AM<br/> 3 min</p> <p>Subway<br/> <a href="http://foursquare.com/venue/4a2715d0f964a52057911fe3">More details (Foursquare)</a> </p>]]></description>
+        <name><![CDATA[Starbucks]]></name>
+        <atom:link href="http://foursquare.com/venue/49bc4e56f964a52028541fe3"/>
+        <description><![CDATA[<p>9/11/14<br/> 7:43 AM to 7:47 AM<br/> 3 min</p> <p>Café<br/> <a href="http://foursquare.com/venue/49bc4e56f964a52028541fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
           <begin>2014-09-11T07:43:30-04:00</begin>
           <end>2014-09-11T07:47:22-04:00</end>
         </TimeSpan>
-        <styleUrl>#place_Subway</styleUrl>
+        <styleUrl>#place_Café</styleUrl>
         <Point>
-          <coordinates>-71.11896514892578,42.37331996935519</coordinates>
+          <coordinates>-71.119452,42.372485</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1410436043000">

@@ -26,6 +26,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_American Restaurant">
       <IconStyle>
         <scale>1.0</scale>
@@ -251,15 +263,15 @@
       </Placemark>
       <Placemark id="1389135907000">
         <name><![CDATA[Hilton O'Hare Airport]]></name>
-        <atom:link href="http://foursquare.com/venue/52423f7311d2f4536836031a"/>
-        <description><![CDATA[<p>1/7/14<br/> 6:05 PM to 6:45 PM<br/> 40 min</p> <p> <a href="http://foursquare.com/venue/52423f7311d2f4536836031a">More details (Foursquare)</a> </p>]]></description>
+        <atom:link href="http://foursquare.com/venue/4a3abc54f964a5202ba01fe3"/>
+        <description><![CDATA[<p>1/7/14<br/> 6:05 PM to 6:45 PM<br/> 40 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a3abc54f964a5202ba01fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
           <begin>2014-01-07T18:05:08-05:00</begin>
           <end>2014-01-07T18:45:57-05:00</end>
         </TimeSpan>
-        <styleUrl>#place_foursquare</styleUrl>
+        <styleUrl>#place_Hotel</styleUrl>
         <Point>
-          <coordinates>-87.90411218531342,41.97769471635802</coordinates>
+          <coordinates>-87.90431499481201,41.97735865517006</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1389138941000">

@@ -74,18 +74,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_American Restaurant">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/food/default.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_work">
       <IconStyle>
         <scale>1.0</scale>
@@ -128,6 +116,18 @@
         <heading>0.0</heading>
         <Icon>
           <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Café">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/cafe.png</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -227,16 +227,16 @@
         </gx:Track>
       </Placemark>
       <Placemark id="1410519653000">
-        <name><![CDATA[Tory Row]]></name>
-        <atom:link href="http://foursquare.com/venue/49e79621f964a520cf641fe3"/>
-        <description><![CDATA[<p>9/12/14<br/> 7:00 AM to 7:03 AM<br/> 2 min</p> <p>American Restaurant<br/> <a href="http://foursquare.com/venue/49e79621f964a520cf641fe3">More details (Foursquare)</a> </p>]]></description>
+        <name><![CDATA[Starbucks]]></name>
+        <atom:link href="http://foursquare.com/venue/49bc4e56f964a52028541fe3"/>
+        <description><![CDATA[<p>9/12/14<br/> 7:00 AM to 7:03 AM<br/> 2 min</p> <p>Café<br/> <a href="http://foursquare.com/venue/49bc4e56f964a52028541fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
           <begin>2014-09-12T07:00:54-04:00</begin>
           <end>2014-09-12T07:03:05-04:00</end>
         </TimeSpan>
-        <styleUrl>#place_American Restaurant</styleUrl>
+        <styleUrl>#place_Café</styleUrl>
         <Point>
-          <coordinates>-71.119457,42.373379</coordinates>
+          <coordinates>-71.119452,42.372485</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1410519786000">
@@ -772,8 +772,8 @@
             <TimeStamp>
               <when>2014-09-12T07:00:53-04:00</when>
             </TimeStamp>
-            <longitude>-71.119457</longitude>
-            <latitude>42.373379</latitude>
+            <longitude>-71.119452</longitude>
+            <latitude>42.372485</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>
@@ -789,8 +789,8 @@
               <begin>2014-09-12T07:00:54-04:00</begin>
               <end>2014-09-12T07:03:05-04:00</end>
             </TimeSpan>
-            <longitude>-71.119457</longitude>
-            <latitude>42.373379</latitude>
+            <longitude>-71.119452</longitude>
+            <latitude>42.372485</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>

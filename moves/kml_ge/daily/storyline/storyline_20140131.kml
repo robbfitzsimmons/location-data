@@ -50,6 +50,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Chinese Restaurant">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/chinese.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_work">
       <IconStyle>
         <scale>1.0</scale>
@@ -1099,15 +1111,16 @@
         </gx:Track>
       </Placemark>
       <Placemark id="1391210962000">
-        <name><![CDATA[Place in Old Cambridge]]></name>
-        <description><![CDATA[<p>1/31/14<br/> 6:29 PM to 7:47 PM<br/> 1:17 hours</p>]]></description>
+        <name><![CDATA[Hong Kong]]></name>
+        <atom:link href="http://foursquare.com/venue/40b28c80f964a52036f81ee3"/>
+        <description><![CDATA[<p>1/31/14<br/> 6:29 PM to 7:47 PM<br/> 1:17 hours</p> <p>Chinese Restaurant<br/> <a href="http://foursquare.com/venue/40b28c80f964a52036f81ee3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
           <begin>2014-01-31T18:29:23-05:00</begin>
           <end>2014-01-31T19:47:11-05:00</end>
         </TimeSpan>
-        <styleUrl>#place_unknown</styleUrl>
+        <styleUrl>#place_Chinese Restaurant</styleUrl>
         <Point>
-          <coordinates>-71.1155814053,42.3722049374</coordinates>
+          <coordinates>-71.11595,42.372426</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1391215632000">
@@ -1712,8 +1725,8 @@
             <TimeStamp>
               <when>2014-01-31T18:29:22-05:00</when>
             </TimeStamp>
-            <longitude>-71.1155814053</longitude>
-            <latitude>42.3722049374</latitude>
+            <longitude>-71.11595</longitude>
+            <latitude>42.372426</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>
@@ -1729,8 +1742,8 @@
               <begin>2014-01-31T18:29:23-05:00</begin>
               <end>2014-01-31T19:47:11-05:00</end>
             </TimeSpan>
-            <longitude>-71.1155814053</longitude>
-            <latitude>42.3722049374</latitude>
+            <longitude>-71.11595</longitude>
+            <latitude>42.372426</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>

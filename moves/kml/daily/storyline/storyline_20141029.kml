@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Administrative Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Academic Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[10/29/14]]></name>
+      <Placemark id="1414555200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>10/29/14<br/> 12:00 AM to 7:41 AM<br/> 7:41 hours</p> <p>Walking 3 min, 0.1 mi, 215 steps, 11 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T00:00:01-04:00</begin>
+          <end>2014-10-29T07:41:37-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1414582898000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>10/29/14<br/> 7:41 AM to 8:03 AM<br/> 22 min, 1.3 mi, 2,445 steps, 132 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T07:41:38-04:00</begin>
+          <end>2014-10-29T08:03:53-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1114458017,42.3754311174 -71.111316932,42.3751980473 -71.1109673443,42.3745828465 -71.1109665159,42.3745206638 -71.1111273274,42.3741783725 -71.1112250965,42.3737719793 -71.1111792749,42.3735550321 -71.1111099337,42.3733036477 -71.1110895758,42.3729592583 -71.1112089549,42.3727461048 -71.1113748282,42.3724570003 -71.1115342569,42.3721823121 -71.1118379281,42.371876757 -71.1119954745,42.3715816956 -71.1121513726,42.371333902 -71.112246872,42.3711403953 -71.1124374451,42.3708308933 -71.1126007895,42.3705870702 -71.1128207458,42.3703338719 -71.1131010159,42.3701827566 -71.1132530892,42.3701079765 -71.1133395724,42.3699633959 -71.113393683,42.3695801042 -71.1135174992,42.3693483765 -71.1136219802,42.3690839376 -71.1137340112,42.3688703343 -71.1140434706,42.3687442592 -71.1144269828,42.3687009607 -71.1148194188,42.3687064521 -71.1151177285,42.3688552295 -71.1152996173,42.3691451543 -71.1156488435,42.3693940141 -71.115945432,42.3696228201 -71.116187821,42.3697175727 -71.1164671902,42.3697001709 -71.116647322,42.369693492 -71.1169414701,42.3696381784 -71.1172272253,42.3695260827 -71.1173451105,42.3694173024 -71.1173853017,42.3693792072 -71.1174928133,42.3693447461 -71.1180253263,42.3692863113 -71.1196398658,42.3692188538 -71.1192351179,42.3686047197 -71.1188841034,42.3678651736 -71.119033843,42.3677275327 -71.1189390736,42.3675259242 -71.1190021485,42.3673397589 -71.119212484,42.366989067 -71.1194786308,42.3668564615 -71.1197089167,42.3668079114 -71.1198527118,42.3667918086 -71.1198529513,42.3667917818 -71.1207650891,42.3666896366 -71.120839775,42.3666181205 -71.1212704541,42.3665295711 -71.1214644836,42.3663635919 -71.1214281645,42.3662008763 -71.1214662847,42.365886298 -71.1220207742,42.365413121 -71.1222144816,42.3652688784 -71.122184585,42.3652254392</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1414584233000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>10/29/14<br/> 8:03 AM to 2:42 PM<br/> 6:38 hours</p> <p>Walking 25 min, 1 mi, 2,212 steps, 108 Cal</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T08:03:54-04:00</begin>
+          <end>2014-10-29T14:42:38-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1414608159000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>10/29/14<br/> 2:42 PM to 2:50 PM<br/> 8 min, 0.3 mi, 716 steps, 28 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T14:42:39-04:00</begin>
+          <end>2014-10-29T14:50:55-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1221091518,42.3657878071 -71.1217444603,42.36522094 -71.1217415039,42.3652199081 -71.1218274739,42.365250182 -71.1221113567,42.3653496067 -71.1221572029,42.3655169202 -71.1227282964,42.3658845154 -71.1233768807,42.3664860338 -71.1234356445,42.3666384043 -71.123616805,42.3669120661 -71.1237723853,42.3669457634 -71.1239265118,42.3667963787 -71.1240057925,42.3666801122 -71.1239079386,42.366706063</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1414608654000">
+        <name><![CDATA[Morgan Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4adf6b74f964a520697a21e3"/>
+        <description><![CDATA[<p>10/29/14<br/> 2:50 PM to 3:23 PM<br/> 32 min</p> <p>Walking 4 min, 0.2 mi, 412 steps, 19 Cal</p> <p>College Administrative Building<br/> <a href="http://foursquare.com/venue/4adf6b74f964a520697a21e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T14:50:55-04:00</begin>
+          <end>2014-10-29T15:23:38-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Administrative Building</styleUrl>
+        <Point>
+          <coordinates>-71.1239079386408,42.36670606297722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1414610619000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>10/29/14<br/> 3:23 PM to 3:55 PM<br/> 32 min, 1.6 mi, 2,903 steps, 163 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T15:23:39-04:00</begin>
+          <end>2014-10-29T15:55:57-04:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.1239079386,42.366706063 -71.1235754704,42.3669346793 -71.1235833126,42.3669612261 -71.1237146776,42.3670486664 -71.123519621,42.3669961136 -71.1229353999,42.3667643839 -71.1226158167,42.3667087619 -71.1226642792,42.3670218685 -71.1224221043,42.3673472864 -71.122250742,42.3676477888 -71.122184133,42.3679293283 -71.1223059592,42.3678954445 -71.1228687082,42.3684393154 -71.1232876489,42.3682132313 -71.1237504995,42.3680026844 -71.1238628486,42.3681403662 -71.1238259098,42.3681640076 -71.1237862421,42.3681670804 -71.123925213,42.368081657 -71.1238799699,42.3680900615 -71.1236025408,42.3682174304 -71.1231778968,42.3684696508 -71.1230519632,42.3687668482 -71.1228743675,42.3691519959 -71.1227830271,42.3695417777 -71.1226729187,42.3696754728 -71.1224307838,42.3698134246 -71.1222918385,42.3699367018 -71.1221209434,42.3702077052 -71.1219184607,42.3704780348 -71.1216704629,42.370788191 -71.1215368567,42.3709685629 -71.1214319721,42.3710869314 -71.1213327694,42.3712299545 -71.1212379431,42.3713985151 -71.1210739375,42.3714866628 -71.1210015158,42.3715044575 -71.1209648899,42.3715171087 -71.1209203068,42.3715306394 -71.1208868598,42.3715328619 -71.1208459505,42.3715854532 -71.120604487,42.3715930188 -71.1202332375,42.3715208183 -71.1198665212,42.371515618 -71.1197791403,42.3716709751 -71.1196220602,42.3718331754 -71.1192242401,42.3716928203 -71.1190308815,42.3716754038 -71.118730267,42.3717811022 -71.1184755276,42.3718955028 -71.1182606187,42.3718583522 -71.1180503732,42.3718461423 -71.1179565154,42.3718354488 -71.1176845561,42.3717622223 -71.1170320533,42.3716233964 -71.1165409774,42.371490186 -71.1161550194,42.371385383 -71.1159410056,42.3713990526 -71.1157758801,42.3713207392 -71.1153654204,42.3712378774 -71.1149524807,42.3713174623 -71.1147864022,42.3712666604 -71.1145080206,42.3711306965 -71.1141844463,42.3709804925 -71.1138986974,42.3707821417 -71.1136142473,42.370463657 -71.1134798364,42.3702416481 -71.1133591754,42.3701675721 -71.1131914138,42.3700611923 -71.1129338558,42.369931274 -71.1126910722,42.3700347267 -71.1126603354,42.3702938485 -71.1125676306,42.3705533146 -71.1124107737,42.3708239085 -71.1122715366,42.3710956815 -71.1122171488,42.371219642 -71.1121698467,42.3713129369 -71.1120468278,42.3715138859 -71.1116899962,42.3720315133 -71.1113744709,42.3723126365 -71.1112489181,42.3726441537 -71.1110874624,42.3727656942 -71.110987335,42.372977694 -71.1109116285,42.3731730803 -71.1109269593,42.3733046204 -71.1110265625,42.3735390567 -71.1111372898,42.373943682 -71.1111251189,42.3742286537 -71.1110059105,42.3744908517 -71.1108974294,42.3747194121 -71.1109121411,42.3748570722 -71.1114458017,42.3754311174</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1414612557000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>10/29/14<br/> 3:55 PM to 12:00 AM<br/> 8:04 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-29T15:55:58-04:00</begin>
+          <end>2014-10-29T23:59:59-04:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
