@@ -4,58 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ -71.1165560717644, 42.37134308090408 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20141021T201313-0400",
-      "endTime" : "20141022T000226-0400",
-      "place" : {
-        "id" : 99718554,
-        "name" : "Daedalus",
-        "type" : "foursquare",
-        "foursquareId" : "44e1b94ff964a5201f371fe3",
-        "foursquareCategoryIds" : [ "4bf58dd8d48988d1c4941735" ],
-        "location" : {
-          "lat" : 42.37134308090408,
-          "lon" : -71.1165560717644
-        }
-      },
-      "lastUpdate" : "20141022T054754Z",
-      "date" : "20141022"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ [ -71.1165560718, 42.3713430809 ], [ -71.1114458017, 42.3754311174 ] ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20141022T000226-0400",
-      "endTime" : "20141022T001245-0400",
-      "activities" : [ {
-        "activity" : "transport",
-        "group" : "transport",
-        "manual" : false,
-        "startTime" : "20141022T000226-0400",
-        "endTime" : "20141022T001245-0400",
-        "duration" : 619.0,
-        "distance" : 712.0
-      } ],
-      "lastUpdate" : "20141022T054754Z",
-      "date" : "20141022"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ -71.1114458017, 42.3754311174 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20141022T001245-0400",
-      "endTime" : "20141022T074012-0400",
+      "startTime" : "20141021T231245-0500",
+      "endTime" : "20141022T064012-0500",
       "place" : {
         "id" : 9869005,
         "name" : "Home",
@@ -65,17 +19,6 @@
           "lon" : -71.1114458017
         }
       },
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20141022T004933-0400",
-        "endTime" : "20141022T005033-0400",
-        "duration" : 60.0,
-        "distance" : 30.0,
-        "steps" : 61,
-        "calories" : 2
-      } ],
       "lastUpdate" : "20141022T133753Z",
       "date" : "20141022"
     }
@@ -87,14 +30,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20141022T074012-0400",
-      "endTime" : "20141022T080518-0400",
+      "startTime" : "20141022T064012-0500",
+      "endTime" : "20141022T070518-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T074012-0400",
-        "endTime" : "20141022T080518-0400",
+        "startTime" : "20141022T064012-0500",
+        "endTime" : "20141022T070518-0500",
         "duration" : 1506.0,
         "distance" : 2106.0,
         "steps" : 2536,
@@ -111,8 +54,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20141022T080518-0400",
-      "endTime" : "20141022T090202-0400",
+      "startTime" : "20141022T070518-0500",
+      "endTime" : "20141022T080202-0500",
       "place" : {
         "id" : 87938770,
         "name" : "Harvard Innovation Lab",
@@ -128,8 +71,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T085334-0400",
-        "endTime" : "20141022T090035-0400",
+        "startTime" : "20141022T075334-0500",
+        "endTime" : "20141022T080035-0500",
         "duration" : 421.0,
         "distance" : 311.0,
         "steps" : 426,
@@ -146,14 +89,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20141022T090202-0400",
-      "endTime" : "20141022T090508-0400",
+      "startTime" : "20141022T080202-0500",
+      "endTime" : "20141022T080508-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T090202-0400",
-        "endTime" : "20141022T090508-0400",
+        "startTime" : "20141022T080202-0500",
+        "endTime" : "20141022T080508-0500",
         "duration" : 186.0,
         "distance" : 248.0,
         "steps" : 336,
@@ -170,8 +113,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20141022T090508-0400",
-      "endTime" : "20141022T131005-0400",
+      "startTime" : "20141022T080508-0500",
+      "endTime" : "20141022T121005-0500",
       "place" : {
         "id" : 84119446,
         "name" : "Aldrich Hall",
@@ -187,8 +130,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T090835-0400",
-        "endTime" : "20141022T090905-0400",
+        "startTime" : "20141022T080835-0500",
+        "endTime" : "20141022T080905-0500",
         "duration" : 30.0,
         "distance" : 30.0,
         "steps" : 61,
@@ -197,8 +140,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T103847-0400",
-        "endTime" : "20141022T104319-0400",
+        "startTime" : "20141022T093847-0500",
+        "endTime" : "20141022T094319-0500",
         "duration" : 272.0,
         "distance" : 230.0,
         "steps" : 307,
@@ -207,8 +150,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T121503-0400",
-        "endTime" : "20141022T122103-0400",
+        "startTime" : "20141022T111503-0500",
+        "endTime" : "20141022T112103-0500",
         "duration" : 360.0,
         "distance" : 366.0,
         "steps" : 488,
@@ -217,14 +160,14 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T130211-0400",
-        "endTime" : "20141022T130311-0400",
+        "startTime" : "20141022T120211-0500",
+        "endTime" : "20141022T120311-0500",
         "duration" : 60.0,
         "distance" : 46.0,
         "steps" : 91,
         "calories" : 3
       } ],
-      "lastUpdate" : "20141022T181327Z",
+      "lastUpdate" : "20141217T041832Z",
       "date" : "20141022"
     }
   }, {
@@ -235,14 +178,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20141022T131005-0400",
-      "endTime" : "20141022T131443-0400",
+      "startTime" : "20141022T121005-0500",
+      "endTime" : "20141022T121443-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T131005-0400",
-        "endTime" : "20141022T131443-0400",
+        "startTime" : "20141022T121005-0500",
+        "endTime" : "20141022T121443-0500",
         "duration" : 278.0,
         "distance" : 386.0,
         "steps" : 501,
@@ -259,8 +202,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20141022T131443-0400",
-      "endTime" : "20141022T142339-0400",
+      "startTime" : "20141022T121443-0500",
+      "endTime" : "20141022T132339-0500",
       "place" : {
         "id" : 103497933,
         "name" : "Batten Hall",
@@ -276,8 +219,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T140411-0400",
-        "endTime" : "20141022T140511-0400",
+        "startTime" : "20141022T130411-0500",
+        "endTime" : "20141022T130511-0500",
         "duration" : 60.0,
         "distance" : 46.0,
         "steps" : 91,
@@ -294,14 +237,14 @@
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20141022T142339-0400",
-      "endTime" : "20141022T145135-0400",
+      "startTime" : "20141022T132339-0500",
+      "endTime" : "20141022T135135-0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T142339-0400",
-        "endTime" : "20141022T145136-0400",
+        "startTime" : "20141022T132339-0500",
+        "endTime" : "20141022T135136-0500",
         "duration" : 1677.0,
         "distance" : 2002.0,
         "steps" : 2624,
@@ -318,8 +261,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20141022T145136-0400",
-      "endTime" : "20141023T074534-0400",
+      "startTime" : "20141022T135136-0500",
+      "endTime" : "20141023T064534-0500",
       "place" : {
         "id" : 9869005,
         "name" : "Home",
@@ -333,8 +276,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T175023-0400",
-        "endTime" : "20141022T175053-0400",
+        "startTime" : "20141022T165023-0500",
+        "endTime" : "20141022T165053-0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 30,
@@ -343,8 +286,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T202434-0400",
-        "endTime" : "20141022T202534-0400",
+        "startTime" : "20141022T192434-0500",
+        "endTime" : "20141022T192534-0500",
         "duration" : 60.0,
         "distance" : 31.0,
         "steps" : 61,
@@ -353,8 +296,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20141022T222211-0400",
-        "endTime" : "20141022T222541-0400",
+        "startTime" : "20141022T212211-0500",
+        "endTime" : "20141022T212541-0500",
         "duration" : 210.0,
         "distance" : 229.0,
         "steps" : 306,

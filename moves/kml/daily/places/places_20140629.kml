@@ -74,18 +74,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_Airport">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/travel/airport.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_home">
       <IconStyle>
         <scale>1.0</scale>
@@ -100,25 +88,12 @@
     </Style>
     <Folder>
       <name><![CDATA[6/29/14]]></name>
-      <Placemark id="1404015174000">
-        <name><![CDATA[Boston Logan International Airport (BOS)]]></name>
-        <atom:link href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3"/>
-        <description><![CDATA[<p>6/29/14<br/> 12:12 AM to 12:13 AM<br/> 1 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:12:55-04:00</begin>
-          <end>2014-06-29T00:13:23-04:00</end>
-        </TimeSpan>
-        <styleUrl>#place_Airport</styleUrl>
-        <Point>
-          <coordinates>-71.01667642593384,42.36650312404415</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="1404016588000">
+      <Placemark id="1404018000000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:36 AM to 1:14 PM<br/> 12:38 hours</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 12:00 AM to 12:14 PM<br/> 12:14 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T00:36:29-04:00</begin>
-          <end>2014-06-29T13:14:35-04:00</end>
+          <begin>2014-06-29T00:00:01-05:00</begin>
+          <end>2014-06-29T12:14:35-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -128,10 +103,10 @@
       <Placemark id="1404063989000">
         <name><![CDATA[Trader Joe's]]></name>
         <atom:link href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3"/>
-        <description><![CDATA[<p>6/29/14<br/> 1:46 PM to 2:22 PM<br/> 36 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 12:46 PM to 1:22 PM<br/> 36 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T13:46:30-04:00</begin>
-          <end>2014-06-29T14:22:51-04:00</end>
+          <begin>2014-06-29T12:46:30-05:00</begin>
+          <end>2014-06-29T13:22:51-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Grocery Store</styleUrl>
         <Point>
@@ -140,10 +115,10 @@
       </Placemark>
       <Placemark id="1404067943000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 2:52 PM to 12:00 AM<br/> 9:07 hours</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 1:52 PM to 12:00 AM<br/> 10:07 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T14:52:24-04:00</begin>
-          <end>2014-06-29T23:59:59-04:00</end>
+          <begin>2014-06-29T13:52:24-05:00</begin>
+          <end>2014-06-29T23:59:59-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>

@@ -20,24 +20,6 @@
         <width>6.0</width>
       </LineStyle>
     </Style>
-    <Style id="activity_transport">
-      <IconStyle>
-        <scale>0.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0.0</scale>
-      </LabelStyle>
-      <LineStyle>
-        <color>dfb4b4b4</color>
-        <width>6.0</width>
-      </LineStyle>
-    </Style>
     <Style id="place_school">
       <IconStyle>
         <scale>1.0</scale>
@@ -110,18 +92,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_Airport">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/travel/airport.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_home">
       <IconStyle>
         <scale>1.0</scale>
@@ -136,77 +106,12 @@
     </Style>
     <Folder>
       <name><![CDATA[6/29/14]]></name>
-      <Placemark id="1404014400000">
-        <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:00 AM to 12:08 AM<br/> 8 min, 24.8 mi</p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:00:00-04:00</begin>
-          <end>2014-06-29T00:08:42-04:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_transport</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>-71.3383036486,42.1661827877 -71.0162983066,42.3671420775</coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark id="1404014922000">
-        <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:08 AM to 12:12 AM<br/> 4 min, 0.1 mi, 309 steps, 11 Cal</p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:08:42-04:00</begin>
-          <end>2014-06-29T00:12:54-04:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_walking</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>-71.0162983066,42.3671420775 -71.0156239515,42.3675365498 -71.0157374346,42.367339503 -71.0159886604,42.3673094547 -71.016391926,42.3671843456</coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark id="1404015174000">
-        <name><![CDATA[Boston Logan International Airport (BOS)]]></name>
-        <atom:link href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3"/>
-        <description><![CDATA[<p>6/29/14<br/> 12:12 AM to 12:13 AM<br/> 1 min</p> <p>Airport<br/> <a href="http://foursquare.com/venue/452113b6f964a520bc3a1fe3">More details (Foursquare)</a> </p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:12:55-04:00</begin>
-          <end>2014-06-29T00:13:23-04:00</end>
-        </TimeSpan>
-        <styleUrl>#place_Airport</styleUrl>
-        <Point>
-          <coordinates>-71.01667642593384,42.36650312404415</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark id="1404015204000">
-        <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:13 AM to 12:16 AM<br/> 3 min, 0.1 mi, 190 steps, 7 Cal</p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:13:24-04:00</begin>
-          <end>2014-06-29T00:16:41-04:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_walking</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>-71.016391926,42.3671843456 -71.0168013939,42.3670388968 -71.0173362682,42.3668035336 -71.0174494772,42.3667897618</coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark id="1404015401000">
-        <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:16 AM to 12:36 AM<br/> 19 min, 7.8 mi</p>]]></description>
-        <TimeSpan>
-          <begin>2014-06-29T00:16:41-04:00</begin>
-          <end>2014-06-29T00:36:27-04:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_transport</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>-71.0174494772,42.3667897618 -71.0174217464,42.3667801809 -71.0173548751,42.3667925362 -71.019116743,42.3669863666 -71.0184144477,42.3666165035 -71.0183076626,42.3668402232 -71.0177831317,42.3668311147 -71.0747269161,42.3555950561 -71.0813941624,42.3538265049 -71.0863978446,42.3524750845 -71.1179335256,42.3642078751 -71.1179907899,42.3667509034 -71.1213760827,42.367948165 -71.1237999302,42.3685063446 -71.1148287333,42.3755000415 -71.1143639368,42.375628919 -71.1114458017,42.3754311174</coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark id="1404016588000">
+      <Placemark id="1404018000000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 12:36 AM to 1:14 PM<br/> 12:38 hours</p> <p>Walking 6 min, 0.2 mi, 384 steps, 17 Cal</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 12:00 AM to 12:14 PM<br/> 12:14 hours</p> <p>Walking 4 min, 0.1 mi, 289 steps, 14 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T00:36:29-04:00</begin>
-          <end>2014-06-29T13:14:35-04:00</end>
+          <begin>2014-06-29T00:00:01-05:00</begin>
+          <end>2014-06-29T12:14:35-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -215,10 +120,10 @@
       </Placemark>
       <Placemark id="1404062076000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 1:14 PM to 1:46 PM<br/> 31 min, 1.5 mi, 3,189 steps, 161 Cal</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 12:14 PM to 12:46 PM<br/> 31 min, 1.5 mi, 3,189 steps, 161 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T13:14:36-04:00</begin>
-          <end>2014-06-29T13:46:30-04:00</end>
+          <begin>2014-06-29T12:14:36-05:00</begin>
+          <end>2014-06-29T12:46:30-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -229,10 +134,10 @@
       <Placemark id="1404063989000">
         <name><![CDATA[Trader Joe's]]></name>
         <atom:link href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3"/>
-        <description><![CDATA[<p>6/29/14<br/> 1:46 PM to 2:22 PM<br/> 36 min</p> <p>Walking 4 min, 0.2 mi, 435 steps, 18 Cal</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 12:46 PM to 1:22 PM<br/> 36 min</p> <p>Walking 4 min, 0.2 mi, 435 steps, 18 Cal</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a81eddaf964a52000f81fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T13:46:30-04:00</begin>
-          <end>2014-06-29T14:22:51-04:00</end>
+          <begin>2014-06-29T12:46:30-05:00</begin>
+          <end>2014-06-29T13:22:51-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Grocery Store</styleUrl>
         <Point>
@@ -241,10 +146,10 @@
       </Placemark>
       <Placemark id="1404066172000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 2:22 PM to 2:52 PM<br/> 29 min, 1.4 mi, 3,067 steps, 147 Cal</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 1:22 PM to 1:52 PM<br/> 29 min, 1.4 mi, 3,067 steps, 147 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T14:22:52-04:00</begin>
-          <end>2014-06-29T14:52:22-04:00</end>
+          <begin>2014-06-29T13:22:52-05:00</begin>
+          <end>2014-06-29T13:52:22-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -254,10 +159,10 @@
       </Placemark>
       <Placemark id="1404067943000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>6/29/14<br/> 2:52 PM to 12:00 AM<br/> 9:07 hours</p> <p>Walking 3 min, 0.1 mi, 224 steps, 8 Cal</p>]]></description>
+        <description><![CDATA[<p>6/29/14<br/> 1:52 PM to 12:00 AM<br/> 10:07 hours</p> <p>Walking 3 min, 0.1 mi, 224 steps, 8 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-06-29T14:52:24-04:00</begin>
-          <end>2014-06-29T23:59:59-04:00</end>
+          <begin>2014-06-29T13:52:24-05:00</begin>
+          <end>2014-06-29T23:59:59-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>

@@ -20,117 +20,83 @@
         <width>6.0</width>
       </LineStyle>
     </Style>
-    <Style id="activity_transport">
-      <IconStyle>
-        <scale>0.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0.0</scale>
-      </LabelStyle>
-      <LineStyle>
-        <color>dfb4b4b4</color>
-        <width>6.0</width>
-      </LineStyle>
-    </Style>
     <Folder>
       <name><![CDATA[10/22/14]]></name>
-      <Placemark id="1413950546000">
-        <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>10/22/14<br/> 12:02 AM to 12:12 AM<br/> 10 min, 0.4 mi</p>]]></description>
-        <TimeSpan>
-          <begin>2014-10-22T00:02:26-04:00</begin>
-          <end>2014-10-22T00:12:45-04:00</end>
-        </TimeSpan>
-        <styleUrl>#activity_transport</styleUrl>
-        <gx:Track>
-          <tessellate>1</tessellate>
-          <when>2014-10-22T00:02:26-04:00</when>
-          <when>2014-10-22T00:12:45-04:00</when>
-          <gx:coord>-71.1165560718 42.3713430809</gx:coord>
-          <gx:coord>-71.1114458017 42.3754311174</gx:coord>
-        </gx:Track>
-      </Placemark>
       <Placemark id="1413978012000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>10/22/14<br/> 7:40 AM to 8:05 AM<br/> 25 min, 1.3 mi, 2,536 steps, 137 Cal</p>]]></description>
+        <description><![CDATA[<p>10/22/14<br/> 6:40 AM to 7:05 AM<br/> 25 min, 1.3 mi, 2,536 steps, 137 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-22T07:40:12-04:00</begin>
-          <end>2014-10-22T08:05:18-04:00</end>
+          <begin>2014-10-22T06:40:12-05:00</begin>
+          <end>2014-10-22T07:05:18-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-10-22T07:40:12-04:00</when>
-          <when>2014-10-22T07:41:24-04:00</when>
-          <when>2014-10-22T07:41:43-04:00</when>
-          <when>2014-10-22T07:42:26-04:00</when>
-          <when>2014-10-22T07:42:42-04:00</when>
-          <when>2014-10-22T07:43:05-04:00</when>
-          <when>2014-10-22T07:43:30-04:00</when>
-          <when>2014-10-22T07:43:46-04:00</when>
-          <when>2014-10-22T07:44:13-04:00</when>
-          <when>2014-10-22T07:44:28-04:00</when>
-          <when>2014-10-22T07:44:46-04:00</when>
-          <when>2014-10-22T07:45:02-04:00</when>
-          <when>2014-10-22T07:45:27-04:00</when>
-          <when>2014-10-22T07:45:49-04:00</when>
-          <when>2014-10-22T07:46:12-04:00</when>
-          <when>2014-10-22T07:46:28-04:00</when>
-          <when>2014-10-22T07:46:53-04:00</when>
-          <when>2014-10-22T07:47:12-04:00</when>
-          <when>2014-10-22T07:47:27-04:00</when>
-          <when>2014-10-22T07:47:50-04:00</when>
-          <when>2014-10-22T07:48:10-04:00</when>
-          <when>2014-10-22T07:48:27-04:00</when>
-          <when>2014-10-22T07:49:03-04:00</when>
-          <when>2014-10-22T07:49:26-04:00</when>
-          <when>2014-10-22T07:49:46-04:00</when>
-          <when>2014-10-22T07:50:07-04:00</when>
-          <when>2014-10-22T07:50:31-04:00</when>
-          <when>2014-10-22T07:51:17-04:00</when>
-          <when>2014-10-22T07:51:36-04:00</when>
-          <when>2014-10-22T07:51:59-04:00</when>
-          <when>2014-10-22T07:52:22-04:00</when>
-          <when>2014-10-22T07:52:45-04:00</when>
-          <when>2014-10-22T07:53:08-04:00</when>
-          <when>2014-10-22T07:53:25-04:00</when>
-          <when>2014-10-22T07:53:48-04:00</when>
-          <when>2014-10-22T07:54:13-04:00</when>
-          <when>2014-10-22T07:54:35-04:00</when>
-          <when>2014-10-22T07:55:03-04:00</when>
-          <when>2014-10-22T07:55:23-04:00</when>
-          <when>2014-10-22T07:55:49-04:00</when>
-          <when>2014-10-22T07:56:11-04:00</when>
-          <when>2014-10-22T07:56:28-04:00</when>
-          <when>2014-10-22T07:56:45-04:00</when>
-          <when>2014-10-22T07:57:06-04:00</when>
-          <when>2014-10-22T07:57:23-04:00</when>
-          <when>2014-10-22T07:57:41-04:00</when>
-          <when>2014-10-22T07:58:41-04:00</when>
-          <when>2014-10-22T07:59:02-04:00</when>
-          <when>2014-10-22T07:59:20-04:00</when>
-          <when>2014-10-22T07:59:41-04:00</when>
-          <when>2014-10-22T07:59:59-04:00</when>
-          <when>2014-10-22T08:00:00-04:00</when>
-          <when>2014-10-22T08:00:19-04:00</when>
-          <when>2014-10-22T08:00:46-04:00</when>
-          <when>2014-10-22T08:01:03-04:00</when>
-          <when>2014-10-22T08:01:19-04:00</when>
-          <when>2014-10-22T08:02:10-04:00</when>
-          <when>2014-10-22T08:02:35-04:00</when>
-          <when>2014-10-22T08:02:50-04:00</when>
-          <when>2014-10-22T08:03:05-04:00</when>
-          <when>2014-10-22T08:03:57-04:00</when>
-          <when>2014-10-22T08:04:12-04:00</when>
-          <when>2014-10-22T08:04:37-04:00</when>
-          <when>2014-10-22T08:04:57-04:00</when>
-          <when>2014-10-22T08:05:18-04:00</when>
+          <when>2014-10-22T06:40:12-05:00</when>
+          <when>2014-10-22T06:41:24-05:00</when>
+          <when>2014-10-22T06:41:43-05:00</when>
+          <when>2014-10-22T06:42:26-05:00</when>
+          <when>2014-10-22T06:42:42-05:00</when>
+          <when>2014-10-22T06:43:05-05:00</when>
+          <when>2014-10-22T06:43:30-05:00</when>
+          <when>2014-10-22T06:43:46-05:00</when>
+          <when>2014-10-22T06:44:13-05:00</when>
+          <when>2014-10-22T06:44:28-05:00</when>
+          <when>2014-10-22T06:44:46-05:00</when>
+          <when>2014-10-22T06:45:02-05:00</when>
+          <when>2014-10-22T06:45:27-05:00</when>
+          <when>2014-10-22T06:45:49-05:00</when>
+          <when>2014-10-22T06:46:12-05:00</when>
+          <when>2014-10-22T06:46:28-05:00</when>
+          <when>2014-10-22T06:46:53-05:00</when>
+          <when>2014-10-22T06:47:12-05:00</when>
+          <when>2014-10-22T06:47:27-05:00</when>
+          <when>2014-10-22T06:47:50-05:00</when>
+          <when>2014-10-22T06:48:10-05:00</when>
+          <when>2014-10-22T06:48:27-05:00</when>
+          <when>2014-10-22T06:49:03-05:00</when>
+          <when>2014-10-22T06:49:26-05:00</when>
+          <when>2014-10-22T06:49:46-05:00</when>
+          <when>2014-10-22T06:50:07-05:00</when>
+          <when>2014-10-22T06:50:31-05:00</when>
+          <when>2014-10-22T06:51:17-05:00</when>
+          <when>2014-10-22T06:51:36-05:00</when>
+          <when>2014-10-22T06:51:59-05:00</when>
+          <when>2014-10-22T06:52:22-05:00</when>
+          <when>2014-10-22T06:52:45-05:00</when>
+          <when>2014-10-22T06:53:08-05:00</when>
+          <when>2014-10-22T06:53:25-05:00</when>
+          <when>2014-10-22T06:53:48-05:00</when>
+          <when>2014-10-22T06:54:13-05:00</when>
+          <when>2014-10-22T06:54:35-05:00</when>
+          <when>2014-10-22T06:55:03-05:00</when>
+          <when>2014-10-22T06:55:23-05:00</when>
+          <when>2014-10-22T06:55:49-05:00</when>
+          <when>2014-10-22T06:56:11-05:00</when>
+          <when>2014-10-22T06:56:28-05:00</when>
+          <when>2014-10-22T06:56:45-05:00</when>
+          <when>2014-10-22T06:57:06-05:00</when>
+          <when>2014-10-22T06:57:23-05:00</when>
+          <when>2014-10-22T06:57:41-05:00</when>
+          <when>2014-10-22T06:58:41-05:00</when>
+          <when>2014-10-22T06:59:02-05:00</when>
+          <when>2014-10-22T06:59:20-05:00</when>
+          <when>2014-10-22T06:59:41-05:00</when>
+          <when>2014-10-22T06:59:59-05:00</when>
+          <when>2014-10-22T07:00:00-05:00</when>
+          <when>2014-10-22T07:00:19-05:00</when>
+          <when>2014-10-22T07:00:46-05:00</when>
+          <when>2014-10-22T07:01:03-05:00</when>
+          <when>2014-10-22T07:01:19-05:00</when>
+          <when>2014-10-22T07:02:10-05:00</when>
+          <when>2014-10-22T07:02:35-05:00</when>
+          <when>2014-10-22T07:02:50-05:00</when>
+          <when>2014-10-22T07:03:05-05:00</when>
+          <when>2014-10-22T07:03:57-05:00</when>
+          <when>2014-10-22T07:04:12-05:00</when>
+          <when>2014-10-22T07:04:37-05:00</when>
+          <when>2014-10-22T07:04:57-05:00</when>
+          <when>2014-10-22T07:05:18-05:00</when>
           <gx:coord>-71.1114458017 42.3754311174</gx:coord>
           <gx:coord>-71.111002744 42.3749254117</gx:coord>
           <gx:coord>-71.1110073305 42.3746413107</gx:coord>
@@ -200,22 +166,22 @@
       </Placemark>
       <Placemark id="1413982922000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>10/22/14<br/> 9:02 AM to 9:05 AM<br/> 3 min, 0.2 mi, 336 steps, 16 Cal</p>]]></description>
+        <description><![CDATA[<p>10/22/14<br/> 8:02 AM to 8:05 AM<br/> 3 min, 0.2 mi, 336 steps, 16 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-22T09:02:02-04:00</begin>
-          <end>2014-10-22T09:05:08-04:00</end>
+          <begin>2014-10-22T08:02:02-05:00</begin>
+          <end>2014-10-22T08:05:08-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-10-22T09:02:02-04:00</when>
-          <when>2014-10-22T09:02:21-04:00</when>
-          <when>2014-10-22T09:02:58-04:00</when>
-          <when>2014-10-22T09:03:19-04:00</when>
-          <when>2014-10-22T09:03:41-04:00</when>
-          <when>2014-10-22T09:04:17-04:00</when>
-          <when>2014-10-22T09:04:33-04:00</when>
-          <when>2014-10-22T09:05:08-04:00</when>
+          <when>2014-10-22T08:02:02-05:00</when>
+          <when>2014-10-22T08:02:21-05:00</when>
+          <when>2014-10-22T08:02:58-05:00</when>
+          <when>2014-10-22T08:03:19-05:00</when>
+          <when>2014-10-22T08:03:41-05:00</when>
+          <when>2014-10-22T08:04:17-05:00</when>
+          <when>2014-10-22T08:04:33-05:00</when>
+          <when>2014-10-22T08:05:08-05:00</when>
           <gx:coord>-71.1240297917 42.3642748855</gx:coord>
           <gx:coord>-71.1228696738 42.3649628599</gx:coord>
           <gx:coord>-71.122811399 42.3650236489</gx:coord>
@@ -228,25 +194,25 @@
       </Placemark>
       <Placemark id="1413997805000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>10/22/14<br/> 1:10 PM to 1:14 PM<br/> 4 min, 0.2 mi, 501 steps, 25 Cal</p>]]></description>
+        <description><![CDATA[<p>10/22/14<br/> 12:10 PM to 12:14 PM<br/> 4 min, 0.2 mi, 501 steps, 25 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-22T13:10:05-04:00</begin>
-          <end>2014-10-22T13:14:43-04:00</end>
+          <begin>2014-10-22T12:10:05-05:00</begin>
+          <end>2014-10-22T12:14:43-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-10-22T13:10:05-04:00</when>
-          <when>2014-10-22T13:10:23-04:00</when>
-          <when>2014-10-22T13:10:44-04:00</when>
-          <when>2014-10-22T13:11:00-04:00</when>
-          <when>2014-10-22T13:11:18-04:00</when>
-          <when>2014-10-22T13:11:37-04:00</when>
-          <when>2014-10-22T13:13:30-04:00</when>
-          <when>2014-10-22T13:13:50-04:00</when>
-          <when>2014-10-22T13:14:08-04:00</when>
-          <when>2014-10-22T13:14:25-04:00</when>
-          <when>2014-10-22T13:14:43-04:00</when>
+          <when>2014-10-22T12:10:05-05:00</when>
+          <when>2014-10-22T12:10:23-05:00</when>
+          <when>2014-10-22T12:10:44-05:00</when>
+          <when>2014-10-22T12:11:00-05:00</when>
+          <when>2014-10-22T12:11:18-05:00</when>
+          <when>2014-10-22T12:11:37-05:00</when>
+          <when>2014-10-22T12:13:30-05:00</when>
+          <when>2014-10-22T12:13:50-05:00</when>
+          <when>2014-10-22T12:14:08-05:00</when>
+          <when>2014-10-22T12:14:25-05:00</when>
+          <when>2014-10-22T12:14:43-05:00</when>
           <gx:coord>-71.1221091518 42.3657878071</gx:coord>
           <gx:coord>-71.1224670455 42.3651431176</gx:coord>
           <gx:coord>-71.1223633781 42.3651788188</gx:coord>
@@ -262,53 +228,53 @@
       </Placemark>
       <Placemark id="1414002219000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>10/22/14<br/> 2:23 PM to 2:51 PM<br/> 27 min, 1.2 mi, 2,624 steps, 130 Cal</p>]]></description>
+        <description><![CDATA[<p>10/22/14<br/> 1:23 PM to 1:51 PM<br/> 27 min, 1.2 mi, 2,624 steps, 130 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-22T14:23:39-04:00</begin>
-          <end>2014-10-22T14:51:36-04:00</end>
+          <begin>2014-10-22T13:23:39-05:00</begin>
+          <end>2014-10-22T13:51:36-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-10-22T14:23:39-04:00</when>
-          <when>2014-10-22T14:24:01-04:00</when>
-          <when>2014-10-22T14:24:21-04:00</when>
-          <when>2014-10-22T14:25:22-04:00</when>
-          <when>2014-10-22T14:25:44-04:00</when>
-          <when>2014-10-22T14:26:12-04:00</when>
-          <when>2014-10-22T14:26:28-04:00</when>
-          <when>2014-10-22T14:26:50-04:00</when>
-          <when>2014-10-22T14:27:06-04:00</when>
-          <when>2014-10-22T14:27:32-04:00</when>
-          <when>2014-10-22T14:27:50-04:00</when>
-          <when>2014-10-22T14:28:29-04:00</when>
-          <when>2014-10-22T14:28:59-04:00</when>
-          <when>2014-10-22T14:29:27-04:00</when>
-          <when>2014-10-22T14:29:53-04:00</when>
-          <when>2014-10-22T14:30:09-04:00</when>
-          <when>2014-10-22T14:31:21-04:00</when>
-          <when>2014-10-22T14:31:50-04:00</when>
-          <when>2014-10-22T14:32:14-04:00</when>
-          <when>2014-10-22T14:32:33-04:00</when>
-          <when>2014-10-22T14:33:31-04:00</when>
-          <when>2014-10-22T14:33:48-04:00</when>
-          <when>2014-10-22T14:35:04-04:00</when>
-          <when>2014-10-22T14:37:16-04:00</when>
-          <when>2014-10-22T14:37:32-04:00</when>
-          <when>2014-10-22T14:38:43-04:00</when>
-          <when>2014-10-22T14:39:34-04:00</when>
-          <when>2014-10-22T14:41:11-04:00</when>
-          <when>2014-10-22T14:41:28-04:00</when>
-          <when>2014-10-22T14:42:39-04:00</when>
-          <when>2014-10-22T14:45:14-04:00</when>
-          <when>2014-10-22T14:45:30-04:00</when>
-          <when>2014-10-22T14:46:02-04:00</when>
-          <when>2014-10-22T14:46:28-04:00</when>
-          <when>2014-10-22T14:49:03-04:00</when>
-          <when>2014-10-22T14:49:21-04:00</when>
-          <when>2014-10-22T14:49:36-04:00</when>
-          <when>2014-10-22T14:50:36-04:00</when>
-          <when>2014-10-22T14:51:35-04:00</when>
+          <when>2014-10-22T13:23:39-05:00</when>
+          <when>2014-10-22T13:24:01-05:00</when>
+          <when>2014-10-22T13:24:21-05:00</when>
+          <when>2014-10-22T13:25:22-05:00</when>
+          <when>2014-10-22T13:25:44-05:00</when>
+          <when>2014-10-22T13:26:12-05:00</when>
+          <when>2014-10-22T13:26:28-05:00</when>
+          <when>2014-10-22T13:26:50-05:00</when>
+          <when>2014-10-22T13:27:06-05:00</when>
+          <when>2014-10-22T13:27:32-05:00</when>
+          <when>2014-10-22T13:27:50-05:00</when>
+          <when>2014-10-22T13:28:29-05:00</when>
+          <when>2014-10-22T13:28:59-05:00</when>
+          <when>2014-10-22T13:29:27-05:00</when>
+          <when>2014-10-22T13:29:53-05:00</when>
+          <when>2014-10-22T13:30:09-05:00</when>
+          <when>2014-10-22T13:31:21-05:00</when>
+          <when>2014-10-22T13:31:50-05:00</when>
+          <when>2014-10-22T13:32:14-05:00</when>
+          <when>2014-10-22T13:32:33-05:00</when>
+          <when>2014-10-22T13:33:31-05:00</when>
+          <when>2014-10-22T13:33:48-05:00</when>
+          <when>2014-10-22T13:35:04-05:00</when>
+          <when>2014-10-22T13:37:16-05:00</when>
+          <when>2014-10-22T13:37:32-05:00</when>
+          <when>2014-10-22T13:38:43-05:00</when>
+          <when>2014-10-22T13:39:34-05:00</when>
+          <when>2014-10-22T13:41:11-05:00</when>
+          <when>2014-10-22T13:41:28-05:00</when>
+          <when>2014-10-22T13:42:39-05:00</when>
+          <when>2014-10-22T13:45:14-05:00</when>
+          <when>2014-10-22T13:45:30-05:00</when>
+          <when>2014-10-22T13:46:02-05:00</when>
+          <when>2014-10-22T13:46:28-05:00</when>
+          <when>2014-10-22T13:49:03-05:00</when>
+          <when>2014-10-22T13:49:21-05:00</when>
+          <when>2014-10-22T13:49:36-05:00</when>
+          <when>2014-10-22T13:50:36-05:00</when>
+          <when>2014-10-22T13:51:35-05:00</when>
           <gx:coord>-71.1238360405 42.3640615623</gx:coord>
           <gx:coord>-71.1241075004 42.3641949261</gx:coord>
           <gx:coord>-71.1240385431 42.3642263616</gx:coord>
@@ -359,42 +325,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T00:02:26-04:00</begin>
-              <end>2014-10-22T00:02:26-04:00</end>
-            </TimeSpan>
-            <longitude>-71.1165560718</longitude>
-            <latitude>42.3713430809</latitude>
-            <altitude>0.0</altitude>
-            <heading>0.0</heading>
-            <tilt>45.0</tilt>
-            <range>600.0</range>
-            <altitudeMode>relativeToGround</altitudeMode>
-          </LookAt>
-        </gx:FlyTo>
-        <gx:FlyTo>
-          <gx:duration>0.9951884243699783</gx:duration>
-          <gx:flyToMode>bounce</gx:flyToMode>
-          <LookAt>
-            <TimeSpan>
-              <begin>2014-10-22T00:02:26-04:00</begin>
-              <end>2014-10-22T00:12:45-04:00</end>
-            </TimeSpan>
-            <longitude>-71.1114458017</longitude>
-            <latitude>42.3754311174</latitude>
-            <altitude>0.0</altitude>
-            <heading>0.0</heading>
-            <tilt>45.0</tilt>
-            <range>600.0</range>
-            <altitudeMode>relativeToGround</altitudeMode>
-          </LookAt>
-        </gx:FlyTo>
-        <gx:FlyTo>
-          <gx:duration>0.5</gx:duration>
-          <gx:flyToMode>bounce</gx:flyToMode>
-          <LookAt>
-            <TimeSpan>
-              <begin>2014-10-22T07:40:12-04:00</begin>
-              <end>2014-10-22T07:40:12-04:00</end>
+              <begin>2014-10-22T06:40:12-05:00</begin>
+              <end>2014-10-22T06:40:12-05:00</end>
             </TimeSpan>
             <longitude>-71.1114458017</longitude>
             <latitude>42.3754311174</latitude>
@@ -410,8 +342,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T07:40:12-04:00</begin>
-              <end>2014-10-22T07:47:27-04:00</end>
+              <begin>2014-10-22T06:40:12-05:00</begin>
+              <end>2014-10-22T06:47:27-05:00</end>
             </TimeSpan>
             <longitude>-71.1131182149</longitude>
             <latitude>42.3704378005</latitude>
@@ -427,8 +359,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T07:47:27-04:00</begin>
-              <end>2014-10-22T07:56:11-04:00</end>
+              <begin>2014-10-22T06:47:27-05:00</begin>
+              <end>2014-10-22T06:56:11-05:00</end>
             </TimeSpan>
             <longitude>-71.1190988107</longitude>
             <latitude>42.3677754385</latitude>
@@ -444,8 +376,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T07:56:11-04:00</begin>
-              <end>2014-10-22T08:03:57-04:00</end>
+              <begin>2014-10-22T06:56:11-05:00</begin>
+              <end>2014-10-22T07:03:57-05:00</end>
             </TimeSpan>
             <longitude>-71.1238880643</longitude>
             <latitude>42.3641499653</latitude>
@@ -461,8 +393,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T08:03:57-04:00</begin>
-              <end>2014-10-22T08:05:18-04:00</end>
+              <begin>2014-10-22T07:03:57-05:00</begin>
+              <end>2014-10-22T07:05:18-05:00</end>
             </TimeSpan>
             <longitude>-71.1240297917</longitude>
             <latitude>42.3642748855</latitude>
@@ -478,8 +410,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T09:02:02-04:00</begin>
-              <end>2014-10-22T09:02:02-04:00</end>
+              <begin>2014-10-22T08:02:02-05:00</begin>
+              <end>2014-10-22T08:02:02-05:00</end>
             </TimeSpan>
             <longitude>-71.1240297917</longitude>
             <latitude>42.3642748855</latitude>
@@ -495,8 +427,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T09:02:02-04:00</begin>
-              <end>2014-10-22T09:05:08-04:00</end>
+              <begin>2014-10-22T08:02:02-05:00</begin>
+              <end>2014-10-22T08:05:08-05:00</end>
             </TimeSpan>
             <longitude>-71.1221091518</longitude>
             <latitude>42.3657878071</latitude>
@@ -512,8 +444,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T13:10:05-04:00</begin>
-              <end>2014-10-22T13:10:05-04:00</end>
+              <begin>2014-10-22T12:10:05-05:00</begin>
+              <end>2014-10-22T12:10:05-05:00</end>
             </TimeSpan>
             <longitude>-71.1221091518</longitude>
             <latitude>42.3657878071</latitude>
@@ -529,8 +461,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T13:10:05-04:00</begin>
-              <end>2014-10-22T13:14:43-04:00</end>
+              <begin>2014-10-22T12:10:05-05:00</begin>
+              <end>2014-10-22T12:14:43-05:00</end>
             </TimeSpan>
             <longitude>-71.1238360405</longitude>
             <latitude>42.3640615623</latitude>
@@ -546,8 +478,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T14:23:39-04:00</begin>
-              <end>2014-10-22T14:23:39-04:00</end>
+              <begin>2014-10-22T13:23:39-05:00</begin>
+              <end>2014-10-22T13:23:39-05:00</end>
             </TimeSpan>
             <longitude>-71.1238360405</longitude>
             <latitude>42.3640615623</latitude>
@@ -563,8 +495,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T14:23:39-04:00</begin>
-              <end>2014-10-22T14:37:16-04:00</end>
+              <begin>2014-10-22T13:23:39-05:00</begin>
+              <end>2014-10-22T13:37:16-05:00</end>
             </TimeSpan>
             <longitude>-71.1176085121</longitude>
             <latitude>42.3689013898</latitude>
@@ -580,8 +512,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T14:37:16-04:00</begin>
-              <end>2014-10-22T14:46:28-04:00</end>
+              <begin>2014-10-22T13:37:16-05:00</begin>
+              <end>2014-10-22T13:46:28-05:00</end>
             </TimeSpan>
             <longitude>-71.113462758</longitude>
             <latitude>42.3730761642</latitude>
@@ -597,8 +529,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-22T14:46:28-04:00</begin>
-              <end>2014-10-22T14:51:35-04:00</end>
+              <begin>2014-10-22T13:46:28-05:00</begin>
+              <end>2014-10-22T13:51:35-05:00</end>
             </TimeSpan>
             <longitude>-71.1114458017</longitude>
             <latitude>42.3754311174</latitude>

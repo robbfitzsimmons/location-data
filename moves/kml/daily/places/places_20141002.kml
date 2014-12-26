@@ -2,18 +2,6 @@
   <Document>
     <atom:link href="http://www.moves-app.com"/>
     <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
-    <Style id="place_Building">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_school">
       <IconStyle>
         <scale>1.0</scale>
@@ -26,12 +14,36 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_College Technology Building">
       <IconStyle>
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
           <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Chinese Restaurant">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/chinese.png</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -148,12 +160,12 @@
     </Style>
     <Folder>
       <name><![CDATA[10/2/14]]></name>
-      <Placemark id="1412222400000">
+      <Placemark id="1412226000000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>10/2/14<br/> 12:00 AM to 7:32 AM<br/> 7:32 hours</p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 12:00 AM to 6:32 AM<br/> 6:32 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T00:00:01-04:00</begin>
-          <end>2014-10-02T07:32:02-04:00</end>
+          <begin>2014-10-02T00:00:01-05:00</begin>
+          <end>2014-10-02T06:32:02-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -163,10 +175,10 @@
       <Placemark id="1412251390000">
         <name><![CDATA[Harvard Innovation Lab]]></name>
         <atom:link href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64"/>
-        <description><![CDATA[<p>10/2/14<br/> 8:03 AM to 8:52 AM<br/> 48 min</p> <p>College Technology Building<br/> <a href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 7:03 AM to 7:52 AM<br/> 48 min</p> <p>College Technology Building<br/> <a href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T08:03:11-04:00</begin>
-          <end>2014-10-02T08:52:02-04:00</end>
+          <begin>2014-10-02T07:03:11-05:00</begin>
+          <end>2014-10-02T07:52:02-05:00</end>
         </TimeSpan>
         <styleUrl>#place_College Technology Building</styleUrl>
         <Point>
@@ -176,10 +188,10 @@
       <Placemark id="1412254916000">
         <name><![CDATA[Aldrich Hall]]></name>
         <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
-        <description><![CDATA[<p>10/2/14<br/> 9:01 AM to 2:24 PM<br/> 5:22 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 8:01 AM to 1:24 PM<br/> 5:22 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T09:01:57-04:00</begin>
-          <end>2014-10-02T14:24:27-04:00</end>
+          <begin>2014-10-02T08:01:57-05:00</begin>
+          <end>2014-10-02T13:24:27-05:00</end>
         </TimeSpan>
         <styleUrl>#place_College Academic Building</styleUrl>
         <Point>
@@ -189,10 +201,10 @@
       <Placemark id="1412274561000">
         <name><![CDATA[Morgan Hall]]></name>
         <atom:link href="http://foursquare.com/venue/4adf6b74f964a520697a21e3"/>
-        <description><![CDATA[<p>10/2/14<br/> 2:29 PM to 3:10 PM<br/> 40 min</p> <p>College Administrative Building<br/> <a href="http://foursquare.com/venue/4adf6b74f964a520697a21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 1:29 PM to 2:10 PM<br/> 40 min</p> <p>College Administrative Building<br/> <a href="http://foursquare.com/venue/4adf6b74f964a520697a21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T14:29:22-04:00</begin>
-          <end>2014-10-02T15:10:13-04:00</end>
+          <begin>2014-10-02T13:29:22-05:00</begin>
+          <end>2014-10-02T14:10:13-05:00</end>
         </TimeSpan>
         <styleUrl>#place_College Administrative Building</styleUrl>
         <Point>
@@ -201,10 +213,10 @@
       </Placemark>
       <Placemark id="1412278582000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>10/2/14<br/> 3:36 PM to 6:03 PM<br/> 2:27 hours</p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 2:36 PM to 5:03 PM<br/> 2:27 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T15:36:23-04:00</begin>
-          <end>2014-10-02T18:03:50-04:00</end>
+          <begin>2014-10-02T14:36:23-05:00</begin>
+          <end>2014-10-02T17:03:50-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -214,10 +226,10 @@
       <Placemark id="1412288485000">
         <name><![CDATA[Park]]></name>
         <atom:link href="http://foursquare.com/venue/4f7c8902e4b032c26c6798db"/>
-        <description><![CDATA[<p>10/2/14<br/> 6:21 PM to 8:24 PM<br/> 2:03 hours</p> <p>Gastropub<br/> <a href="http://foursquare.com/venue/4f7c8902e4b032c26c6798db">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 5:21 PM to 7:24 PM<br/> 2:03 hours</p> <p>Gastropub<br/> <a href="http://foursquare.com/venue/4f7c8902e4b032c26c6798db">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T18:21:26-04:00</begin>
-          <end>2014-10-02T20:24:57-04:00</end>
+          <begin>2014-10-02T17:21:26-05:00</begin>
+          <end>2014-10-02T19:24:57-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Gastropub</styleUrl>
         <Point>
@@ -227,10 +239,10 @@
       <Placemark id="1412296850000">
         <name><![CDATA[10 Akron]]></name>
         <atom:link href="http://foursquare.com/venue/4b8c0e38f964a5202dbb32e3"/>
-        <description><![CDATA[<p>10/2/14<br/> 8:40 PM to 10:12 PM<br/> 1:31 hours</p> <p>Building<br/> <a href="http://foursquare.com/venue/4b8c0e38f964a5202dbb32e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 7:40 PM to 9:12 PM<br/> 1:31 hours</p> <p>Building<br/> <a href="http://foursquare.com/venue/4b8c0e38f964a5202dbb32e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T20:40:51-04:00</begin>
-          <end>2014-10-02T22:12:22-04:00</end>
+          <begin>2014-10-02T19:40:51-05:00</begin>
+          <end>2014-10-02T21:12:22-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Building</styleUrl>
         <Point>
@@ -240,14 +252,27 @@
       <Placemark id="1412303101000">
         <name><![CDATA[Daedalus]]></name>
         <atom:link href="http://foursquare.com/venue/44e1b94ff964a5201f371fe3"/>
-        <description><![CDATA[<p>10/2/14<br/> 10:25 PM to 12:00 AM<br/> 1:34 hours</p> <p>Restaurant<br/> <a href="http://foursquare.com/venue/44e1b94ff964a5201f371fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/2/14<br/> 9:25 PM to 11:02 PM<br/> 1:37 hours</p> <p>Restaurant<br/> <a href="http://foursquare.com/venue/44e1b94ff964a5201f371fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-02T22:25:02-04:00</begin>
-          <end>2014-10-02T23:59:59-04:00</end>
+          <begin>2014-10-02T21:25:02-05:00</begin>
+          <end>2014-10-02T23:02:04-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Restaurant</styleUrl>
         <Point>
           <coordinates>-71.1165560717644,42.37134308090408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1412309237000">
+        <name><![CDATA[Hong Kong]]></name>
+        <atom:link href="http://foursquare.com/venue/40b28c80f964a52036f81ee3"/>
+        <description><![CDATA[<p>10/2/14<br/> 11:07 PM to 11:52 PM<br/> 44 min</p> <p>Chinese Restaurant<br/> <a href="http://foursquare.com/venue/40b28c80f964a52036f81ee3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-10-02T23:07:18-05:00</begin>
+          <end>2014-10-02T23:52:00-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Chinese Restaurant</styleUrl>
+        <Point>
+          <coordinates>-71.11595,42.372426</coordinates>
         </Point>
       </Placemark>
     </Folder>

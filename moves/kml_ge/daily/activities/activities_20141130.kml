@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[11/30/14]]></name>
+      <Placemark id="1417396958000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>11/30/14<br/> 7:22 PM to 7:29 PM<br/> 6 min, 0.3 mi, 497 steps, 31 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-11-30T19:22:38-06:00</begin>
+          <end>2014-11-30T19:29:30-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <gx:Track>
+          <tessellate>1</tessellate>
+          <when>2014-11-30T19:22:38-06:00</when>
+          <when>2014-11-30T19:23:57-06:00</when>
+          <when>2014-11-30T19:24:13-06:00</when>
+          <when>2014-11-30T19:24:43-06:00</when>
+          <when>2014-11-30T19:25:13-06:00</when>
+          <when>2014-11-30T19:25:33-06:00</when>
+          <when>2014-11-30T19:25:53-06:00</when>
+          <when>2014-11-30T19:26:12-06:00</when>
+          <when>2014-11-30T19:26:45-06:00</when>
+          <when>2014-11-30T19:27:05-06:00</when>
+          <when>2014-11-30T19:27:26-06:00</when>
+          <when>2014-11-30T19:27:44-06:00</when>
+          <when>2014-11-30T19:28:06-06:00</when>
+          <when>2014-11-30T19:28:48-06:00</when>
+          <when>2014-11-30T19:29:10-06:00</when>
+          <when>2014-11-30T19:29:29-06:00</when>
+          <gx:coord>-71.1114458017 42.3754311174</gx:coord>
+          <gx:coord>-71.1120865285 42.3753350559</gx:coord>
+          <gx:coord>-71.1124198988 42.3753758119</gx:coord>
+          <gx:coord>-71.1128106126 42.3753462553</gx:coord>
+          <gx:coord>-71.1131381841 42.3752756076</gx:coord>
+          <gx:coord>-71.1133446532 42.3751430985</gx:coord>
+          <gx:coord>-71.1134283112 42.3751904488</gx:coord>
+          <gx:coord>-71.1136442795 42.3752707787</gx:coord>
+          <gx:coord>-71.1139068092 42.3751686709</gx:coord>
+          <gx:coord>-71.1137145101 42.3753496799</gx:coord>
+          <gx:coord>-71.113238315 42.3754566832</gx:coord>
+          <gx:coord>-71.113002287 42.3754207648</gx:coord>
+          <gx:coord>-71.1126827159 42.3753615923</gx:coord>
+          <gx:coord>-71.1121002676 42.3752869447</gx:coord>
+          <gx:coord>-71.1116591333 42.3752398449</gx:coord>
+          <gx:coord>-71.1114458017 42.3754311174</gx:coord>
+        </gx:Track>
+      </Placemark>
+    </Folder>
+    <gx:Tour>
+      <name><![CDATA[Moves tour]]></name>
+      <gx:Playlist>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-11-30T19:22:38-06:00</begin>
+              <end>2014-11-30T19:22:38-06:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.8109253973085317</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-11-30T19:22:38-06:00</begin>
+              <end>2014-11-30T19:29:29-06:00</end>
+            </TimeSpan>
+            <longitude>-71.1114458017</longitude>
+            <latitude>42.3754311174</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+      </gx:Playlist>
+    </gx:Tour>
+  </Document>
+</kml>

@@ -38,6 +38,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_Breakfast Spot">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_foursquare">
       <IconStyle>
         <scale>1.0</scale>
@@ -76,12 +88,12 @@
     </Style>
     <Folder>
       <name><![CDATA[10/4/14]]></name>
-      <Placemark id="1412395200000">
+      <Placemark id="1412398800000">
         <name><![CDATA[Fitzsimmons Home]]></name>
-        <description><![CDATA[<p>10/4/14<br/> 12:00 AM to 2:20 PM<br/> 14:20 hours</p>]]></description>
+        <description><![CDATA[<p>10/4/14<br/> 12:00 AM to 1:20 PM<br/> 13:20 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-04T00:00:01-04:00</begin>
-          <end>2014-10-04T14:20:52-04:00</end>
+          <begin>2014-10-04T00:00:01-05:00</begin>
+          <end>2014-10-04T13:20:52-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -91,22 +103,22 @@
       <Placemark id="1412446982000">
         <name><![CDATA[Nosh]]></name>
         <atom:link href="http://foursquare.com/venue/4b5c8db0f964a5203b3629e3"/>
-        <description><![CDATA[<p>10/4/14<br/> 2:23 PM to 3:52 PM<br/> 1:29 hours</p> <p> <a href="http://foursquare.com/venue/4b5c8db0f964a5203b3629e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>10/4/14<br/> 1:23 PM to 2:52 PM<br/> 1:29 hours</p> <p>Breakfast Spot<br/> <a href="http://foursquare.com/venue/4b5c8db0f964a5203b3629e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-10-04T14:23:03-04:00</begin>
-          <end>2014-10-04T15:52:41-04:00</end>
+          <begin>2014-10-04T13:23:03-05:00</begin>
+          <end>2014-10-04T14:52:41-05:00</end>
         </TimeSpan>
-        <styleUrl>#place_foursquare</styleUrl>
+        <styleUrl>#place_Breakfast Spot</styleUrl>
         <Point>
           <coordinates>-88.30746173858643,41.88694340165634</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1412453841000">
         <name><![CDATA[Fitzsimmons Home]]></name>
-        <description><![CDATA[<p>10/4/14<br/> 4:17 PM to 12:00 AM<br/> 7:42 hours</p>]]></description>
+        <description><![CDATA[<p>10/4/14<br/> 3:17 PM to 12:00 AM<br/> 8:42 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-10-04T16:17:22-04:00</begin>
-          <end>2014-10-04T23:59:59-04:00</end>
+          <begin>2014-10-04T15:17:22-05:00</begin>
+          <end>2014-10-04T23:59:59-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -122,7 +134,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-10-04T00:00:00-04:00</when>
+              <when>2014-10-04T00:00:00-05:00</when>
             </TimeStamp>
             <longitude>-88.311048021</longitude>
             <latitude>41.8771070061</latitude>
@@ -134,12 +146,12 @@
           </LookAt>
         </gx:FlyTo>
         <gx:FlyTo>
-          <gx:duration>9.090918545449629</gx:duration>
+          <gx:duration>8.768397801194926</gx:duration>
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-04T00:00:01-04:00</begin>
-              <end>2014-10-04T14:20:52-04:00</end>
+              <begin>2014-10-04T00:00:01-05:00</begin>
+              <end>2014-10-04T13:20:52-05:00</end>
             </TimeSpan>
             <longitude>-88.311048021</longitude>
             <latitude>41.8771070061</latitude>
@@ -155,7 +167,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-10-04T14:23:02-04:00</when>
+              <when>2014-10-04T13:23:02-05:00</when>
             </TimeStamp>
             <longitude>-88.30746173858643</longitude>
             <latitude>41.88694340165634</latitude>
@@ -171,8 +183,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-04T14:23:03-04:00</begin>
-              <end>2014-10-04T15:52:41-04:00</end>
+              <begin>2014-10-04T13:23:03-05:00</begin>
+              <end>2014-10-04T14:52:41-05:00</end>
             </TimeSpan>
             <longitude>-88.30746173858643</longitude>
             <latitude>41.88694340165634</latitude>
@@ -188,7 +200,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-10-04T16:17:21-04:00</when>
+              <when>2014-10-04T15:17:21-05:00</when>
             </TimeStamp>
             <longitude>-88.311048021</longitude>
             <latitude>41.8771070061</latitude>
@@ -200,12 +212,12 @@
           </LookAt>
         </gx:FlyTo>
         <gx:FlyTo>
-          <gx:duration>6.66441295239123</gx:duration>
+          <gx:duration>7.083389019388953</gx:duration>
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-10-04T16:17:22-04:00</begin>
-              <end>2014-10-04T23:59:59-04:00</end>
+              <begin>2014-10-04T15:17:22-05:00</begin>
+              <end>2014-10-04T23:59:59-05:00</end>
             </TimeSpan>
             <longitude>-88.311048021</longitude>
             <latitude>41.8771070061</latitude>

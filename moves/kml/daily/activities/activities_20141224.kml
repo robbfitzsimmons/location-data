@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="activity_transport">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[12/24/14]]></name>
+      <Placemark id="1419442877000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>12/24/14<br/> 11:41 AM to 11:43 AM<br/> 2 min, 0 mi, 134 steps, 4 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-24T11:41:17-06:00</begin>
+          <end>2014-12-24T11:43:19-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.311048021,41.8771070061 -88.3112130826,41.8771949054 -88.3112787938,41.8771767679 -88.3113034259,41.8770626928 -88.3112603798,41.8770727036 -88.3112696526,41.8771061448</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419442999000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/24/14<br/> 11:43 AM to 11:55 AM<br/> 12 min, 0.7 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-24T11:43:19-06:00</begin>
+          <end>2014-12-24T11:55:53-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.3112696526,41.8771061448 -88.3113405482,41.877149043 -88.3114049871,41.8772830703 -88.3113220426,41.8776473147 -88.3101945893,41.8794270044 -88.3095045837,41.8803563361 -88.3095782969,41.8811513624 -88.3096744799,41.8815953862 -88.3096736294,41.8816071791 -88.3096831463,41.8815402041 -88.3097433098,41.8815075837 -88.3097426395,41.8815073968 -88.3097610617,41.8814937005 -88.3097703534,41.8814850455 -88.3097756775,41.8814896106 -88.3097915562,41.8815048556 -88.309793765,41.8815076346 -88.309793443,41.8815076407 -88.3097933934,41.8815076323 -88.3097933909,41.8815076264 -88.3097933959,41.8815076258 -88.3097934061,41.8815076235 -88.3097934063,41.8815076201 -88.3097933987,41.8815076132 -88.3097933973,41.8815076111 -88.3097957409,41.8815040948 -88.3098021121,41.8814947125 -88.3097900698,41.8814955992 -88.3097839736,41.8814981877 -88.3097828746,41.8814982127 -88.3097828171,41.8814981841 -88.3097828168,41.8814981768 -88.3097802224,41.8814889005 -88.3097759995,41.8814888346 -88.3097754295,41.8814883354 -88.3096622912,41.8814270968 -88.3095960762,41.8809801951 -88.3096216099,41.8802820289 -88.311048021,41.8771070061</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419447065000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/24/14<br/> 12:51 PM to 12:54 PM<br/> 3 min, 2.2 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-24T12:51:05-06:00</begin>
+          <end>2014-12-24T12:54:32-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.311048021,41.8771070061 -88.3115877721,41.8771678601 -88.3122501893,41.8751410279 -88.3127647948,41.8722869027 -88.3132918125,41.8691837219 -88.3131756842,41.8587000789 -88.3126439068,41.8550428661 -88.3121139278,41.8510557889 -88.3099892502,41.8496285092</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419449959000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/24/14<br/> 1:39 PM to 1:48 PM<br/> 8 min, 2.6 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-24T13:39:19-06:00</begin>
+          <end>2014-12-24T13:48:16-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.3099892502,41.8496285092 -88.3118942306,41.8486383553 -88.3118738527,41.8497778025 -88.3110990308,41.8499397695 -88.3091520678,41.8503381919 -88.3092279032,41.8506810496 -88.3092349986,41.8506276569 -88.3092494655,41.8506003297 -88.3092832904,41.8505608026 -88.3093065875,41.8505551861 -88.3093144244,41.8505272912 -88.3093168733,41.850442984 -88.309320337,41.8504446582 -88.3093668561,41.8504269164 -88.3094275504,41.850415069 -88.3094770439,41.8503905268 -88.3098148783,41.8503019252 -88.312521472,41.8520977319 -88.3129048676,41.85672365 -88.3143814357,41.8616771943 -88.3137444209,41.8655060931 -88.3133215666,41.8681986004 -88.3128840911,41.870863426 -88.3111773419,41.8771046037</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419455298000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>12/24/14<br/> 3:08 PM to 3:18 PM<br/> 9 min, 0.5 mi, 1,072 steps, 54 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-24T15:08:18-06:00</begin>
+          <end>2014-12-24T15:18:02-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.3111773419,41.8771046037 -88.3134171842,41.8770213562 -88.3135150578,41.8772632116 -88.3136562753,41.8775565252 -88.3137185319,41.877795998 -88.3137294103,41.8780428215 -88.3136909763,41.8782533797 -88.3135202887,41.8784517896 -88.3133816893,41.8785788573 -88.3128484151,41.8786397323 -88.3123403597,41.8785923924 -88.3119484727,41.878455718 -88.3115695849,41.878331667 -88.3112680208,41.878370879 -88.3111838437,41.8783408639 -88.3110735224,41.8785813867 -88.3111255784,41.8782397011 -88.311263252,41.8779448202 -88.3114923023,41.8776189144 -88.3117211306,41.8773082576 -88.3115379378,41.8771420621 -88.3111773419,41.8771046037</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

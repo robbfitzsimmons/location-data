@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_walking">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>df5ad500</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="activity_transport">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[12/22/14]]></name>
+      <Placemark id="1419228000000">
+        <name><![CDATA[Laura's Home]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 12:00 AM to 10:36 AM<br/> 10:36 hours</p> <p>Walking 5 min, 0.2 mi, 375 steps, 16 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T00:00:01-06:00</begin>
+          <end>2014-12-22T10:36:50-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-77.0772744833,38.9219057145</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1419266211000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 10:36 AM to 10:55 AM<br/> 19 min, 7.8 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T10:36:51-06:00</begin>
+          <end>2014-12-22T10:55:52-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0772744833,38.9219057145 -77.0764933819,38.9222779306 -77.075225186,38.9225231808 -77.0741394779,38.9225070374 -77.0739490206,38.9224902081 -77.07379793,38.9224904732 -77.0729550444,38.922540324 -77.0704451357,38.9225591353 -77.0696817263,38.9234304052 -77.0654985864,38.9240658979 -77.0635579668,38.9230364043 -77.0618513624,38.920360276 -77.0609232247,38.9197117855 -77.0599259275,38.9189532354 -77.0577068814,38.9174612557 -77.057760699,38.9173340544 -77.0574218839,38.9162107279 -77.0504671246,38.9092067482 -77.0562492565,38.9053033041 -77.0566247232,38.9005328263 -77.0563492843,38.8982599309 -77.0563536319,38.8981972399 -77.0563609529,38.8980295937 -77.0606024482,38.8844705076 -77.0586651641,38.8827244055 -77.0465330416,38.8570202879 -77.0457596127,38.8548195454 -77.0462685825,38.8524765933 -77.0457718841,38.850202135 -77.0447797492,38.8490444048 -77.0431044933,38.8495166904 -77.0431393619,38.853398535</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419267351000">
+        <name><![CDATA[Place in Ronald Reagan Washington National Airport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 10:55 AM to 11:01 AM<br/> 5 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T10:55:52-06:00</begin>
+          <end>2014-12-22T11:01:04-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-77.043213578,38.854126837</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1419267665000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 11:01 AM to 11:07 AM<br/> 6 min, 0.2 mi, 502 steps, 23 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T11:01:05-06:00</begin>
+          <end>2014-12-22T11:07:15-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.043213578,38.854126837 -77.0430452135,38.8543747413 -77.0432869201,38.85417738 -77.0434131451,38.8541951612 -77.0435973055,38.854416178 -77.0436687892,38.8545930771 -77.0436395372,38.8546506833 -77.0436191921,38.8547287161 -77.0436477459,38.8549250635 -77.0437401133,38.8549179398 -77.0438712461,38.8548082425 -77.0437535471,38.854658316 -77.0436416558,38.8545237894 -77.0435107144,38.8543390106 -77.0434229581,38.8541877894 -77.0433453053,38.8539708541 -77.0433162093,38.8537812981 -77.0431393619,38.853398535</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419268035000">
+        <name><![CDATA[Place in Ronald Reagan Washington National Airport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 11:07 AM to 1:28 PM<br/> 2:21 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T11:07:16-06:00</begin>
+          <end>2014-12-22T13:28:39-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-77.0431393619,38.853398535</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1419276520000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 1:28 PM to 2:24 PM<br/> 56 min, 449.4 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T13:28:40-06:00</begin>
+          <end>2014-12-22T14:24:51-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0431393619,38.853398535 -77.0471172769,38.8566772495 -77.0484405797,38.8577492585 -77.0484405868,38.8577492642 -77.0487389814,38.8579909939 -71.141865317,42.2947160725</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419279891000">
+        <name><![CDATA[Walking]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 2:24 PM to 2:28 PM<br/> 4 min, 0.3 mi, 336 steps, 26 Cal</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T14:24:51-06:00</begin>
+          <end>2014-12-22T14:28:51-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_walking</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.141865317,42.2947160725 -71.0169628132,42.3660461464 -71.0170021257,42.3656368952</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419280131000">
+        <name><![CDATA[Place in Logan International Airport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 2:28 PM to 3:05 PM<br/> 37 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T14:28:52-06:00</begin>
+          <end>2014-12-22T15:05:56-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.0170021257,42.3656368952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1419282357000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 3:05 PM to 3:54 PM<br/> 48 min, 32 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T15:05:57-06:00</begin>
+          <end>2014-12-22T15:54:05-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-71.0170021257,42.3656368952 -71.0155134294,42.3649364253 -71.0153934679,42.3647471619 -71.0150054091,42.3641101818 -71.0150391594,42.3641780028 -71.0150416093,42.3641915376 -71.0150464288,42.3642167129 -71.0150409456,42.3643027951 -71.0149328727,42.36461709 -71.0144146524,42.3653392945 -71.0157669829,42.3623113498 -71.0144926795,42.3587736798 -71.0144714845,42.3587930809 -71.0149652691,42.3592090003 -71.0185431518,42.3598983989 -71.0081338432,42.364202668 -71.141377551,42.7321234317</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419297205000">
+        <name><![CDATA[Transport]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 7:13 PM to 7:19 PM<br/> 5 min, 7.8 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T19:13:25-06:00</begin>
+          <end>2014-12-22T19:19:00-06:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_transport</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-88.1944002127,41.8974687255 -88.3041974065,41.8916251089 -88.3047790311,41.8888635818 -88.3049600496,41.8878895425 -88.305022595,41.8876103087 -88.3050107978,41.8876553224 -88.3061213683,41.8839300983 -88.3078988036,41.8814286164 -88.3115694442,41.877393517 -88.3116773723,41.8769865282 -88.3116352687,41.8769843738 -88.3111773419,41.8771046037</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1419297539000">
+        <name><![CDATA[Fitzsimmons Home]]></name>
+        <description><![CDATA[<p>12/22/14<br/> 7:18 PM to 12:00 AM<br/> 4:41 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-22T19:19:00-06:00</begin>
+          <end>2014-12-22T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-88.311048021,41.8771070061</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

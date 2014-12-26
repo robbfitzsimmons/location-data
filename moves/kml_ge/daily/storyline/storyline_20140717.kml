@@ -2,6 +2,24 @@
   <Document>
     <atom:link href="http://www.moves-app.com"/>
     <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_car">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
     <Style id="activity_walking">
       <IconStyle>
         <scale>0.0</scale>
@@ -172,12 +190,12 @@
     </Style>
     <Folder>
       <name><![CDATA[7/17/14]]></name>
-      <Placemark id="1405569600000">
+      <Placemark id="1405573200000">
         <name><![CDATA[Laura's Home]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 12:00 AM to 9:17 AM<br/> 9:17 hours</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:00 AM to 8:17 AM<br/> 8:17 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T00:00:01-04:00</begin>
-          <end>2014-07-17T09:17:51-04:00</end>
+          <begin>2014-07-17T00:00:01-05:00</begin>
+          <end>2014-07-17T08:17:51-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -186,31 +204,31 @@
       </Placemark>
       <Placemark id="1405603072000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:17 AM to 9:25 AM<br/> 7 min, 0.3 mi, 827 steps, 31 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:17 AM to 8:25 AM<br/> 7 min, 0.3 mi, 827 steps, 31 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:17:52-04:00</begin>
-          <end>2014-07-17T09:25:26-04:00</end>
+          <begin>2014-07-17T08:17:52-05:00</begin>
+          <end>2014-07-17T08:25:26-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T09:17:52-04:00</when>
-          <when>2014-07-17T09:18:08-04:00</when>
-          <when>2014-07-17T09:18:27-04:00</when>
-          <when>2014-07-17T09:20:49-04:00</when>
-          <when>2014-07-17T09:21:10-04:00</when>
-          <when>2014-07-17T09:21:27-04:00</when>
-          <when>2014-07-17T09:21:43-04:00</when>
-          <when>2014-07-17T09:21:59-04:00</when>
-          <when>2014-07-17T09:22:15-04:00</when>
-          <when>2014-07-17T09:22:40-04:00</when>
-          <when>2014-07-17T09:23:03-04:00</when>
-          <when>2014-07-17T09:23:44-04:00</when>
-          <when>2014-07-17T09:24:06-04:00</when>
-          <when>2014-07-17T09:24:23-04:00</when>
-          <when>2014-07-17T09:24:46-04:00</when>
-          <when>2014-07-17T09:25:09-04:00</when>
-          <when>2014-07-17T09:25:26-04:00</when>
+          <when>2014-07-17T08:17:52-05:00</when>
+          <when>2014-07-17T08:18:08-05:00</when>
+          <when>2014-07-17T08:18:27-05:00</when>
+          <when>2014-07-17T08:20:49-05:00</when>
+          <when>2014-07-17T08:21:10-05:00</when>
+          <when>2014-07-17T08:21:27-05:00</when>
+          <when>2014-07-17T08:21:43-05:00</when>
+          <when>2014-07-17T08:21:59-05:00</when>
+          <when>2014-07-17T08:22:15-05:00</when>
+          <when>2014-07-17T08:22:40-05:00</when>
+          <when>2014-07-17T08:23:03-05:00</when>
+          <when>2014-07-17T08:23:44-05:00</when>
+          <when>2014-07-17T08:24:06-05:00</when>
+          <when>2014-07-17T08:24:23-05:00</when>
+          <when>2014-07-17T08:24:46-05:00</when>
+          <when>2014-07-17T08:25:09-05:00</when>
+          <when>2014-07-17T08:25:26-05:00</when>
           <gx:coord>-77.0772744833 38.9219057145</gx:coord>
           <gx:coord>-77.0772994695 38.921872549</gx:coord>
           <gx:coord>-77.0772727044 38.9219218221</gx:coord>
@@ -232,92 +250,92 @@
       </Placemark>
       <Placemark id="1405603526000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:25 AM to 9:53 AM<br/> 28 min, 3.2 mi</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:25 AM to 8:53 AM<br/> 28 min, 3.2 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:25:26-04:00</begin>
-          <end>2014-07-17T09:53:57-04:00</end>
+          <begin>2014-07-17T08:25:26-05:00</begin>
+          <end>2014-07-17T08:53:57-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T09:25:26-04:00</when>
-          <when>2014-07-17T09:25:41-04:00</when>
-          <when>2014-07-17T09:25:57-04:00</when>
-          <when>2014-07-17T09:26:16-04:00</when>
-          <when>2014-07-17T09:26:31-04:00</when>
-          <when>2014-07-17T09:26:54-04:00</when>
-          <when>2014-07-17T09:27:17-04:00</when>
-          <when>2014-07-17T09:27:40-04:00</when>
-          <when>2014-07-17T09:28:13-04:00</when>
-          <when>2014-07-17T09:28:36-04:00</when>
-          <when>2014-07-17T09:29:02-04:00</when>
-          <when>2014-07-17T09:29:22-04:00</when>
-          <when>2014-07-17T09:29:38-04:00</when>
-          <when>2014-07-17T09:30:10-04:00</when>
-          <when>2014-07-17T09:30:34-04:00</when>
-          <when>2014-07-17T09:30:57-04:00</when>
-          <when>2014-07-17T09:31:19-04:00</when>
-          <when>2014-07-17T09:31:42-04:00</when>
-          <when>2014-07-17T09:32:04-04:00</when>
-          <when>2014-07-17T09:32:23-04:00</when>
-          <when>2014-07-17T09:32:47-04:00</when>
-          <when>2014-07-17T09:33:20-04:00</when>
-          <when>2014-07-17T09:33:45-04:00</when>
-          <when>2014-07-17T09:34:06-04:00</when>
-          <when>2014-07-17T09:34:24-04:00</when>
-          <when>2014-07-17T09:34:50-04:00</when>
-          <when>2014-07-17T09:35:06-04:00</when>
-          <when>2014-07-17T09:35:26-04:00</when>
-          <when>2014-07-17T09:35:43-04:00</when>
-          <when>2014-07-17T09:36:09-04:00</when>
-          <when>2014-07-17T09:36:40-04:00</when>
-          <when>2014-07-17T09:37:01-04:00</when>
-          <when>2014-07-17T09:37:29-04:00</when>
-          <when>2014-07-17T09:37:51-04:00</when>
-          <when>2014-07-17T09:38:19-04:00</when>
-          <when>2014-07-17T09:38:34-04:00</when>
-          <when>2014-07-17T09:38:57-04:00</when>
-          <when>2014-07-17T09:39:15-04:00</when>
-          <when>2014-07-17T09:39:33-04:00</when>
-          <when>2014-07-17T09:39:57-04:00</when>
-          <when>2014-07-17T09:40:20-04:00</when>
-          <when>2014-07-17T09:40:38-04:00</when>
-          <when>2014-07-17T09:41:01-04:00</when>
-          <when>2014-07-17T09:41:21-04:00</when>
-          <when>2014-07-17T09:41:45-04:00</when>
-          <when>2014-07-17T09:42:00-04:00</when>
-          <when>2014-07-17T09:42:29-04:00</when>
-          <when>2014-07-17T09:42:47-04:00</when>
-          <when>2014-07-17T09:43:12-04:00</when>
-          <when>2014-07-17T09:43:35-04:00</when>
-          <when>2014-07-17T09:43:58-04:00</when>
-          <when>2014-07-17T09:44:21-04:00</when>
-          <when>2014-07-17T09:44:45-04:00</when>
-          <when>2014-07-17T09:45:13-04:00</when>
-          <when>2014-07-17T09:45:36-04:00</when>
-          <when>2014-07-17T09:45:52-04:00</when>
-          <when>2014-07-17T09:46:18-04:00</when>
-          <when>2014-07-17T09:46:34-04:00</when>
-          <when>2014-07-17T09:46:54-04:00</when>
-          <when>2014-07-17T09:47:13-04:00</when>
-          <when>2014-07-17T09:47:36-04:00</when>
-          <when>2014-07-17T09:48:06-04:00</when>
-          <when>2014-07-17T09:48:22-04:00</when>
-          <when>2014-07-17T09:48:37-04:00</when>
-          <when>2014-07-17T09:48:53-04:00</when>
-          <when>2014-07-17T09:49:15-04:00</when>
-          <when>2014-07-17T09:49:45-04:00</when>
-          <when>2014-07-17T09:50:05-04:00</when>
-          <when>2014-07-17T09:50:23-04:00</when>
-          <when>2014-07-17T09:50:47-04:00</when>
-          <when>2014-07-17T09:51:10-04:00</when>
-          <when>2014-07-17T09:51:43-04:00</when>
-          <when>2014-07-17T09:52:06-04:00</when>
-          <when>2014-07-17T09:52:32-04:00</when>
-          <when>2014-07-17T09:52:57-04:00</when>
-          <when>2014-07-17T09:53:20-04:00</when>
-          <when>2014-07-17T09:53:42-04:00</when>
-          <when>2014-07-17T09:53:57-04:00</when>
+          <when>2014-07-17T08:25:26-05:00</when>
+          <when>2014-07-17T08:25:41-05:00</when>
+          <when>2014-07-17T08:25:57-05:00</when>
+          <when>2014-07-17T08:26:16-05:00</when>
+          <when>2014-07-17T08:26:31-05:00</when>
+          <when>2014-07-17T08:26:54-05:00</when>
+          <when>2014-07-17T08:27:17-05:00</when>
+          <when>2014-07-17T08:27:40-05:00</when>
+          <when>2014-07-17T08:28:13-05:00</when>
+          <when>2014-07-17T08:28:36-05:00</when>
+          <when>2014-07-17T08:29:02-05:00</when>
+          <when>2014-07-17T08:29:22-05:00</when>
+          <when>2014-07-17T08:29:38-05:00</when>
+          <when>2014-07-17T08:30:10-05:00</when>
+          <when>2014-07-17T08:30:34-05:00</when>
+          <when>2014-07-17T08:30:57-05:00</when>
+          <when>2014-07-17T08:31:19-05:00</when>
+          <when>2014-07-17T08:31:42-05:00</when>
+          <when>2014-07-17T08:32:04-05:00</when>
+          <when>2014-07-17T08:32:23-05:00</when>
+          <when>2014-07-17T08:32:47-05:00</when>
+          <when>2014-07-17T08:33:20-05:00</when>
+          <when>2014-07-17T08:33:45-05:00</when>
+          <when>2014-07-17T08:34:06-05:00</when>
+          <when>2014-07-17T08:34:24-05:00</when>
+          <when>2014-07-17T08:34:50-05:00</when>
+          <when>2014-07-17T08:35:06-05:00</when>
+          <when>2014-07-17T08:35:26-05:00</when>
+          <when>2014-07-17T08:35:43-05:00</when>
+          <when>2014-07-17T08:36:09-05:00</when>
+          <when>2014-07-17T08:36:40-05:00</when>
+          <when>2014-07-17T08:37:01-05:00</when>
+          <when>2014-07-17T08:37:29-05:00</when>
+          <when>2014-07-17T08:37:51-05:00</when>
+          <when>2014-07-17T08:38:19-05:00</when>
+          <when>2014-07-17T08:38:34-05:00</when>
+          <when>2014-07-17T08:38:57-05:00</when>
+          <when>2014-07-17T08:39:15-05:00</when>
+          <when>2014-07-17T08:39:33-05:00</when>
+          <when>2014-07-17T08:39:57-05:00</when>
+          <when>2014-07-17T08:40:20-05:00</when>
+          <when>2014-07-17T08:40:38-05:00</when>
+          <when>2014-07-17T08:41:01-05:00</when>
+          <when>2014-07-17T08:41:21-05:00</when>
+          <when>2014-07-17T08:41:45-05:00</when>
+          <when>2014-07-17T08:42:00-05:00</when>
+          <when>2014-07-17T08:42:29-05:00</when>
+          <when>2014-07-17T08:42:47-05:00</when>
+          <when>2014-07-17T08:43:12-05:00</when>
+          <when>2014-07-17T08:43:35-05:00</when>
+          <when>2014-07-17T08:43:58-05:00</when>
+          <when>2014-07-17T08:44:21-05:00</when>
+          <when>2014-07-17T08:44:45-05:00</when>
+          <when>2014-07-17T08:45:13-05:00</when>
+          <when>2014-07-17T08:45:36-05:00</when>
+          <when>2014-07-17T08:45:52-05:00</when>
+          <when>2014-07-17T08:46:18-05:00</when>
+          <when>2014-07-17T08:46:34-05:00</when>
+          <when>2014-07-17T08:46:54-05:00</when>
+          <when>2014-07-17T08:47:13-05:00</when>
+          <when>2014-07-17T08:47:36-05:00</when>
+          <when>2014-07-17T08:48:06-05:00</when>
+          <when>2014-07-17T08:48:22-05:00</when>
+          <when>2014-07-17T08:48:37-05:00</when>
+          <when>2014-07-17T08:48:53-05:00</when>
+          <when>2014-07-17T08:49:15-05:00</when>
+          <when>2014-07-17T08:49:45-05:00</when>
+          <when>2014-07-17T08:50:05-05:00</when>
+          <when>2014-07-17T08:50:23-05:00</when>
+          <when>2014-07-17T08:50:47-05:00</when>
+          <when>2014-07-17T08:51:10-05:00</when>
+          <when>2014-07-17T08:51:43-05:00</when>
+          <when>2014-07-17T08:52:06-05:00</when>
+          <when>2014-07-17T08:52:32-05:00</when>
+          <when>2014-07-17T08:52:57-05:00</when>
+          <when>2014-07-17T08:53:20-05:00</when>
+          <when>2014-07-17T08:53:42-05:00</when>
+          <when>2014-07-17T08:53:57-05:00</when>
           <gx:coord>-77.0728989721 38.9225653166</gx:coord>
           <gx:coord>-77.0726859047 38.9224321981</gx:coord>
           <gx:coord>-77.0727416624 38.9223444596</gx:coord>
@@ -400,36 +418,36 @@
       </Placemark>
       <Placemark id="1405605237000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:53 AM to 10:01 AM<br/> 7 min, 0.3 mi, 599 steps, 28 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:53 AM to 9:01 AM<br/> 7 min, 0.3 mi, 599 steps, 28 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:53:57-04:00</begin>
-          <end>2014-07-17T10:01:07-04:00</end>
+          <begin>2014-07-17T08:53:57-05:00</begin>
+          <end>2014-07-17T09:01:07-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T09:53:57-04:00</when>
-          <when>2014-07-17T09:54:21-04:00</when>
-          <when>2014-07-17T09:54:37-04:00</when>
-          <when>2014-07-17T09:55:00-04:00</when>
-          <when>2014-07-17T09:55:21-04:00</when>
-          <when>2014-07-17T09:55:45-04:00</when>
-          <when>2014-07-17T09:56:20-04:00</when>
-          <when>2014-07-17T09:56:43-04:00</when>
-          <when>2014-07-17T09:57:06-04:00</when>
-          <when>2014-07-17T09:57:29-04:00</when>
-          <when>2014-07-17T09:57:47-04:00</when>
-          <when>2014-07-17T09:58:03-04:00</when>
-          <when>2014-07-17T09:58:18-04:00</when>
-          <when>2014-07-17T09:58:34-04:00</when>
-          <when>2014-07-17T09:58:49-04:00</when>
-          <when>2014-07-17T09:59:12-04:00</when>
-          <when>2014-07-17T09:59:35-04:00</when>
-          <when>2014-07-17T09:59:59-04:00</when>
-          <when>2014-07-17T10:00:00-04:00</when>
-          <when>2014-07-17T10:00:09-04:00</when>
-          <when>2014-07-17T10:00:32-04:00</when>
-          <when>2014-07-17T10:01:06-04:00</when>
+          <when>2014-07-17T08:53:57-05:00</when>
+          <when>2014-07-17T08:54:21-05:00</when>
+          <when>2014-07-17T08:54:37-05:00</when>
+          <when>2014-07-17T08:55:00-05:00</when>
+          <when>2014-07-17T08:55:21-05:00</when>
+          <when>2014-07-17T08:55:45-05:00</when>
+          <when>2014-07-17T08:56:20-05:00</when>
+          <when>2014-07-17T08:56:43-05:00</when>
+          <when>2014-07-17T08:57:06-05:00</when>
+          <when>2014-07-17T08:57:29-05:00</when>
+          <when>2014-07-17T08:57:47-05:00</when>
+          <when>2014-07-17T08:58:03-05:00</when>
+          <when>2014-07-17T08:58:18-05:00</when>
+          <when>2014-07-17T08:58:34-05:00</when>
+          <when>2014-07-17T08:58:49-05:00</when>
+          <when>2014-07-17T08:59:12-05:00</when>
+          <when>2014-07-17T08:59:35-05:00</when>
+          <when>2014-07-17T08:59:59-05:00</when>
+          <when>2014-07-17T09:00:00-05:00</when>
+          <when>2014-07-17T09:00:09-05:00</when>
+          <when>2014-07-17T09:00:32-05:00</when>
+          <when>2014-07-17T09:01:06-05:00</when>
           <gx:coord>-77.0353905827 38.9000802231</gx:coord>
           <gx:coord>-77.0351952379 38.9002029891</gx:coord>
           <gx:coord>-77.0349902637 38.9003618326</gx:coord>
@@ -457,10 +475,10 @@
       <Placemark id="1405605666000">
         <name><![CDATA[NTN24]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
-        <description><![CDATA[<p>7/17/14<br/> 10:01 AM to 10:07 AM<br/> 6 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:01 AM to 9:07 AM<br/> 6 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:01:07-04:00</begin>
-          <end>2014-07-17T10:07:26-04:00</end>
+          <begin>2014-07-17T09:01:07-05:00</begin>
+          <end>2014-07-17T09:07:26-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
@@ -469,22 +487,22 @@
       </Placemark>
       <Placemark id="1405606047000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 10:07 AM to 10:09 AM<br/> 2 min, 0.1 mi, 255 steps, 9 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:07 AM to 9:09 AM<br/> 2 min, 0.1 mi, 255 steps, 9 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:07:27-04:00</begin>
-          <end>2014-07-17T10:09:58-04:00</end>
+          <begin>2014-07-17T09:07:27-05:00</begin>
+          <end>2014-07-17T09:09:58-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T10:07:27-04:00</when>
-          <when>2014-07-17T10:07:52-04:00</when>
-          <when>2014-07-17T10:08:14-04:00</when>
-          <when>2014-07-17T10:08:37-04:00</when>
-          <when>2014-07-17T10:09:00-04:00</when>
-          <when>2014-07-17T10:09:23-04:00</when>
-          <when>2014-07-17T10:09:42-04:00</when>
-          <when>2014-07-17T10:09:58-04:00</when>
+          <when>2014-07-17T09:07:27-05:00</when>
+          <when>2014-07-17T09:07:52-05:00</when>
+          <when>2014-07-17T09:08:14-05:00</when>
+          <when>2014-07-17T09:08:37-05:00</when>
+          <when>2014-07-17T09:09:00-05:00</when>
+          <when>2014-07-17T09:09:23-05:00</when>
+          <when>2014-07-17T09:09:42-05:00</when>
+          <when>2014-07-17T09:09:58-05:00</when>
           <gx:coord>-77.0318631558 38.9001358942</gx:coord>
           <gx:coord>-77.0319754201 38.90028389</gx:coord>
           <gx:coord>-77.0318794117 38.9002463402</gx:coord>
@@ -498,10 +516,10 @@
       <Placemark id="1405606198000">
         <name><![CDATA[Starbucks]]></name>
         <atom:link href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 10:09 AM to 12:20 PM<br/> 2:10 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:09 AM to 11:20 AM<br/> 2:10 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:09:59-04:00</begin>
-          <end>2014-07-17T12:19:59-04:00</end>
+          <begin>2014-07-17T09:09:59-05:00</begin>
+          <end>2014-07-17T11:19:59-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Coffee Shop</styleUrl>
         <Point>
@@ -510,59 +528,59 @@
       </Placemark>
       <Placemark id="1405614000000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 12:20 PM to 12:36 PM<br/> 16 min, 0.8 mi, 1,463 steps, 83 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 11:20 AM to 11:36 AM<br/> 16 min, 0.8 mi, 1,463 steps, 83 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T12:20:00-04:00</begin>
-          <end>2014-07-17T12:36:16-04:00</end>
+          <begin>2014-07-17T11:20:00-05:00</begin>
+          <end>2014-07-17T11:36:16-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T12:20:00-04:00</when>
-          <when>2014-07-17T12:20:19-04:00</when>
-          <when>2014-07-17T12:20:40-04:00</when>
-          <when>2014-07-17T12:21:12-04:00</when>
-          <when>2014-07-17T12:21:29-04:00</when>
-          <when>2014-07-17T12:21:47-04:00</when>
-          <when>2014-07-17T12:22:10-04:00</when>
-          <when>2014-07-17T12:22:33-04:00</when>
-          <when>2014-07-17T12:23:08-04:00</when>
-          <when>2014-07-17T12:23:31-04:00</when>
-          <when>2014-07-17T12:23:50-04:00</when>
-          <when>2014-07-17T12:24:11-04:00</when>
-          <when>2014-07-17T12:24:29-04:00</when>
-          <when>2014-07-17T12:24:46-04:00</when>
-          <when>2014-07-17T12:25:11-04:00</when>
-          <when>2014-07-17T12:25:29-04:00</when>
-          <when>2014-07-17T12:25:51-04:00</when>
-          <when>2014-07-17T12:26:30-04:00</when>
-          <when>2014-07-17T12:26:50-04:00</when>
-          <when>2014-07-17T12:27:08-04:00</when>
-          <when>2014-07-17T12:27:33-04:00</when>
-          <when>2014-07-17T12:28:02-04:00</when>
-          <when>2014-07-17T12:28:29-04:00</when>
-          <when>2014-07-17T12:28:45-04:00</when>
-          <when>2014-07-17T12:29:09-04:00</when>
-          <when>2014-07-17T12:29:29-04:00</when>
-          <when>2014-07-17T12:29:44-04:00</when>
-          <when>2014-07-17T12:30:01-04:00</when>
-          <when>2014-07-17T12:30:18-04:00</when>
-          <when>2014-07-17T12:30:41-04:00</when>
-          <when>2014-07-17T12:31:01-04:00</when>
-          <when>2014-07-17T12:31:22-04:00</when>
-          <when>2014-07-17T12:31:37-04:00</when>
-          <when>2014-07-17T12:32:00-04:00</when>
-          <when>2014-07-17T12:32:19-04:00</when>
-          <when>2014-07-17T12:32:38-04:00</when>
-          <when>2014-07-17T12:32:59-04:00</when>
-          <when>2014-07-17T12:33:17-04:00</when>
-          <when>2014-07-17T12:33:42-04:00</when>
-          <when>2014-07-17T12:34:00-04:00</when>
-          <when>2014-07-17T12:34:24-04:00</when>
-          <when>2014-07-17T12:34:49-04:00</when>
-          <when>2014-07-17T12:35:20-04:00</when>
-          <when>2014-07-17T12:35:54-04:00</when>
-          <when>2014-07-17T12:36:16-04:00</when>
+          <when>2014-07-17T11:20:00-05:00</when>
+          <when>2014-07-17T11:20:19-05:00</when>
+          <when>2014-07-17T11:20:40-05:00</when>
+          <when>2014-07-17T11:21:12-05:00</when>
+          <when>2014-07-17T11:21:29-05:00</when>
+          <when>2014-07-17T11:21:47-05:00</when>
+          <when>2014-07-17T11:22:10-05:00</when>
+          <when>2014-07-17T11:22:33-05:00</when>
+          <when>2014-07-17T11:23:08-05:00</when>
+          <when>2014-07-17T11:23:31-05:00</when>
+          <when>2014-07-17T11:23:50-05:00</when>
+          <when>2014-07-17T11:24:11-05:00</when>
+          <when>2014-07-17T11:24:29-05:00</when>
+          <when>2014-07-17T11:24:46-05:00</when>
+          <when>2014-07-17T11:25:11-05:00</when>
+          <when>2014-07-17T11:25:29-05:00</when>
+          <when>2014-07-17T11:25:51-05:00</when>
+          <when>2014-07-17T11:26:30-05:00</when>
+          <when>2014-07-17T11:26:50-05:00</when>
+          <when>2014-07-17T11:27:08-05:00</when>
+          <when>2014-07-17T11:27:33-05:00</when>
+          <when>2014-07-17T11:28:02-05:00</when>
+          <when>2014-07-17T11:28:29-05:00</when>
+          <when>2014-07-17T11:28:45-05:00</when>
+          <when>2014-07-17T11:29:09-05:00</when>
+          <when>2014-07-17T11:29:29-05:00</when>
+          <when>2014-07-17T11:29:44-05:00</when>
+          <when>2014-07-17T11:30:01-05:00</when>
+          <when>2014-07-17T11:30:18-05:00</when>
+          <when>2014-07-17T11:30:41-05:00</when>
+          <when>2014-07-17T11:31:01-05:00</when>
+          <when>2014-07-17T11:31:22-05:00</when>
+          <when>2014-07-17T11:31:37-05:00</when>
+          <when>2014-07-17T11:32:00-05:00</when>
+          <when>2014-07-17T11:32:19-05:00</when>
+          <when>2014-07-17T11:32:38-05:00</when>
+          <when>2014-07-17T11:32:59-05:00</when>
+          <when>2014-07-17T11:33:17-05:00</when>
+          <when>2014-07-17T11:33:42-05:00</when>
+          <when>2014-07-17T11:34:00-05:00</when>
+          <when>2014-07-17T11:34:24-05:00</when>
+          <when>2014-07-17T11:34:49-05:00</when>
+          <when>2014-07-17T11:35:20-05:00</when>
+          <when>2014-07-17T11:35:54-05:00</when>
+          <when>2014-07-17T11:36:16-05:00</when>
           <gx:coord>-77.0319531206 38.8994713444</gx:coord>
           <gx:coord>-77.0321571699 38.8996709292</gx:coord>
           <gx:coord>-77.0323828552 38.8998162457</gx:coord>
@@ -613,10 +631,10 @@
       <Placemark id="1405614976000">
         <name><![CDATA[Noodles On 11]]></name>
         <atom:link href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8"/>
-        <description><![CDATA[<p>7/17/14<br/> 12:36 PM to 1:33 PM<br/> 57 min</p> <p>Ramen / Noodle House<br/> <a href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 11:36 AM to 12:33 PM<br/> 57 min</p> <p>Ramen / Noodle House<br/> <a href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T12:36:17-04:00</begin>
-          <end>2014-07-17T13:33:40-04:00</end>
+          <begin>2014-07-17T11:36:17-05:00</begin>
+          <end>2014-07-17T12:33:40-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Ramen / Noodle House</styleUrl>
         <Point>
@@ -625,37 +643,37 @@
       </Placemark>
       <Placemark id="1405618421000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 1:33 PM to 1:41 PM<br/> 8 min, 0.4 mi, 836 steps, 39 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:33 PM to 12:41 PM<br/> 8 min, 0.4 mi, 836 steps, 39 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:33:41-04:00</begin>
-          <end>2014-07-17T13:41:57-04:00</end>
+          <begin>2014-07-17T12:33:41-05:00</begin>
+          <end>2014-07-17T12:41:57-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T13:33:41-04:00</when>
-          <when>2014-07-17T13:34:10-04:00</when>
-          <when>2014-07-17T13:34:33-04:00</when>
-          <when>2014-07-17T13:34:56-04:00</when>
-          <when>2014-07-17T13:35:16-04:00</when>
-          <when>2014-07-17T13:35:50-04:00</when>
-          <when>2014-07-17T13:36:13-04:00</when>
-          <when>2014-07-17T13:36:34-04:00</when>
-          <when>2014-07-17T13:36:52-04:00</when>
-          <when>2014-07-17T13:37:08-04:00</when>
-          <when>2014-07-17T13:37:27-04:00</when>
-          <when>2014-07-17T13:37:52-04:00</when>
-          <when>2014-07-17T13:38:10-04:00</when>
-          <when>2014-07-17T13:38:33-04:00</when>
-          <when>2014-07-17T13:38:51-04:00</when>
-          <when>2014-07-17T13:39:08-04:00</when>
-          <when>2014-07-17T13:39:33-04:00</when>
-          <when>2014-07-17T13:39:56-04:00</when>
-          <when>2014-07-17T13:40:19-04:00</when>
-          <when>2014-07-17T13:40:43-04:00</when>
-          <when>2014-07-17T13:41:08-04:00</when>
-          <when>2014-07-17T13:41:31-04:00</when>
-          <when>2014-07-17T13:41:56-04:00</when>
+          <when>2014-07-17T12:33:41-05:00</when>
+          <when>2014-07-17T12:34:10-05:00</when>
+          <when>2014-07-17T12:34:33-05:00</when>
+          <when>2014-07-17T12:34:56-05:00</when>
+          <when>2014-07-17T12:35:16-05:00</when>
+          <when>2014-07-17T12:35:50-05:00</when>
+          <when>2014-07-17T12:36:13-05:00</when>
+          <when>2014-07-17T12:36:34-05:00</when>
+          <when>2014-07-17T12:36:52-05:00</when>
+          <when>2014-07-17T12:37:08-05:00</when>
+          <when>2014-07-17T12:37:27-05:00</when>
+          <when>2014-07-17T12:37:52-05:00</when>
+          <when>2014-07-17T12:38:10-05:00</when>
+          <when>2014-07-17T12:38:33-05:00</when>
+          <when>2014-07-17T12:38:51-05:00</when>
+          <when>2014-07-17T12:39:08-05:00</when>
+          <when>2014-07-17T12:39:33-05:00</when>
+          <when>2014-07-17T12:39:56-05:00</when>
+          <when>2014-07-17T12:40:19-05:00</when>
+          <when>2014-07-17T12:40:43-05:00</when>
+          <when>2014-07-17T12:41:08-05:00</when>
+          <when>2014-07-17T12:41:31-05:00</when>
+          <when>2014-07-17T12:41:56-05:00</when>
           <gx:coord>-77.0271788507 38.9008127275</gx:coord>
           <gx:coord>-77.0272829529 38.9009159882</gx:coord>
           <gx:coord>-77.0277684821 38.9008199707</gx:coord>
@@ -684,10 +702,10 @@
       <Placemark id="1405618916000">
         <name><![CDATA[NTN24]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
-        <description><![CDATA[<p>7/17/14<br/> 1:41 PM to 1:51 PM<br/> 9 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:41 PM to 12:51 PM<br/> 9 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:41:57-04:00</begin>
-          <end>2014-07-17T13:51:17-04:00</end>
+          <begin>2014-07-17T12:41:57-05:00</begin>
+          <end>2014-07-17T12:51:17-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
@@ -696,57 +714,57 @@
       </Placemark>
       <Placemark id="1405619478000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 1:51 PM to 2:05 PM<br/> 14 min, 0.8 mi, 1,031 steps, 81 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:51 PM to 1:05 PM<br/> 14 min, 0.8 mi, 1,031 steps, 81 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:51:18-04:00</begin>
-          <end>2014-07-17T14:05:46-04:00</end>
+          <begin>2014-07-17T12:51:18-05:00</begin>
+          <end>2014-07-17T13:05:46-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T13:51:18-04:00</when>
-          <when>2014-07-17T13:51:35-04:00</when>
-          <when>2014-07-17T13:51:56-04:00</when>
-          <when>2014-07-17T13:52:16-04:00</when>
-          <when>2014-07-17T13:52:45-04:00</when>
-          <when>2014-07-17T13:53:06-04:00</when>
-          <when>2014-07-17T13:53:22-04:00</when>
-          <when>2014-07-17T13:53:49-04:00</when>
-          <when>2014-07-17T13:54:07-04:00</when>
-          <when>2014-07-17T13:54:27-04:00</when>
-          <when>2014-07-17T13:54:43-04:00</when>
-          <when>2014-07-17T13:55:10-04:00</when>
-          <when>2014-07-17T13:55:36-04:00</when>
-          <when>2014-07-17T13:55:58-04:00</when>
-          <when>2014-07-17T13:56:17-04:00</when>
-          <when>2014-07-17T13:56:41-04:00</when>
-          <when>2014-07-17T13:56:57-04:00</when>
-          <when>2014-07-17T13:57:13-04:00</when>
-          <when>2014-07-17T13:57:37-04:00</when>
-          <when>2014-07-17T13:58:13-04:00</when>
-          <when>2014-07-17T13:58:30-04:00</when>
-          <when>2014-07-17T13:58:45-04:00</when>
-          <when>2014-07-17T13:59:01-04:00</when>
-          <when>2014-07-17T13:59:17-04:00</when>
-          <when>2014-07-17T13:59:40-04:00</when>
-          <when>2014-07-17T13:59:59-04:00</when>
-          <when>2014-07-17T14:00:00-04:00</when>
-          <when>2014-07-17T14:00:01-04:00</when>
-          <when>2014-07-17T14:00:19-04:00</when>
-          <when>2014-07-17T14:00:38-04:00</when>
-          <when>2014-07-17T14:01:04-04:00</when>
-          <when>2014-07-17T14:01:20-04:00</when>
-          <when>2014-07-17T14:01:46-04:00</when>
-          <when>2014-07-17T14:02:05-04:00</when>
-          <when>2014-07-17T14:02:25-04:00</when>
-          <when>2014-07-17T14:02:45-04:00</when>
-          <when>2014-07-17T14:03:12-04:00</when>
-          <when>2014-07-17T14:03:29-04:00</when>
-          <when>2014-07-17T14:03:48-04:00</when>
-          <when>2014-07-17T14:04:44-04:00</when>
-          <when>2014-07-17T14:05:03-04:00</when>
-          <when>2014-07-17T14:05:28-04:00</when>
-          <when>2014-07-17T14:05:45-04:00</when>
+          <when>2014-07-17T12:51:18-05:00</when>
+          <when>2014-07-17T12:51:35-05:00</when>
+          <when>2014-07-17T12:51:56-05:00</when>
+          <when>2014-07-17T12:52:16-05:00</when>
+          <when>2014-07-17T12:52:45-05:00</when>
+          <when>2014-07-17T12:53:06-05:00</when>
+          <when>2014-07-17T12:53:22-05:00</when>
+          <when>2014-07-17T12:53:49-05:00</when>
+          <when>2014-07-17T12:54:07-05:00</when>
+          <when>2014-07-17T12:54:27-05:00</when>
+          <when>2014-07-17T12:54:43-05:00</when>
+          <when>2014-07-17T12:55:10-05:00</when>
+          <when>2014-07-17T12:55:36-05:00</when>
+          <when>2014-07-17T12:55:58-05:00</when>
+          <when>2014-07-17T12:56:17-05:00</when>
+          <when>2014-07-17T12:56:41-05:00</when>
+          <when>2014-07-17T12:56:57-05:00</when>
+          <when>2014-07-17T12:57:13-05:00</when>
+          <when>2014-07-17T12:57:37-05:00</when>
+          <when>2014-07-17T12:58:13-05:00</when>
+          <when>2014-07-17T12:58:30-05:00</when>
+          <when>2014-07-17T12:58:45-05:00</when>
+          <when>2014-07-17T12:59:01-05:00</when>
+          <when>2014-07-17T12:59:17-05:00</when>
+          <when>2014-07-17T12:59:40-05:00</when>
+          <when>2014-07-17T12:59:59-05:00</when>
+          <when>2014-07-17T13:00:00-05:00</when>
+          <when>2014-07-17T13:00:01-05:00</when>
+          <when>2014-07-17T13:00:19-05:00</when>
+          <when>2014-07-17T13:00:38-05:00</when>
+          <when>2014-07-17T13:01:04-05:00</when>
+          <when>2014-07-17T13:01:20-05:00</when>
+          <when>2014-07-17T13:01:46-05:00</when>
+          <when>2014-07-17T13:02:05-05:00</when>
+          <when>2014-07-17T13:02:25-05:00</when>
+          <when>2014-07-17T13:02:45-05:00</when>
+          <when>2014-07-17T13:03:12-05:00</when>
+          <when>2014-07-17T13:03:29-05:00</when>
+          <when>2014-07-17T13:03:48-05:00</when>
+          <when>2014-07-17T13:04:44-05:00</when>
+          <when>2014-07-17T13:05:03-05:00</when>
+          <when>2014-07-17T13:05:28-05:00</when>
+          <when>2014-07-17T13:05:45-05:00</when>
           <gx:coord>-77.032106 38.901567</gx:coord>
           <gx:coord>-77.0314582747 38.8997911653</gx:coord>
           <gx:coord>-77.0308398004 38.8999614482</gx:coord>
@@ -795,10 +813,10 @@
       <Placemark id="1405620345000">
         <name><![CDATA[Hamilton Crowne Plaza]]></name>
         <atom:link href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 2:05 PM to 3:38 PM<br/> 1:32 hours</p> <p>Walking 10 min, 0.4 mi, 827 steps, 41 Cal</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 1:05 PM to 2:38 PM<br/> 1:32 hours</p> <p>Walking 10 min, 0.4 mi, 827 steps, 41 Cal</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T14:05:46-04:00</begin>
-          <end>2014-07-17T15:38:06-04:00</end>
+          <begin>2014-07-17T13:05:46-05:00</begin>
+          <end>2014-07-17T14:38:06-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -807,34 +825,34 @@
       </Placemark>
       <Placemark id="1405625887000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 3:38 PM to 3:44 PM<br/> 6 min, 0.3 mi, 624 steps, 26 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 2:38 PM to 2:44 PM<br/> 6 min, 0.3 mi, 624 steps, 26 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T15:38:07-04:00</begin>
-          <end>2014-07-17T15:44:47-04:00</end>
+          <begin>2014-07-17T14:38:07-05:00</begin>
+          <end>2014-07-17T14:44:47-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T15:38:07-04:00</when>
-          <when>2014-07-17T15:38:23-04:00</when>
-          <when>2014-07-17T15:38:49-04:00</when>
-          <when>2014-07-17T15:39:23-04:00</when>
-          <when>2014-07-17T15:39:41-04:00</when>
-          <when>2014-07-17T15:40:04-04:00</when>
-          <when>2014-07-17T15:40:27-04:00</when>
-          <when>2014-07-17T15:40:44-04:00</when>
-          <when>2014-07-17T15:41:01-04:00</when>
-          <when>2014-07-17T15:41:21-04:00</when>
-          <when>2014-07-17T15:41:40-04:00</when>
-          <when>2014-07-17T15:41:56-04:00</when>
-          <when>2014-07-17T15:42:11-04:00</when>
-          <when>2014-07-17T15:42:27-04:00</when>
-          <when>2014-07-17T15:42:53-04:00</when>
-          <when>2014-07-17T15:43:14-04:00</when>
-          <when>2014-07-17T15:43:39-04:00</when>
-          <when>2014-07-17T15:44:08-04:00</when>
-          <when>2014-07-17T15:44:25-04:00</when>
-          <when>2014-07-17T15:44:47-04:00</when>
+          <when>2014-07-17T14:38:07-05:00</when>
+          <when>2014-07-17T14:38:23-05:00</when>
+          <when>2014-07-17T14:38:49-05:00</when>
+          <when>2014-07-17T14:39:23-05:00</when>
+          <when>2014-07-17T14:39:41-05:00</when>
+          <when>2014-07-17T14:40:04-05:00</when>
+          <when>2014-07-17T14:40:27-05:00</when>
+          <when>2014-07-17T14:40:44-05:00</when>
+          <when>2014-07-17T14:41:01-05:00</when>
+          <when>2014-07-17T14:41:21-05:00</when>
+          <when>2014-07-17T14:41:40-05:00</when>
+          <when>2014-07-17T14:41:56-05:00</when>
+          <when>2014-07-17T14:42:11-05:00</when>
+          <when>2014-07-17T14:42:27-05:00</when>
+          <when>2014-07-17T14:42:53-05:00</when>
+          <when>2014-07-17T14:43:14-05:00</when>
+          <when>2014-07-17T14:43:39-05:00</when>
+          <when>2014-07-17T14:44:08-05:00</when>
+          <when>2014-07-17T14:44:25-05:00</when>
+          <when>2014-07-17T14:44:47-05:00</when>
           <gx:coord>-77.031712532 38.9028898271</gx:coord>
           <gx:coord>-77.0318089938 38.9025514646</gx:coord>
           <gx:coord>-77.0318228083 38.9023147395</gx:coord>
@@ -860,10 +878,10 @@
       <Placemark id="1405626287000">
         <name><![CDATA[Starbucks]]></name>
         <atom:link href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 3:44 PM to 7:03 PM<br/> 3:18 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 2:44 PM to 6:03 PM<br/> 3:18 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T15:44:48-04:00</begin>
-          <end>2014-07-17T19:03:43-04:00</end>
+          <begin>2014-07-17T14:44:48-05:00</begin>
+          <end>2014-07-17T18:03:43-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Coffee Shop</styleUrl>
         <Point>
@@ -872,35 +890,35 @@
       </Placemark>
       <Placemark id="1405638224000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 7:03 PM to 7:09 PM<br/> 6 min, 0.3 mi, 414 steps, 28 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:03 PM to 6:09 PM<br/> 6 min, 0.3 mi, 414 steps, 28 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:03:44-04:00</begin>
-          <end>2014-07-17T19:09:59-04:00</end>
+          <begin>2014-07-17T18:03:44-05:00</begin>
+          <end>2014-07-17T18:09:59-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T19:03:44-04:00</when>
-          <when>2014-07-17T19:04:01-04:00</when>
-          <when>2014-07-17T19:04:24-04:00</when>
-          <when>2014-07-17T19:04:41-04:00</when>
-          <when>2014-07-17T19:04:58-04:00</when>
-          <when>2014-07-17T19:05:18-04:00</when>
-          <when>2014-07-17T19:05:35-04:00</when>
-          <when>2014-07-17T19:05:53-04:00</when>
-          <when>2014-07-17T19:06:13-04:00</when>
-          <when>2014-07-17T19:06:31-04:00</when>
-          <when>2014-07-17T19:06:48-04:00</when>
-          <when>2014-07-17T19:07:12-04:00</when>
-          <when>2014-07-17T19:07:29-04:00</when>
-          <when>2014-07-17T19:07:46-04:00</when>
-          <when>2014-07-17T19:08:06-04:00</when>
-          <when>2014-07-17T19:08:27-04:00</when>
-          <when>2014-07-17T19:08:42-04:00</when>
-          <when>2014-07-17T19:08:58-04:00</when>
-          <when>2014-07-17T19:09:15-04:00</when>
-          <when>2014-07-17T19:09:31-04:00</when>
-          <when>2014-07-17T19:09:59-04:00</when>
+          <when>2014-07-17T18:03:44-05:00</when>
+          <when>2014-07-17T18:04:01-05:00</when>
+          <when>2014-07-17T18:04:24-05:00</when>
+          <when>2014-07-17T18:04:41-05:00</when>
+          <when>2014-07-17T18:04:58-05:00</when>
+          <when>2014-07-17T18:05:18-05:00</when>
+          <when>2014-07-17T18:05:35-05:00</when>
+          <when>2014-07-17T18:05:53-05:00</when>
+          <when>2014-07-17T18:06:13-05:00</when>
+          <when>2014-07-17T18:06:31-05:00</when>
+          <when>2014-07-17T18:06:48-05:00</when>
+          <when>2014-07-17T18:07:12-05:00</when>
+          <when>2014-07-17T18:07:29-05:00</when>
+          <when>2014-07-17T18:07:46-05:00</when>
+          <when>2014-07-17T18:08:06-05:00</when>
+          <when>2014-07-17T18:08:27-05:00</when>
+          <when>2014-07-17T18:08:42-05:00</when>
+          <when>2014-07-17T18:08:58-05:00</when>
+          <when>2014-07-17T18:09:15-05:00</when>
+          <when>2014-07-17T18:09:31-05:00</when>
+          <when>2014-07-17T18:09:59-05:00</when>
           <gx:coord>-77.0319531206 38.8994713444</gx:coord>
           <gx:coord>-77.0319218579 38.8997492457</gx:coord>
           <gx:coord>-77.0320974005 38.8999887494</gx:coord>
@@ -927,10 +945,10 @@
       <Placemark id="1405638599000">
         <name><![CDATA[A-1 Wines & Liquors]]></name>
         <atom:link href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3"/>
-        <description><![CDATA[<p>7/17/14<br/> 7:09 PM to 7:17 PM<br/> 7 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:09 PM to 6:17 PM<br/> 7 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:10:00-04:00</begin>
-          <end>2014-07-17T19:17:49-04:00</end>
+          <begin>2014-07-17T18:10:00-05:00</begin>
+          <end>2014-07-17T18:17:49-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Liquor Store</styleUrl>
         <Point>
@@ -939,27 +957,27 @@
       </Placemark>
       <Placemark id="1405639070000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 7:17 PM to 7:21 PM<br/> 4 min, 0.2 mi, 450 steps, 21 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:17 PM to 6:21 PM<br/> 4 min, 0.2 mi, 450 steps, 21 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:17:50-04:00</begin>
-          <end>2014-07-17T19:21:51-04:00</end>
+          <begin>2014-07-17T18:17:50-05:00</begin>
+          <end>2014-07-17T18:21:51-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <gx:Track>
           <tessellate>1</tessellate>
-          <when>2014-07-17T19:17:50-04:00</when>
-          <when>2014-07-17T19:18:07-04:00</when>
-          <when>2014-07-17T19:18:25-04:00</when>
-          <when>2014-07-17T19:18:50-04:00</when>
-          <when>2014-07-17T19:19:10-04:00</when>
-          <when>2014-07-17T19:19:30-04:00</when>
-          <when>2014-07-17T19:19:46-04:00</when>
-          <when>2014-07-17T19:20:03-04:00</when>
-          <when>2014-07-17T19:20:32-04:00</when>
-          <when>2014-07-17T19:20:49-04:00</when>
-          <when>2014-07-17T19:21:09-04:00</when>
-          <when>2014-07-17T19:21:34-04:00</when>
-          <when>2014-07-17T19:21:51-04:00</when>
+          <when>2014-07-17T18:17:50-05:00</when>
+          <when>2014-07-17T18:18:07-05:00</when>
+          <when>2014-07-17T18:18:25-05:00</when>
+          <when>2014-07-17T18:18:50-05:00</when>
+          <when>2014-07-17T18:19:10-05:00</when>
+          <when>2014-07-17T18:19:30-05:00</when>
+          <when>2014-07-17T18:19:46-05:00</when>
+          <when>2014-07-17T18:20:03-05:00</when>
+          <when>2014-07-17T18:20:32-05:00</when>
+          <when>2014-07-17T18:20:49-05:00</when>
+          <when>2014-07-17T18:21:09-05:00</when>
+          <when>2014-07-17T18:21:34-05:00</when>
+          <when>2014-07-17T18:21:51-05:00</when>
           <gx:coord>-77.032828331 38.9022051809</gx:coord>
           <gx:coord>-77.0325004559 38.9023764143</gx:coord>
           <gx:coord>-77.0323822572 38.9023875082</gx:coord>
@@ -978,14 +996,98 @@
       <Placemark id="1405639311000">
         <name><![CDATA[NTN24-Washington, DC]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c"/>
-        <description><![CDATA[<p>7/17/14<br/> 7:21 PM to 12:00 AM<br/> 4:38 hours</p> <p>Walking 7 min, 0.2 mi, 601 steps, 25 Cal</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:21 PM to 11:44 PM<br/> 5:22 hours</p> <p>Walking 10 min, 0.3 mi, 743 steps, 32 Cal</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:21:52-04:00</begin>
-          <end>2014-07-17T23:59:59-04:00</end>
+          <begin>2014-07-17T18:21:52-05:00</begin>
+          <end>2014-07-17T23:44:28-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
           <coordinates>-77.03193625222163,38.900182458396</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1405658669000">
+        <name><![CDATA[Car]]></name>
+        <description><![CDATA[<p>7/17/14<br/> 11:44 PM to 11:58 PM<br/> 14 min, 3.7 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-07-17T23:44:29-05:00</begin>
+          <end>2014-07-17T23:58:37-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_car</styleUrl>
+        <gx:Track>
+          <tessellate>1</tessellate>
+          <when>2014-07-17T23:44:29-05:00</when>
+          <when>2014-07-17T23:45:04-05:00</when>
+          <when>2014-07-17T23:46:54-05:00</when>
+          <when>2014-07-17T23:47:11-05:00</when>
+          <when>2014-07-17T23:47:28-05:00</when>
+          <when>2014-07-17T23:47:44-05:00</when>
+          <when>2014-07-17T23:48:03-05:00</when>
+          <when>2014-07-17T23:48:30-05:00</when>
+          <when>2014-07-17T23:49:35-05:00</when>
+          <when>2014-07-17T23:50:12-05:00</when>
+          <when>2014-07-17T23:50:35-05:00</when>
+          <when>2014-07-17T23:50:55-05:00</when>
+          <when>2014-07-17T23:51:12-05:00</when>
+          <when>2014-07-17T23:51:33-05:00</when>
+          <when>2014-07-17T23:51:51-05:00</when>
+          <when>2014-07-17T23:52:24-05:00</when>
+          <when>2014-07-17T23:52:43-05:00</when>
+          <when>2014-07-17T23:53:07-05:00</when>
+          <when>2014-07-17T23:53:43-05:00</when>
+          <when>2014-07-17T23:54:27-05:00</when>
+          <when>2014-07-17T23:54:54-05:00</when>
+          <when>2014-07-17T23:55:12-05:00</when>
+          <when>2014-07-17T23:55:29-05:00</when>
+          <when>2014-07-17T23:55:51-05:00</when>
+          <when>2014-07-17T23:56:14-05:00</when>
+          <when>2014-07-17T23:56:49-05:00</when>
+          <when>2014-07-17T23:57:04-05:00</when>
+          <when>2014-07-17T23:57:57-05:00</when>
+          <when>2014-07-17T23:58:15-05:00</when>
+          <when>2014-07-17T23:58:38-05:00</when>
+          <gx:coord>-77.0319362522 38.9001824584</gx:coord>
+          <gx:coord>-77.0327172709 38.9007447032</gx:coord>
+          <gx:coord>-77.0336406759 38.9014203783</gx:coord>
+          <gx:coord>-77.0346851766 38.9017227697</gx:coord>
+          <gx:coord>-77.0345596198 38.9035608709</gx:coord>
+          <gx:coord>-77.0345554886 38.9053313918</gx:coord>
+          <gx:coord>-77.0348314945 38.9063172505</gx:coord>
+          <gx:coord>-77.0361449109 38.9071320449</gx:coord>
+          <gx:coord>-77.0414809235 38.9089817774</gx:coord>
+          <gx:coord>-77.0427834978 38.9092587802</gx:coord>
+          <gx:coord>-77.0428276173 38.9094167562</gx:coord>
+          <gx:coord>-77.0436122636 38.9101153885</gx:coord>
+          <gx:coord>-77.0447578569 38.9100555627</gx:coord>
+          <gx:coord>-77.0448038986 38.9100576617</gx:coord>
+          <gx:coord>-77.0449788323 38.9100897997</gx:coord>
+          <gx:coord>-77.0475257731 38.9111029385</gx:coord>
+          <gx:coord>-77.0487527183 38.911487973</gx:coord>
+          <gx:coord>-77.0514817673 38.9128497662</gx:coord>
+          <gx:coord>-77.0563700357 38.9162902789</gx:coord>
+          <gx:coord>-77.0614461496 38.9200352401</gx:coord>
+          <gx:coord>-77.0640270424 38.9232902512</gx:coord>
+          <gx:coord>-77.0664966981 38.9243808517</gx:coord>
+          <gx:coord>-77.0681159834 38.9241621432</gx:coord>
+          <gx:coord>-77.069704526 38.9235271642</gx:coord>
+          <gx:coord>-77.0709796855 38.922716164</gx:coord>
+          <gx:coord>-77.0728130008 38.9225492831</gx:coord>
+          <gx:coord>-77.073234693 38.9226535468</gx:coord>
+          <gx:coord>-77.0759598109 38.9225105438</gx:coord>
+          <gx:coord>-77.0767216671 38.9222304187</gx:coord>
+          <gx:coord>-77.0772744833 38.9219057145</gx:coord>
+        </gx:Track>
+      </Placemark>
+      <Placemark id="1405659518000">
+        <name><![CDATA[Laura's Home]]></name>
+        <description><![CDATA[<p>7/17/14<br/> 11:58 PM to 12:00 AM<br/> 1 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-07-17T23:58:39-05:00</begin>
+          <end>2014-07-17T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-77.0772744833,38.9219057145</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -997,7 +1099,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T00:00:00-04:00</when>
+              <when>2014-07-17T00:00:00-05:00</when>
             </TimeStamp>
             <longitude>-77.0772744833</longitude>
             <latitude>38.9219057145</latitude>
@@ -1009,12 +1111,12 @@
           </LookAt>
         </gx:FlyTo>
         <gx:FlyTo>
-          <gx:duration>7.318141840658734</gx:duration>
+          <gx:duration>6.913407264149856</gx:duration>
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T00:00:01-04:00</begin>
-              <end>2014-07-17T09:17:51-04:00</end>
+              <begin>2014-07-17T00:00:01-05:00</begin>
+              <end>2014-07-17T08:17:51-05:00</end>
             </TimeSpan>
             <longitude>-77.0772744833</longitude>
             <latitude>38.9219057145</latitude>
@@ -1030,8 +1132,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:17:52-04:00</begin>
-              <end>2014-07-17T09:17:52-04:00</end>
+              <begin>2014-07-17T08:17:52-05:00</begin>
+              <end>2014-07-17T08:17:52-05:00</end>
             </TimeSpan>
             <longitude>-77.0772744833</longitude>
             <latitude>38.9219057145</latitude>
@@ -1047,8 +1149,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:17:52-04:00</begin>
-              <end>2014-07-17T09:25:26-04:00</end>
+              <begin>2014-07-17T08:17:52-05:00</begin>
+              <end>2014-07-17T08:25:26-05:00</end>
             </TimeSpan>
             <longitude>-77.0728989721</longitude>
             <latitude>38.9225653166</latitude>
@@ -1064,8 +1166,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:25:26-04:00</begin>
-              <end>2014-07-17T09:25:26-04:00</end>
+              <begin>2014-07-17T08:25:26-05:00</begin>
+              <end>2014-07-17T08:25:26-05:00</end>
             </TimeSpan>
             <longitude>-77.0728989721</longitude>
             <latitude>38.9225653166</latitude>
@@ -1081,8 +1183,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:25:26-04:00</begin>
-              <end>2014-07-17T09:30:57-04:00</end>
+              <begin>2014-07-17T08:25:26-05:00</begin>
+              <end>2014-07-17T08:30:57-05:00</end>
             </TimeSpan>
             <longitude>-77.0679795873</longitude>
             <latitude>38.9158953601</latitude>
@@ -1098,8 +1200,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:30:57-04:00</begin>
-              <end>2014-07-17T09:35:26-04:00</end>
+              <begin>2014-07-17T08:30:57-05:00</begin>
+              <end>2014-07-17T08:35:26-05:00</end>
             </TimeSpan>
             <longitude>-77.0638528785</longitude>
             <latitude>38.9083850121</latitude>
@@ -1115,8 +1217,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:35:26-04:00</begin>
-              <end>2014-07-17T09:41:01-04:00</end>
+              <begin>2014-07-17T08:35:26-05:00</begin>
+              <end>2014-07-17T08:41:01-05:00</end>
             </TimeSpan>
             <longitude>-77.0550454352</longitude>
             <latitude>38.9043044361</latitude>
@@ -1132,8 +1234,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:41:01-04:00</begin>
-              <end>2014-07-17T09:48:06-04:00</end>
+              <begin>2014-07-17T08:41:01-05:00</begin>
+              <end>2014-07-17T08:48:06-05:00</end>
             </TimeSpan>
             <longitude>-77.0455371406</longitude>
             <latitude>38.9010100939</latitude>
@@ -1149,8 +1251,8 @@
           <gx:flyToMode>smooth</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:48:06-04:00</begin>
-              <end>2014-07-17T09:53:42-04:00</end>
+              <begin>2014-07-17T08:48:06-05:00</begin>
+              <end>2014-07-17T08:53:42-05:00</end>
             </TimeSpan>
             <longitude>-77.0355444537</longitude>
             <latitude>38.9001714059</latitude>
@@ -1166,8 +1268,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:53:42-04:00</begin>
-              <end>2014-07-17T09:53:57-04:00</end>
+              <begin>2014-07-17T08:53:42-05:00</begin>
+              <end>2014-07-17T08:53:57-05:00</end>
             </TimeSpan>
             <longitude>-77.0353905827</longitude>
             <latitude>38.9000802231</latitude>
@@ -1183,8 +1285,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:53:57-04:00</begin>
-              <end>2014-07-17T09:53:57-04:00</end>
+              <begin>2014-07-17T08:53:57-05:00</begin>
+              <end>2014-07-17T08:53:57-05:00</end>
             </TimeSpan>
             <longitude>-77.0353905827</longitude>
             <latitude>38.9000802231</latitude>
@@ -1200,8 +1302,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T09:53:57-04:00</begin>
-              <end>2014-07-17T10:01:06-04:00</end>
+              <begin>2014-07-17T08:53:57-05:00</begin>
+              <end>2014-07-17T09:01:06-05:00</end>
             </TimeSpan>
             <longitude>-77.0318631558</longitude>
             <latitude>38.9001358942</latitude>
@@ -1217,7 +1319,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T10:01:06-04:00</when>
+              <when>2014-07-17T09:01:06-05:00</when>
             </TimeStamp>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1233,8 +1335,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T10:01:07-04:00</begin>
-              <end>2014-07-17T10:07:26-04:00</end>
+              <begin>2014-07-17T09:01:07-05:00</begin>
+              <end>2014-07-17T09:07:26-05:00</end>
             </TimeSpan>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1250,8 +1352,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T10:07:27-04:00</begin>
-              <end>2014-07-17T10:07:27-04:00</end>
+              <begin>2014-07-17T09:07:27-05:00</begin>
+              <end>2014-07-17T09:07:27-05:00</end>
             </TimeSpan>
             <longitude>-77.0318631558</longitude>
             <latitude>38.9001358942</latitude>
@@ -1267,8 +1369,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T10:07:27-04:00</begin>
-              <end>2014-07-17T10:09:58-04:00</end>
+              <begin>2014-07-17T09:07:27-05:00</begin>
+              <end>2014-07-17T09:09:58-05:00</end>
             </TimeSpan>
             <longitude>-77.0319278615</longitude>
             <latitude>38.8994070845</latitude>
@@ -1284,7 +1386,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T10:09:58-04:00</when>
+              <when>2014-07-17T09:09:58-05:00</when>
             </TimeStamp>
             <longitude>-77.03195312062199</longitude>
             <latitude>38.89947134437488</latitude>
@@ -1300,8 +1402,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T10:09:59-04:00</begin>
-              <end>2014-07-17T12:19:59-04:00</end>
+              <begin>2014-07-17T09:09:59-05:00</begin>
+              <end>2014-07-17T11:19:59-05:00</end>
             </TimeSpan>
             <longitude>-77.03195312062199</longitude>
             <latitude>38.89947134437488</latitude>
@@ -1317,8 +1419,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T12:20:00-04:00</begin>
-              <end>2014-07-17T12:20:00-04:00</end>
+              <begin>2014-07-17T11:20:00-05:00</begin>
+              <end>2014-07-17T11:20:00-05:00</end>
             </TimeSpan>
             <longitude>-77.0319531206</longitude>
             <latitude>38.8994713444</latitude>
@@ -1334,8 +1436,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T12:20:00-04:00</begin>
-              <end>2014-07-17T12:36:16-04:00</end>
+              <begin>2014-07-17T11:20:00-05:00</begin>
+              <end>2014-07-17T11:36:16-05:00</end>
             </TimeSpan>
             <longitude>-77.0271788507</longitude>
             <latitude>38.9008127275</latitude>
@@ -1351,7 +1453,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T12:36:16-04:00</when>
+              <when>2014-07-17T11:36:16-05:00</when>
             </TimeStamp>
             <longitude>-77.0268</longitude>
             <latitude>38.900784</latitude>
@@ -1367,8 +1469,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T12:36:17-04:00</begin>
-              <end>2014-07-17T13:33:40-04:00</end>
+              <begin>2014-07-17T11:36:17-05:00</begin>
+              <end>2014-07-17T12:33:40-05:00</end>
             </TimeSpan>
             <longitude>-77.0268</longitude>
             <latitude>38.900784</latitude>
@@ -1384,8 +1486,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T13:33:41-04:00</begin>
-              <end>2014-07-17T13:33:41-04:00</end>
+              <begin>2014-07-17T12:33:41-05:00</begin>
+              <end>2014-07-17T12:33:41-05:00</end>
             </TimeSpan>
             <longitude>-77.0271788507</longitude>
             <latitude>38.9008127275</latitude>
@@ -1401,8 +1503,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T13:33:41-04:00</begin>
-              <end>2014-07-17T13:41:56-04:00</end>
+              <begin>2014-07-17T12:33:41-05:00</begin>
+              <end>2014-07-17T12:41:56-05:00</end>
             </TimeSpan>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1418,7 +1520,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T13:41:56-04:00</when>
+              <when>2014-07-17T12:41:56-05:00</when>
             </TimeStamp>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1434,8 +1536,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T13:41:57-04:00</begin>
-              <end>2014-07-17T13:51:17-04:00</end>
+              <begin>2014-07-17T12:41:57-05:00</begin>
+              <end>2014-07-17T12:51:17-05:00</end>
             </TimeSpan>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1451,8 +1553,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T13:51:18-04:00</begin>
-              <end>2014-07-17T13:51:18-04:00</end>
+              <begin>2014-07-17T12:51:18-05:00</begin>
+              <end>2014-07-17T12:51:18-05:00</end>
             </TimeSpan>
             <longitude>-77.032106</longitude>
             <latitude>38.901567</latitude>
@@ -1468,8 +1570,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T13:51:18-04:00</begin>
-              <end>2014-07-17T14:05:45-04:00</end>
+              <begin>2014-07-17T12:51:18-05:00</begin>
+              <end>2014-07-17T13:05:45-05:00</end>
             </TimeSpan>
             <longitude>-77.0322676984</longitude>
             <latitude>38.9029549141</latitude>
@@ -1485,7 +1587,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T14:05:45-04:00</when>
+              <when>2014-07-17T13:05:45-05:00</when>
             </TimeStamp>
             <longitude>-77.03171253204346</longitude>
             <latitude>38.9028898270868</latitude>
@@ -1501,8 +1603,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T14:05:46-04:00</begin>
-              <end>2014-07-17T15:38:06-04:00</end>
+              <begin>2014-07-17T13:05:46-05:00</begin>
+              <end>2014-07-17T14:38:06-05:00</end>
             </TimeSpan>
             <longitude>-77.03171253204346</longitude>
             <latitude>38.9028898270868</latitude>
@@ -1518,8 +1620,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T15:38:07-04:00</begin>
-              <end>2014-07-17T15:38:07-04:00</end>
+              <begin>2014-07-17T14:38:07-05:00</begin>
+              <end>2014-07-17T14:38:07-05:00</end>
             </TimeSpan>
             <longitude>-77.031712532</longitude>
             <latitude>38.9028898271</latitude>
@@ -1535,8 +1637,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T15:38:07-04:00</begin>
-              <end>2014-07-17T15:44:47-04:00</end>
+              <begin>2014-07-17T14:38:07-05:00</begin>
+              <end>2014-07-17T14:44:47-05:00</end>
             </TimeSpan>
             <longitude>-77.0319531206</longitude>
             <latitude>38.8994713444</latitude>
@@ -1552,7 +1654,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T15:44:47-04:00</when>
+              <when>2014-07-17T14:44:47-05:00</when>
             </TimeStamp>
             <longitude>-77.03195312062199</longitude>
             <latitude>38.89947134437488</latitude>
@@ -1568,8 +1670,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T15:44:48-04:00</begin>
-              <end>2014-07-17T19:03:43-04:00</end>
+              <begin>2014-07-17T14:44:48-05:00</begin>
+              <end>2014-07-17T18:03:43-05:00</end>
             </TimeSpan>
             <longitude>-77.03195312062199</longitude>
             <latitude>38.89947134437488</latitude>
@@ -1585,8 +1687,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:03:44-04:00</begin>
-              <end>2014-07-17T19:03:44-04:00</end>
+              <begin>2014-07-17T18:03:44-05:00</begin>
+              <end>2014-07-17T18:03:44-05:00</end>
             </TimeSpan>
             <longitude>-77.0319531206</longitude>
             <latitude>38.8994713444</latitude>
@@ -1602,8 +1704,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:03:44-04:00</begin>
-              <end>2014-07-17T19:09:59-04:00</end>
+              <begin>2014-07-17T18:03:44-05:00</begin>
+              <end>2014-07-17T18:09:59-05:00</end>
             </TimeSpan>
             <longitude>-77.032828331</longitude>
             <latitude>38.9022051809</latitude>
@@ -1619,7 +1721,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T19:09:59-04:00</when>
+              <when>2014-07-17T18:09:59-05:00</when>
             </TimeStamp>
             <longitude>-77.03282833099365</longitude>
             <latitude>38.90220518091243</latitude>
@@ -1635,8 +1737,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:10:00-04:00</begin>
-              <end>2014-07-17T19:17:49-04:00</end>
+              <begin>2014-07-17T18:10:00-05:00</begin>
+              <end>2014-07-17T18:17:49-05:00</end>
             </TimeSpan>
             <longitude>-77.03282833099365</longitude>
             <latitude>38.90220518091243</latitude>
@@ -1652,8 +1754,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:17:50-04:00</begin>
-              <end>2014-07-17T19:17:50-04:00</end>
+              <begin>2014-07-17T18:17:50-05:00</begin>
+              <end>2014-07-17T18:17:50-05:00</end>
             </TimeSpan>
             <longitude>-77.032828331</longitude>
             <latitude>38.9022051809</latitude>
@@ -1669,8 +1771,8 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:17:50-04:00</begin>
-              <end>2014-07-17T19:21:51-04:00</end>
+              <begin>2014-07-17T18:17:50-05:00</begin>
+              <end>2014-07-17T18:21:51-05:00</end>
             </TimeSpan>
             <longitude>-77.0319362522</longitude>
             <latitude>38.9001824584</latitude>
@@ -1686,7 +1788,7 @@
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeStamp>
-              <when>2014-07-17T19:21:51-04:00</when>
+              <when>2014-07-17T18:21:51-05:00</when>
             </TimeStamp>
             <longitude>-77.03193625222163</longitude>
             <latitude>38.900182458396</latitude>
@@ -1698,15 +1800,150 @@
           </LookAt>
         </gx:FlyTo>
         <gx:FlyTo>
-          <gx:duration>5.167436501786935</gx:duration>
+          <gx:duration>5.5653211946840955</gx:duration>
           <gx:flyToMode>bounce</gx:flyToMode>
           <LookAt>
             <TimeSpan>
-              <begin>2014-07-17T19:21:52-04:00</begin>
-              <end>2014-07-17T23:59:59-04:00</end>
+              <begin>2014-07-17T18:21:52-05:00</begin>
+              <end>2014-07-17T23:44:28-05:00</end>
             </TimeSpan>
             <longitude>-77.03193625222163</longitude>
             <latitude>38.900182458396</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:44:29-05:00</begin>
+              <end>2014-07-17T23:44:29-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0319362522</longitude>
+            <latitude>38.9001824584</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1060.816118659322</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:44:29-05:00</begin>
+              <end>2014-07-17T23:49:35-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0414809235</longitude>
+            <latitude>38.9089817774</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1521.6322373186438</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:49:35-05:00</begin>
+              <end>2014-07-17T23:53:07-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0514817673</longitude>
+            <latitude>38.9128497662</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1521.6322373186438</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:53:07-05:00</begin>
+              <end>2014-07-17T23:54:27-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0614461496</longitude>
+            <latitude>38.9200352401</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1521.6322373186438</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>1.0</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:54:27-05:00</begin>
+              <end>2014-07-17T23:56:14-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0709796855</longitude>
+            <latitude>38.922716164</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1521.6322373186438</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.5</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:56:14-05:00</begin>
+              <end>2014-07-17T23:58:38-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0772744833</longitude>
+            <latitude>38.9219057145</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>1060.816118659322</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.33</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeStamp>
+              <when>2014-07-17T23:58:38-05:00</when>
+            </TimeStamp>
+            <longitude>-77.0772744833</longitude>
+            <latitude>38.9219057145</latitude>
+            <altitude>0.0</altitude>
+            <heading>0.0</heading>
+            <tilt>45.0</tilt>
+            <range>600.0</range>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo>
+          <gx:duration>0.66</gx:duration>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+            <TimeSpan>
+              <begin>2014-07-17T23:58:39-05:00</begin>
+              <end>2014-07-17T23:59:59-05:00</end>
+            </TimeSpan>
+            <longitude>-77.0772744833</longitude>
+            <latitude>38.9219057145</latitude>
             <altitude>0.0</altitude>
             <heading>0.0</heading>
             <tilt>45.0</tilt>

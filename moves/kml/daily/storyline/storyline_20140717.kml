@@ -2,6 +2,24 @@
   <Document>
     <atom:link href="http://www.moves-app.com"/>
     <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="activity_car">
+      <IconStyle>
+        <scale>0.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>dfb4b4b4</color>
+        <width>6.0</width>
+      </LineStyle>
+    </Style>
     <Style id="activity_walking">
       <IconStyle>
         <scale>0.0</scale>
@@ -172,12 +190,12 @@
     </Style>
     <Folder>
       <name><![CDATA[7/17/14]]></name>
-      <Placemark id="1405569600000">
+      <Placemark id="1405573200000">
         <name><![CDATA[Laura's Home]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 12:00 AM to 9:17 AM<br/> 9:17 hours</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:00 AM to 8:17 AM<br/> 8:17 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T00:00:01-04:00</begin>
-          <end>2014-07-17T09:17:51-04:00</end>
+          <begin>2014-07-17T00:00:01-05:00</begin>
+          <end>2014-07-17T08:17:51-05:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -186,10 +204,10 @@
       </Placemark>
       <Placemark id="1405603072000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:17 AM to 9:25 AM<br/> 7 min, 0.3 mi, 827 steps, 31 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:17 AM to 8:25 AM<br/> 7 min, 0.3 mi, 827 steps, 31 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:17:52-04:00</begin>
-          <end>2014-07-17T09:25:26-04:00</end>
+          <begin>2014-07-17T08:17:52-05:00</begin>
+          <end>2014-07-17T08:25:26-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -199,10 +217,10 @@
       </Placemark>
       <Placemark id="1405603526000">
         <name><![CDATA[Transport]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:25 AM to 9:53 AM<br/> 28 min, 3.2 mi</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:25 AM to 8:53 AM<br/> 28 min, 3.2 mi</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:25:26-04:00</begin>
-          <end>2014-07-17T09:53:57-04:00</end>
+          <begin>2014-07-17T08:25:26-05:00</begin>
+          <end>2014-07-17T08:53:57-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_transport</styleUrl>
         <LineString>
@@ -212,10 +230,10 @@
       </Placemark>
       <Placemark id="1405605237000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 9:53 AM to 10:01 AM<br/> 7 min, 0.3 mi, 599 steps, 28 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 8:53 AM to 9:01 AM<br/> 7 min, 0.3 mi, 599 steps, 28 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T09:53:57-04:00</begin>
-          <end>2014-07-17T10:01:07-04:00</end>
+          <begin>2014-07-17T08:53:57-05:00</begin>
+          <end>2014-07-17T09:01:07-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -226,10 +244,10 @@
       <Placemark id="1405605666000">
         <name><![CDATA[NTN24]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
-        <description><![CDATA[<p>7/17/14<br/> 10:01 AM to 10:07 AM<br/> 6 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:01 AM to 9:07 AM<br/> 6 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:01:07-04:00</begin>
-          <end>2014-07-17T10:07:26-04:00</end>
+          <begin>2014-07-17T09:01:07-05:00</begin>
+          <end>2014-07-17T09:07:26-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
@@ -238,10 +256,10 @@
       </Placemark>
       <Placemark id="1405606047000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 10:07 AM to 10:09 AM<br/> 2 min, 0.1 mi, 255 steps, 9 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:07 AM to 9:09 AM<br/> 2 min, 0.1 mi, 255 steps, 9 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:07:27-04:00</begin>
-          <end>2014-07-17T10:09:58-04:00</end>
+          <begin>2014-07-17T09:07:27-05:00</begin>
+          <end>2014-07-17T09:09:58-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -252,10 +270,10 @@
       <Placemark id="1405606198000">
         <name><![CDATA[Starbucks]]></name>
         <atom:link href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 10:09 AM to 12:20 PM<br/> 2:10 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 9:09 AM to 11:20 AM<br/> 2:10 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T10:09:59-04:00</begin>
-          <end>2014-07-17T12:19:59-04:00</end>
+          <begin>2014-07-17T09:09:59-05:00</begin>
+          <end>2014-07-17T11:19:59-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Coffee Shop</styleUrl>
         <Point>
@@ -264,10 +282,10 @@
       </Placemark>
       <Placemark id="1405614000000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 12:20 PM to 12:36 PM<br/> 16 min, 0.8 mi, 1,463 steps, 83 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 11:20 AM to 11:36 AM<br/> 16 min, 0.8 mi, 1,463 steps, 83 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T12:20:00-04:00</begin>
-          <end>2014-07-17T12:36:16-04:00</end>
+          <begin>2014-07-17T11:20:00-05:00</begin>
+          <end>2014-07-17T11:36:16-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -278,10 +296,10 @@
       <Placemark id="1405614976000">
         <name><![CDATA[Noodles On 11]]></name>
         <atom:link href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8"/>
-        <description><![CDATA[<p>7/17/14<br/> 12:36 PM to 1:33 PM<br/> 57 min</p> <p>Ramen / Noodle House<br/> <a href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 11:36 AM to 12:33 PM<br/> 57 min</p> <p>Ramen / Noodle House<br/> <a href="http://foursquare.com/venue/4d26254337a1b60cfd0a9db8">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T12:36:17-04:00</begin>
-          <end>2014-07-17T13:33:40-04:00</end>
+          <begin>2014-07-17T11:36:17-05:00</begin>
+          <end>2014-07-17T12:33:40-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Ramen / Noodle House</styleUrl>
         <Point>
@@ -290,10 +308,10 @@
       </Placemark>
       <Placemark id="1405618421000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 1:33 PM to 1:41 PM<br/> 8 min, 0.4 mi, 836 steps, 39 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:33 PM to 12:41 PM<br/> 8 min, 0.4 mi, 836 steps, 39 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:33:41-04:00</begin>
-          <end>2014-07-17T13:41:57-04:00</end>
+          <begin>2014-07-17T12:33:41-05:00</begin>
+          <end>2014-07-17T12:41:57-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -304,10 +322,10 @@
       <Placemark id="1405618916000">
         <name><![CDATA[NTN24]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3"/>
-        <description><![CDATA[<p>7/17/14<br/> 1:41 PM to 1:51 PM<br/> 9 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:41 PM to 12:51 PM<br/> 9 min</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b4b38b81dcfdc16568d3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:41:57-04:00</begin>
-          <end>2014-07-17T13:51:17-04:00</end>
+          <begin>2014-07-17T12:41:57-05:00</begin>
+          <end>2014-07-17T12:51:17-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
@@ -316,10 +334,10 @@
       </Placemark>
       <Placemark id="1405619478000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 1:51 PM to 2:05 PM<br/> 14 min, 0.8 mi, 1,031 steps, 81 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 12:51 PM to 1:05 PM<br/> 14 min, 0.8 mi, 1,031 steps, 81 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T13:51:18-04:00</begin>
-          <end>2014-07-17T14:05:46-04:00</end>
+          <begin>2014-07-17T12:51:18-05:00</begin>
+          <end>2014-07-17T13:05:46-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -330,10 +348,10 @@
       <Placemark id="1405620345000">
         <name><![CDATA[Hamilton Crowne Plaza]]></name>
         <atom:link href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 2:05 PM to 3:38 PM<br/> 1:32 hours</p> <p>Walking 10 min, 0.4 mi, 827 steps, 41 Cal</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 1:05 PM to 2:38 PM<br/> 1:32 hours</p> <p>Walking 10 min, 0.4 mi, 827 steps, 41 Cal</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4ad0e522f964a520d9da20e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T14:05:46-04:00</begin>
-          <end>2014-07-17T15:38:06-04:00</end>
+          <begin>2014-07-17T13:05:46-05:00</begin>
+          <end>2014-07-17T14:38:06-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Hotel</styleUrl>
         <Point>
@@ -342,10 +360,10 @@
       </Placemark>
       <Placemark id="1405625887000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 3:38 PM to 3:44 PM<br/> 6 min, 0.3 mi, 624 steps, 26 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 2:38 PM to 2:44 PM<br/> 6 min, 0.3 mi, 624 steps, 26 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T15:38:07-04:00</begin>
-          <end>2014-07-17T15:44:47-04:00</end>
+          <begin>2014-07-17T14:38:07-05:00</begin>
+          <end>2014-07-17T14:44:47-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -356,10 +374,10 @@
       <Placemark id="1405626287000">
         <name><![CDATA[Starbucks]]></name>
         <atom:link href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3"/>
-        <description><![CDATA[<p>7/17/14<br/> 3:44 PM to 7:03 PM<br/> 3:18 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 2:44 PM to 6:03 PM<br/> 3:18 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/4af5b4c8f964a520a6fb21e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T15:44:48-04:00</begin>
-          <end>2014-07-17T19:03:43-04:00</end>
+          <begin>2014-07-17T14:44:48-05:00</begin>
+          <end>2014-07-17T18:03:43-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Coffee Shop</styleUrl>
         <Point>
@@ -368,10 +386,10 @@
       </Placemark>
       <Placemark id="1405638224000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 7:03 PM to 7:09 PM<br/> 6 min, 0.3 mi, 414 steps, 28 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:03 PM to 6:09 PM<br/> 6 min, 0.3 mi, 414 steps, 28 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:03:44-04:00</begin>
-          <end>2014-07-17T19:09:59-04:00</end>
+          <begin>2014-07-17T18:03:44-05:00</begin>
+          <end>2014-07-17T18:09:59-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -382,10 +400,10 @@
       <Placemark id="1405638599000">
         <name><![CDATA[A-1 Wines & Liquors]]></name>
         <atom:link href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3"/>
-        <description><![CDATA[<p>7/17/14<br/> 7:09 PM to 7:17 PM<br/> 7 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:09 PM to 6:17 PM<br/> 7 min</p> <p>Liquor Store<br/> <a href="http://foursquare.com/venue/4b7b1b41f964a520b7512fe3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:10:00-04:00</begin>
-          <end>2014-07-17T19:17:49-04:00</end>
+          <begin>2014-07-17T18:10:00-05:00</begin>
+          <end>2014-07-17T18:17:49-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Liquor Store</styleUrl>
         <Point>
@@ -394,10 +412,10 @@
       </Placemark>
       <Placemark id="1405639070000">
         <name><![CDATA[Walking]]></name>
-        <description><![CDATA[<p>7/17/14<br/> 7:17 PM to 7:21 PM<br/> 4 min, 0.2 mi, 450 steps, 21 Cal</p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:17 PM to 6:21 PM<br/> 4 min, 0.2 mi, 450 steps, 21 Cal</p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:17:50-04:00</begin>
-          <end>2014-07-17T19:21:51-04:00</end>
+          <begin>2014-07-17T18:17:50-05:00</begin>
+          <end>2014-07-17T18:21:51-05:00</end>
         </TimeSpan>
         <styleUrl>#activity_walking</styleUrl>
         <LineString>
@@ -408,14 +426,39 @@
       <Placemark id="1405639311000">
         <name><![CDATA[NTN24-Washington, DC]]></name>
         <atom:link href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c"/>
-        <description><![CDATA[<p>7/17/14<br/> 7:21 PM to 12:00 AM<br/> 4:38 hours</p> <p>Walking 7 min, 0.2 mi, 601 steps, 25 Cal</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>7/17/14<br/> 6:21 PM to 11:44 PM<br/> 5:22 hours</p> <p>Walking 10 min, 0.3 mi, 743 steps, 32 Cal</p> <p>Office<br/> <a href="http://foursquare.com/venue/4ec5b5509a52756c53a0be9c">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-07-17T19:21:52-04:00</begin>
-          <end>2014-07-17T23:59:59-04:00</end>
+          <begin>2014-07-17T18:21:52-05:00</begin>
+          <end>2014-07-17T23:44:28-05:00</end>
         </TimeSpan>
         <styleUrl>#place_Office</styleUrl>
         <Point>
           <coordinates>-77.03193625222163,38.900182458396</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1405658669000">
+        <name><![CDATA[Car]]></name>
+        <description><![CDATA[<p>7/17/14<br/> 11:44 PM to 11:58 PM<br/> 14 min, 3.7 mi</p>]]></description>
+        <TimeSpan>
+          <begin>2014-07-17T23:44:29-05:00</begin>
+          <end>2014-07-17T23:58:37-05:00</end>
+        </TimeSpan>
+        <styleUrl>#activity_car</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>-77.0319362522,38.9001824584 -77.0327172709,38.9007447032 -77.0336406759,38.9014203783 -77.0346851766,38.9017227697 -77.0345596198,38.9035608709 -77.0345554886,38.9053313918 -77.0348314945,38.9063172505 -77.0361449109,38.9071320449 -77.0414809235,38.9089817774 -77.0427834978,38.9092587802 -77.0428276173,38.9094167562 -77.0436122636,38.9101153885 -77.0447578569,38.9100555627 -77.0448038986,38.9100576617 -77.0449788323,38.9100897997 -77.0475257731,38.9111029385 -77.0487527183,38.911487973 -77.0514817673,38.9128497662 -77.0563700357,38.9162902789 -77.0614461496,38.9200352401 -77.0640270424,38.9232902512 -77.0664966981,38.9243808517 -77.0681159834,38.9241621432 -77.069704526,38.9235271642 -77.0709796855,38.922716164 -77.0728130008,38.9225492831 -77.073234693,38.9226535468 -77.0759598109,38.9225105438 -77.0767216671,38.9222304187 -77.0772744833,38.9219057145</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="1405659518000">
+        <name><![CDATA[Laura's Home]]></name>
+        <description><![CDATA[<p>7/17/14<br/> 11:58 PM to 12:00 AM<br/> 1 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-07-17T23:58:39-05:00</begin>
+          <end>2014-07-17T23:59:59-05:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-77.0772744833,38.9219057145</coordinates>
         </Point>
       </Placemark>
     </Folder>

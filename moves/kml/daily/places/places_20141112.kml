@@ -26,6 +26,18 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="place_College Residence Hall">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="place_school">
       <IconStyle>
         <scale>1.0</scale>
@@ -98,18 +110,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="place_College Classroom">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="place_home">
       <IconStyle>
         <scale>1.0</scale>
@@ -136,12 +136,12 @@
     </Style>
     <Folder>
       <name><![CDATA[11/12/14]]></name>
-      <Placemark id="1415768400000">
+      <Placemark id="1415772000000">
         <name><![CDATA[Home]]></name>
-        <description><![CDATA[<p>11/12/14<br/> 12:00 AM to 7:43 AM<br/> 7:43 hours</p>]]></description>
+        <description><![CDATA[<p>11/12/14<br/> 12:00 AM to 6:43 AM<br/> 6:43 hours</p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T00:00:01-05:00</begin>
-          <end>2014-11-12T07:43:56-05:00</end>
+          <begin>2014-11-12T00:00:01-06:00</begin>
+          <end>2014-11-12T06:43:56-06:00</end>
         </TimeSpan>
         <styleUrl>#place_home</styleUrl>
         <Point>
@@ -151,10 +151,10 @@
       <Placemark id="1415797741000">
         <name><![CDATA[Spangler Center]]></name>
         <atom:link href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3"/>
-        <description><![CDATA[<p>11/12/14<br/> 8:09 AM to 8:56 AM<br/> 47 min</p> <p>Student Center<br/> <a href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>11/12/14<br/> 7:09 AM to 7:56 AM<br/> 47 min</p> <p>Student Center<br/> <a href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T08:09:02-05:00</begin>
-          <end>2014-11-12T08:56:34-05:00</end>
+          <begin>2014-11-12T07:09:02-06:00</begin>
+          <end>2014-11-12T07:56:34-06:00</end>
         </TimeSpan>
         <styleUrl>#place_Student Center</styleUrl>
         <Point>
@@ -164,10 +164,10 @@
       <Placemark id="1415800861000">
         <name><![CDATA[Aldrich Hall]]></name>
         <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
-        <description><![CDATA[<p>11/12/14<br/> 9:01 AM to 4:25 PM<br/> 7:24 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>11/12/14<br/> 8:01 AM to 3:25 PM<br/> 7:24 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T09:01:02-05:00</begin>
-          <end>2014-11-12T16:25:56-05:00</end>
+          <begin>2014-11-12T08:01:02-06:00</begin>
+          <end>2014-11-12T15:25:56-06:00</end>
         </TimeSpan>
         <styleUrl>#place_College Academic Building</styleUrl>
         <Point>
@@ -177,10 +177,10 @@
       <Placemark id="1415832820000">
         <name><![CDATA[Impact Hub Boston]]></name>
         <atom:link href="http://foursquare.com/venue/535ef432498eb46f6389ecf5"/>
-        <description><![CDATA[<p>11/12/14<br/> 5:53 PM to 6:52 PM<br/> 59 min</p> <p>Community Center<br/> <a href="http://foursquare.com/venue/535ef432498eb46f6389ecf5">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>11/12/14<br/> 4:53 PM to 5:52 PM<br/> 59 min</p> <p>Community Center<br/> <a href="http://foursquare.com/venue/535ef432498eb46f6389ecf5">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T17:53:41-05:00</begin>
-          <end>2014-11-12T18:52:54-05:00</end>
+          <begin>2014-11-12T16:53:41-06:00</begin>
+          <end>2014-11-12T17:52:54-06:00</end>
         </TimeSpan>
         <styleUrl>#place_Community Center</styleUrl>
         <Point>
@@ -188,53 +188,67 @@
         </Point>
       </Placemark>
       <Placemark id="1415836533000">
-        <name><![CDATA[Place in Dock Square]]></name>
-        <description><![CDATA[<p>11/12/14<br/> 6:55 PM to 7:09 PM<br/> 14 min</p>]]></description>
+        <name><![CDATA[Impact Hub Boston]]></name>
+        <atom:link href="http://foursquare.com/venue/535ef432498eb46f6389ecf5"/>
+        <description><![CDATA[<p>11/12/14<br/> 5:55 PM to 6:09 PM<br/> 14 min</p> <p>Community Center<br/> <a href="http://foursquare.com/venue/535ef432498eb46f6389ecf5">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T18:55:34-05:00</begin>
-          <end>2014-11-12T19:09:32-05:00</end>
+          <begin>2014-11-12T17:55:34-06:00</begin>
+          <end>2014-11-12T18:09:32-06:00</end>
         </TimeSpan>
-        <styleUrl>#place_unknown</styleUrl>
+        <styleUrl>#place_Community Center</styleUrl>
         <Point>
-          <coordinates>-71.0570839524,42.3555794765</coordinates>
+          <coordinates>-71.05773051318191,42.3568123867606</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1415838556000">
-        <name><![CDATA[Aldrich 007]]></name>
-        <atom:link href="http://foursquare.com/venue/4f26a4c1e4b0717a6a95ebb2"/>
-        <description><![CDATA[<p>11/12/14<br/> 7:29 PM to 8:04 PM<br/> 35 min</p> <p>College Classroom<br/> <a href="http://foursquare.com/venue/4f26a4c1e4b0717a6a95ebb2">More details (Foursquare)</a> </p>]]></description>
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>11/12/14<br/> 6:29 PM to 7:04 PM<br/> 35 min</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T19:29:17-05:00</begin>
-          <end>2014-11-12T20:04:50-05:00</end>
+          <begin>2014-11-12T18:29:17-06:00</begin>
+          <end>2014-11-12T19:04:50-06:00</end>
         </TimeSpan>
-        <styleUrl>#place_College Classroom</styleUrl>
+        <styleUrl>#place_College Academic Building</styleUrl>
         <Point>
-          <coordinates>-71.12248051490364,42.36595739324783</coordinates>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1415840986000">
-        <name><![CDATA[Place in Allston]]></name>
-        <description><![CDATA[<p>11/12/14<br/> 8:09 PM to 9:18 PM<br/> 1:09 hours</p>]]></description>
+        <name><![CDATA[Morris Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4b9530acf964a520eb9334e3"/>
+        <description><![CDATA[<p>11/12/14<br/> 7:09 PM to 8:18 PM<br/> 1:09 hours</p> <p>College Residence Hall<br/> <a href="http://foursquare.com/venue/4b9530acf964a520eb9334e3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T20:09:47-05:00</begin>
-          <end>2014-11-12T21:18:45-05:00</end>
+          <begin>2014-11-12T19:09:47-06:00</begin>
+          <end>2014-11-12T20:18:45-06:00</end>
         </TimeSpan>
-        <styleUrl>#place_unknown</styleUrl>
+        <styleUrl>#place_College Residence Hall</styleUrl>
         <Point>
-          <coordinates>-71.1240390179,42.3675664776</coordinates>
+          <coordinates>-71.12391374116594,42.36767987045432</coordinates>
         </Point>
       </Placemark>
       <Placemark id="1415846117000">
         <name><![CDATA[Border Cafe]]></name>
         <atom:link href="http://foursquare.com/venue/3fd66200f964a520bded1ee3"/>
-        <description><![CDATA[<p>11/12/14<br/> 9:35 PM to 12:00 AM<br/> 2:24 hours</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/3fd66200f964a520bded1ee3">More details (Foursquare)</a> </p>]]></description>
+        <description><![CDATA[<p>11/12/14<br/> 8:35 PM to 11:08 PM<br/> 2:33 hours</p> <p>Mexican Restaurant<br/> <a href="http://foursquare.com/venue/3fd66200f964a520bded1ee3">More details (Foursquare)</a> </p>]]></description>
         <TimeSpan>
-          <begin>2014-11-12T21:35:18-05:00</begin>
-          <end>2014-11-12T23:59:59-05:00</end>
+          <begin>2014-11-12T20:35:18-06:00</begin>
+          <end>2014-11-12T23:08:45-06:00</end>
         </TimeSpan>
         <styleUrl>#place_Mexican Restaurant</styleUrl>
         <Point>
           <coordinates>-71.120141,42.3743468</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1415856210000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>11/12/14<br/> 11:23 PM to 12:00 AM<br/> 36 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-11-12T23:23:31-06:00</begin>
+          <end>2014-11-12T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
         </Point>
       </Placemark>
     </Folder>

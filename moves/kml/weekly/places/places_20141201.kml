@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <atom:link href="http://www.moves-app.com"/>
+    <description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+    <Style id="place_Hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/travel/hotel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_school">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/school.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Technology Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Clothing Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/apparel.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Coffee Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/coffeeshop.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Sandwich Place">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/sandwiches.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_work">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_user">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_College Academic Building">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_foursquare">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Tech Startup">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/technology.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Residential Building (Apartment / Condo)">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/building/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Grocery Store">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/food_grocery.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Dessert Shop">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/food/dessert.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_unknown">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/marker_white.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_University">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Drugstore / Pharmacy">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/shops/drugstore.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_home">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://ss1.4sqi.net/img/categories/building/home.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="place_Student Center">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>https://ss1.4sqi.net/img/categories/education/default.png</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name><![CDATA[12/1/14]]></name>
+      <Placemark id="1417413600000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/1/14<br/> 12:00 AM to 6:26 AM<br/> 6:26 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T00:00:01-06:00</begin>
+          <end>2014-12-01T06:26:54-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417438099000">
+        <name><![CDATA[Place in Allston]]></name>
+        <description><![CDATA[<p>12/1/14<br/> 6:48 AM to 7:55 AM<br/> 1:06 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T06:48:20-06:00</begin>
+          <end>2014-12-01T07:55:13-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.1226927852,42.3648127837</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417442583000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/1/14<br/> 8:03 AM to 2:19 PM<br/> 6:16 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T08:03:04-06:00</begin>
+          <end>2014-12-01T14:19:11-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417465674000">
+        <name><![CDATA[Harvard Innovation Lab]]></name>
+        <atom:link href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64"/>
+        <description><![CDATA[<p>12/1/14<br/> 2:27 PM to 3:01 PM<br/> 33 min</p> <p>College Technology Building<br/> <a href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T14:27:55-06:00</begin>
+          <end>2014-12-01T15:01:17-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Technology Building</styleUrl>
+        <Point>
+          <coordinates>-71.12407621183526,42.36403242532342</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417468355000">
+        <name><![CDATA[Spangler Center]]></name>
+        <atom:link href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3"/>
+        <description><![CDATA[<p>12/1/14<br/> 3:12 PM to 3:59 PM<br/> 47 min</p> <p>Student Center<br/> <a href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T15:12:36-06:00</begin>
+          <end>2014-12-01T15:59:49-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Student Center</styleUrl>
+        <Point>
+          <coordinates>-71.12218458495514,42.36522543920124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417471384000">
+        <name><![CDATA[Batten Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4f8c1d88e4b002b90db5dda7"/>
+        <description><![CDATA[<p>12/1/14<br/> 4:03 PM to 4:59 PM<br/> 56 min</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4f8c1d88e4b002b90db5dda7">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T16:03:05-06:00</begin>
+          <end>2014-12-01T16:59:46-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12383604049683,42.3640615623146</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417476487000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/1/14<br/> 5:28 PM to 6:28 PM<br/> 1:00 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T17:28:08-06:00</begin>
+          <end>2014-12-01T18:28:48-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417480715000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/1/14<br/> 6:38 PM to 11:32 PM<br/> 4:54 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-01T18:38:36-06:00</begin>
+          <end>2014-12-01T23:32:47-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/2/14]]></name>
+      <Placemark id="1417552671000">
+        <name><![CDATA[Broadway Marketplace]]></name>
+        <atom:link href="http://foursquare.com/venue/4a661612f964a520ffc71fe3"/>
+        <description><![CDATA[<p>12/2/14<br/> 2:37 PM to 2:41 PM<br/> 3 min</p> <p>Grocery Store<br/> <a href="http://foursquare.com/venue/4a661612f964a520ffc71fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-02T14:37:52-06:00</begin>
+          <end>2014-12-02T14:41:35-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Grocery Store</styleUrl>
+        <Point>
+          <coordinates>-71.11300484548056,42.37405171427381</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417553143000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/2/14<br/> 2:45 PM to 7:14 PM<br/> 4:28 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-02T14:45:44-06:00</begin>
+          <end>2014-12-02T19:14:04-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417569566000">
+        <name><![CDATA[Bank of America ATM]]></name>
+        <description><![CDATA[<p>12/2/14<br/> 7:19 PM to 7:21 PM<br/> 2 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-02T19:19:27-06:00</begin>
+          <end>2014-12-02T19:21:33-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_work</styleUrl>
+        <Point>
+          <coordinates>-71.1067020284,42.3782437994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417569913000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/2/14<br/> 7:25 PM to 12:00 AM<br/> 4:34 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-02T19:25:14-06:00</begin>
+          <end>2014-12-02T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/3/14]]></name>
+      <Placemark id="1417586400000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/3/14<br/> 12:00 AM to 6:36 AM<br/> 6:36 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T00:00:01-06:00</begin>
+          <end>2014-12-03T06:36:22-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417611542000">
+        <name><![CDATA[Spangler Center]]></name>
+        <atom:link href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3"/>
+        <description><![CDATA[<p>12/3/14<br/> 6:59 AM to 7:56 AM<br/> 57 min</p> <p>Student Center<br/> <a href="http://foursquare.com/venue/4aeee0b0f964a52081d421e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T06:59:03-06:00</begin>
+          <end>2014-12-03T07:56:23-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Student Center</styleUrl>
+        <Point>
+          <coordinates>-71.12218458495514,42.36522543920124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417615385000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/3/14<br/> 8:03 AM to 12:20 PM<br/> 4:17 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T08:03:06-06:00</begin>
+          <end>2014-12-03T12:20:36-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417631195000">
+        <name><![CDATA[Harvard Innovation Lab]]></name>
+        <atom:link href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64"/>
+        <description><![CDATA[<p>12/3/14<br/> 12:26 PM to 2:11 PM<br/> 1:45 hours</p> <p>College Technology Building<br/> <a href="http://foursquare.com/venue/4e5d4676ae60839ea2e29e64">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T12:26:36-06:00</begin>
+          <end>2014-12-03T14:11:56-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Technology Building</styleUrl>
+        <Point>
+          <coordinates>-71.12407621183526,42.36403242532342</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417638493000">
+        <name><![CDATA[Harvard Alumni Association]]></name>
+        <atom:link href="http://foursquare.com/venue/4b5dc68df964a520026b29e3"/>
+        <description><![CDATA[<p>12/3/14<br/> 2:28 PM to 4:03 PM<br/> 1:35 hours</p> <p>University<br/> <a href="http://foursquare.com/venue/4b5dc68df964a520026b29e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T14:28:14-06:00</begin>
+          <end>2014-12-03T16:03:46-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_University</styleUrl>
+        <Point>
+          <coordinates>-71.12325225275964,42.37317592010315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417644672000">
+        <name><![CDATA[Starbucks]]></name>
+        <atom:link href="http://foursquare.com/venue/49cabb79f964a520d8581fe3"/>
+        <description><![CDATA[<p>12/3/14<br/> 4:11 PM to 9:33 PM<br/> 5:21 hours</p> <p>Coffee Shop<br/> <a href="http://foursquare.com/venue/49cabb79f964a520d8581fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T16:11:13-06:00</begin>
+          <end>2014-12-03T21:33:08-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Coffee Shop</styleUrl>
+        <Point>
+          <coordinates>-71.12017,42.374494</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417665107000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/3/14<br/> 9:51 PM to 12:00 AM<br/> 2:08 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-03T21:51:48-06:00</begin>
+          <end>2014-12-03T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/4/14]]></name>
+      <Placemark id="1417672800000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/4/14<br/> 12:00 AM to 6:33 AM<br/> 6:33 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-04T00:00:01-06:00</begin>
+          <end>2014-12-04T06:33:39-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417697690000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/4/14<br/> 6:54 AM to 3:05 PM<br/> 8:10 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-04T06:54:51-06:00</begin>
+          <end>2014-12-04T15:05:30-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417728749000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/4/14<br/> 3:32 PM to 5:19 PM<br/> 1:47 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-04T15:32:30-06:00</begin>
+          <end>2014-12-04T17:19:56-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417736474000">
+        <name><![CDATA[One Western Avenue]]></name>
+        <atom:link href="http://foursquare.com/venue/4aca3daaf964a520fcc020e3"/>
+        <description><![CDATA[<p>12/4/14<br/> 5:41 PM to 10:34 PM<br/> 4:52 hours</p> <p>Residential Building (Apartment / Condo)<br/> <a href="http://foursquare.com/venue/4aca3daaf964a520fcc020e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-04T17:41:15-06:00</begin>
+          <end>2014-12-04T22:34:10-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Residential Building (Apartment / Condo)</styleUrl>
+        <Point>
+          <coordinates>-71.11879588132827,42.36460253791613</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417755588000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/4/14<br/> 10:59 PM to 12:00 AM<br/> 1:00 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-04T22:59:49-06:00</begin>
+          <end>2014-12-04T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/5/14]]></name>
+      <Placemark id="1417759200000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/5/14<br/> 12:00 AM to 6:34 AM<br/> 6:34 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T00:00:01-06:00</begin>
+          <end>2014-12-05T06:34:18-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417784157000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/5/14<br/> 6:55 AM to 1:30 PM<br/> 6:34 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T06:55:58-06:00</begin>
+          <end>2014-12-05T13:30:42-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417809002000">
+        <name><![CDATA[Keezer's]]></name>
+        <atom:link href="http://foursquare.com/venue/4b92a900f964a520c00e34e3"/>
+        <description><![CDATA[<p>12/5/14<br/> 1:50 PM to 2:32 PM<br/> 42 min</p> <p>Clothing Store<br/> <a href="http://foursquare.com/venue/4b92a900f964a520c00e34e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T13:50:03-06:00</begin>
+          <end>2014-12-05T14:32:09-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Clothing Store</styleUrl>
+        <Point>
+          <coordinates>-71.10901415348053,42.36377617877598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417812830000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/5/14<br/> 2:53 PM to 4:50 PM<br/> 1:56 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T14:53:51-06:00</begin>
+          <end>2014-12-05T16:50:08-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417820695000">
+        <name><![CDATA[Place in Cambridgeport]]></name>
+        <description><![CDATA[<p>12/5/14<br/> 5:04 PM to 5:09 PM<br/> 4 min</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T17:04:56-06:00</begin>
+          <end>2014-12-05T17:09:53-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_unknown</styleUrl>
+        <Point>
+          <coordinates>-71.1101670964,42.3689773234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417823219000">
+        <name><![CDATA[The Westin Copley Place]]></name>
+        <atom:link href="http://foursquare.com/venue/4a772824f964a520c0e31fe3"/>
+        <description><![CDATA[<p>12/5/14<br/> 5:46 PM to 6:04 PM<br/> 17 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a772824f964a520c0e31fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T17:47:00-06:00</begin>
+          <end>2014-12-05T18:04:23-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-71.077401638031,42.34854988054275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417824389000">
+        <name><![CDATA[The Westin Copley Place]]></name>
+        <atom:link href="http://foursquare.com/venue/4a772824f964a520c0e31fe3"/>
+        <description><![CDATA[<p>12/5/14<br/> 6:06 PM to 12:00 AM<br/> 5:53 hours</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a772824f964a520c0e31fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-05T18:06:30-06:00</begin>
+          <end>2014-12-05T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-71.077401638031,42.34854988054275</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/6/14]]></name>
+      <Placemark id="1417845600000">
+        <name><![CDATA[The Westin Copley Place]]></name>
+        <atom:link href="http://foursquare.com/venue/4a772824f964a520c0e31fe3"/>
+        <description><![CDATA[<p>12/6/14<br/> 12:00 AM to 12:29 AM<br/> 29 min</p> <p>Hotel<br/> <a href="http://foursquare.com/venue/4a772824f964a520c0e31fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-06T00:00:01-06:00</begin>
+          <end>2014-12-06T00:29:53-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Hotel</styleUrl>
+        <Point>
+          <coordinates>-71.077401638031,42.34854988054275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417848352000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/6/14<br/> 12:45 AM to 10:40 AM<br/> 9:54 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-06T00:45:53-06:00</begin>
+          <end>2014-12-06T10:40:10-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417884229000">
+        <name><![CDATA[Darwin's Ltd.]]></name>
+        <atom:link href="http://foursquare.com/venue/4a1c900cf964a520507b1fe3"/>
+        <description><![CDATA[<p>12/6/14<br/> 10:43 AM to 12:06 PM<br/> 1:22 hours</p> <p>Sandwich Place<br/> <a href="http://foursquare.com/venue/4a1c900cf964a520507b1fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-06T10:43:50-06:00</begin>
+          <end>2014-12-06T12:06:30-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Sandwich Place</styleUrl>
+        <Point>
+          <coordinates>-71.109389,42.37488104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417890734000">
+        <name><![CDATA[Keezer's]]></name>
+        <atom:link href="http://foursquare.com/venue/4b92a900f964a520c00e34e3"/>
+        <description><![CDATA[<p>12/6/14<br/> 12:32 PM to 12:35 PM<br/> 3 min</p> <p>Clothing Store<br/> <a href="http://foursquare.com/venue/4b92a900f964a520c00e34e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-06T12:32:15-06:00</begin>
+          <end>2014-12-06T12:35:42-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Clothing Store</styleUrl>
+        <Point>
+          <coordinates>-71.10901415348053,42.36377617877598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417892178000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/6/14<br/> 12:56 PM to 11:38 PM<br/> 10:42 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-06T12:56:19-06:00</begin>
+          <end>2014-12-06T23:38:28-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[12/7/14]]></name>
+      <Placemark id="1417932306000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/7/14<br/> 12:05 AM to 9:07 AM<br/> 9:02 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T00:05:07-06:00</begin>
+          <end>2014-12-07T09:07:25-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417965564000">
+        <name><![CDATA[Finale Desserterie & Bakery]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac67e58f964a520a7b420e3"/>
+        <description><![CDATA[<p>12/7/14<br/> 9:19 AM to 10:42 AM<br/> 1:22 hours</p> <p>Dessert Shop<br/> <a href="http://foursquare.com/venue/4ac67e58f964a520a7b420e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T09:19:25-06:00</begin>
+          <end>2014-12-07T10:42:13-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Dessert Shop</styleUrl>
+        <Point>
+          <coordinates>-71.119179,42.37233336999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417970823000">
+        <name><![CDATA[Xfund]]></name>
+        <atom:link href="http://foursquare.com/venue/525e96dd11d27846ee214ac8"/>
+        <description><![CDATA[<p>12/7/14<br/> 10:47 AM to 11:02 AM<br/> 14 min</p> <p>Tech Startup<br/> <a href="http://foursquare.com/venue/525e96dd11d27846ee214ac8">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T10:47:04-06:00</begin>
+          <end>2014-12-07T11:02:01-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Tech Startup</styleUrl>
+        <Point>
+          <coordinates>-71.12017109498916,42.37343863629133</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417973153000">
+        <name><![CDATA[Aldrich Hall]]></name>
+        <atom:link href="http://foursquare.com/venue/4ac64359f964a5206eb320e3"/>
+        <description><![CDATA[<p>12/7/14<br/> 11:25 AM to 2:30 PM<br/> 3:04 hours</p> <p>College Academic Building<br/> <a href="http://foursquare.com/venue/4ac64359f964a5206eb320e3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T11:25:54-06:00</begin>
+          <end>2014-12-07T14:30:27-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_College Academic Building</styleUrl>
+        <Point>
+          <coordinates>-71.12210915179602,42.36578780710847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417985539000">
+        <name><![CDATA[CVS/pharmacy]]></name>
+        <atom:link href="http://foursquare.com/venue/49df6a3ff964a520c6601fe3"/>
+        <description><![CDATA[<p>12/7/14<br/> 2:52 PM to 2:55 PM<br/> 3 min</p> <p>Drugstore / Pharmacy<br/> <a href="http://foursquare.com/venue/49df6a3ff964a520c6601fe3">More details (Foursquare)</a> </p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T14:52:20-06:00</begin>
+          <end>2014-12-07T14:55:26-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_Drugstore / Pharmacy</styleUrl>
+        <Point>
+          <coordinates>-71.11899197101593,42.37402935435937</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="1417986322000">
+        <name><![CDATA[Home]]></name>
+        <description><![CDATA[<p>12/7/14<br/> 3:05 PM to 12:00 AM<br/> 8:54 hours</p>]]></description>
+        <TimeSpan>
+          <begin>2014-12-07T15:05:23-06:00</begin>
+          <end>2014-12-07T23:59:59-06:00</end>
+        </TimeSpan>
+        <styleUrl>#place_home</styleUrl>
+        <Point>
+          <coordinates>-71.1114458017,42.3754311174</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
